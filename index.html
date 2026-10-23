@@ -834,11 +834,11 @@ function showFinal(){
   setMode("final");anim=null;$("stamp").innerHTML="";$("meter").hidden=true;
   $("fTotal").textContent=total();$("fDate").textContent="JORNADA #"+JORNADA+" · "+dayKey().split("-").reverse().join("/");
   $("rows").innerHTML="";
-  shots.forEach((s,i)=>{const c=CATS[s.cat],gods=CONSIGNAS[i].r.filter(r=>r[0]==="G").map(r=>r[1]).join(" · ");
+  shots.forEach((s,i)=>{const c=CATS[s.cat];
     const row=document.createElement("div");row.className="row";
-    row.innerHTML=`<div><div class="q2"></div><div class="a"></div><div class="g"></div></div><span class="chip" style="background:${c.color}">${c.name}</span><span class="p">${c.pts}</span>`;
+    row.innerHTML=`<div><div class="q2"></div><div class="a"></div></div><span class="chip" style="background:${c.color}">${c.name}</span><span class="p">${c.pts}</span>`;
     row.querySelector(".q2").textContent=`${i+1}. ${CONSIGNAS[i].q}`;row.querySelector(".a").textContent=s.name||"— pifia —";
-    row.querySelector(".g").textContent="Dios: "+gods;$("rows").appendChild(row);});
+    $("rows").appendChild(row);});
 }
 function tick(){let s=secsToChileMidnight();
   const h=String(Math.floor(s/3600)).padStart(2,"0");s%=3600;$("cd").textContent=`${h}:${String(Math.floor(s/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;}
