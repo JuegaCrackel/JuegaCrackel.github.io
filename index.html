@@ -234,7 +234,7 @@ body.game .fade{opacity:0}
   </div>
   <div class="ifoot">
     <button class="big" id="play">▶ SALIR A LA CANCHA ◀</button>
-    <div class="meta"><span id="jornada">JORNADA #1</span><button class="snd" type="button">♪ ON</button><span>CONSIGNAS DE PRUEBA</span></div>
+    <div class="meta"><span id="jornada">JORNADA #1</span><button class="snd" type="button">♪ ON</button><span id="jtag">CONSIGNAS DE PRUEBA</span></div>
   </div>
 </section>
 
@@ -285,54 +285,8 @@ const CATS = {
   P:{name:"PIFIA",   pts:0,   color:"#ff4f9a", big:"¡PIFIA!"}
 };
 // Consignas de prueba. Cada respuesta: [categoría, nombre oficial, ...apodos]
-const CONSIGNAS = [
-  {q:"Jugadores que hayan ganado el Mundial y el Balón de Oro", r:[
-    ["H","Lionel Messi","leo messi","lio messi"],
-    ["T","Zinedine Zidane","zizou"],["T","Ronaldo Nazário","ronaldo","r9","el fenomeno"],["T","Ronaldinho","dinho"],["T","Kaká","ricardo kaka"],
-    ["C","Rivaldo"],["C","Fabio Cannavaro"],["C","Franz Beckenbauer","kaiser","el kaiser"],
-    ["D","Lothar Matthäus","matheus","mateus"],["D","Gerd Müller"],
-    ["G","Paolo Rossi","pablito"],["G","Bobby Charlton"]]},
-  {q:"Chilenos que hayan jugado en la Premier League", r:[
-    ["H","Alexis Sánchez","alexis","nino maravilla"],
-    ["T","Claudio Bravo"],["T","Gary Medel","pitbull"],
-    ["C","Mauricio Isla","huaso isla"],["C","Ben Brereton Díaz","brereton","ben brereton"],["C","Mark González"],
-    ["D","Jean Beausejour"],["D","Gonzalo Jara"],["D","Francisco Sierralta"],
-    ["G","Javier Margas"]]},
-  {q:"Jugadores que hayan jugado en el Real Madrid y en el Barcelona", r:[
-    ["H","Luis Figo"],
-    ["T","Ronaldo Nazário","ronaldo","r9"],["T","Michael Laudrup"],["T","Luis Enrique","lucho"],
-    ["C","Bernd Schuster"],["C","Javier Saviola","conejo saviola"],["C","Gheorghe Hagi"],
-    ["D","Robert Prosinečki"],["D","Albert Celades"],["D","Alfonso Pérez"],
-    ["G","Ricardo Zamora"],["G","Josep Samitier"]]},
-  {q:"Arqueros que hayan hecho un gol oficial", r:[
-    ["H","Rogério Ceni"],["H","José Luis Chilavert","chilavert"],
-    ["T","René Higuita"],["T","Jorge Campos"],["T","Hans-Jörg Butt"],
-    ["C","Alisson Becker","alisson"],["C","Peter Schmeichel"],
-    ["D","Tim Howard"],["D","Paul Robinson"],["D","Asmir Begović"],
-    ["G","Jimmy Glass"],["G","Ivan Provedel"]]},
-  {q:"Clubes que hayan ganado la Champions League (o Copa de Europa)", equipo:true, r:[
-    ["H","Real Madrid","madrid"],["H","Barcelona","barca","fc barcelona"],
-    ["T","Bayern Múnich","bayern","bayern munchen"],["T","Liverpool"],["T","Milan","ac milan"],["T","Manchester United","man united","united"],
-    ["C","Inter de Milán","inter","inter milan"],["C","Juventus","juve"],["C","Ajax"],["C","Chelsea"],
-    ["C","Manchester City","city","man city"],["C","Porto","fc porto"],["C","Benfica"],["C","PSG","paris saint germain"],
-    ["D","Nottingham Forest"],["D","Borussia Dortmund","dortmund"],["D","Celtic"],["D","Hamburgo","hamburgo sv","hamburg"],
-    ["D","Aston Villa"],["D","Marsella","olympique de marsella","marseille"],["D","PSV","psv eindhoven"],["D","Feyenoord"],
-    ["G","Steaua Bucarest","steaua"],["G","Estrella Roja","estrella roja de belgrado","crvena zvezda","red star"]]},
-  {q:"Jugadores que hayan hecho un gol en una final de Mundial", r:[
-    ["H","Kylian Mbappé"],["H","Lionel Messi","leo messi"],
-    ["T","Zinedine Zidane","zizou"],["T","Pelé"],["T","Ronaldo Nazário","ronaldo","r9"],["T","Andrés Iniesta"],
-    ["C","Mario Götze","goetze"],["C","Ángel Di María","di maria","fideo"],["C","Paul Pogba"],["C","Marco Materazzi"],
-    ["C","Antoine Griezmann"],["C","Gerd Müller"],["C","Mario Kempes"],
-    ["D","Geoff Hurst"],["D","Paolo Rossi"],["D","Marco Tardelli"],["D","Andreas Brehme"],["D","Mario Mandžukić"],
-    ["D","Ivan Perišić"],["D","Emmanuel Petit"],["D","Jorge Burruchaga"],["D","Paul Breitner"],["D","Vavá"],["D","Jorge Valdano"],
-    ["G","Alessandro Altobelli"],["G","Roberto Boninsegna"]]},
-  {q:"Jugadores que hayan jugado en el Inter y en el Milan", r:[
-    ["H","Zlatan Ibrahimović","zlatan","ibra"],["H","Ronaldo Nazário","ronaldo","r9"],
-    ["T","Andrea Pirlo"],["T","Clarence Seedorf"],["T","Christian Vieri","bobo vieri"],["T","Hernán Crespo"],["T","Hakan Çalhanoğlu"],
-    ["C","Roberto Baggio"],["C","Mario Balotelli"],["C","Giuseppe Meazza"],["C","Edgar Davids"],["C","Antonio Cassano"],
-    ["D","Dario Šimić"],["D","Andrés Guglielminpietro","guly"],["D","Thomas Helveg"],["D","Francesco Coco"],
-    ["G","Ümit Davala"],["G","Giuseppe Favalli"]]}
-];
+// Consignas de respaldo: solo se usan si no se puede cargar consignas.json
+let CONSIGNAS = [{"id":"balon_oro","q":"Jugadores que hayan ganado el Balón de Oro","r":[["H","Lionel Messi","leo messi","lio messi"],["H","Cristiano Ronaldo","cristiano","cr7"],["T","Zinedine Zidane","zizou"],["T","Ronaldo Nazário","ronaldo","r9","el fenomeno"],["T","Ronaldinho","dinho"],["T","Kaká","ricardo kaka"],["T","Luka Modrić"],["T","Karim Benzema"],["T","Johan Cruyff","cruijff"],["T","Michel Platini"],["T","Marco van Basten"],["T","Rodri","rodrigo hernandez"],["T","Ousmane Dembélé"],["C","Fabio Cannavaro"],["C","Pavel Nedvěd"],["C","Andriy Shevchenko","sheva"],["C","Luís Figo"],["C","Michael Owen"],["C","Rivaldo"],["C","Franz Beckenbauer","kaiser","el kaiser"],["C","Alfredo Di Stéfano"],["C","Gerd Müller"],["C","George Weah"],["C","Ruud Gullit"],["C","Eusébio"],["C","Lothar Matthäus","matheus"],["C","Roberto Baggio"],["C","Hristo Stoichkov"],["C","George Best"],["C","Karl-Heinz Rummenigge"],["C","Kevin Keegan"],["C","Paolo Rossi","pablito"],["C","Bobby Charlton"],["C","Lev Yashin","araña negra"],["D","Jean-Pierre Papin"],["D","Matthias Sammer"],["D","Igor Belanov"],["D","Oleg Blokhin"],["D","Denis Law"],["D","Omar Sívori"],["D","Raymond Kopa"],["D","Luis Suárez Miramontes","luis suarez"],["D","Josef Masopust"],["D","Stanley Matthews"],["D","Gianni Rivera"],["G","Flórián Albert"],["G","Allan Simonsen"]]},{"id":"libertadores","q":"Clubes que hayan ganado la Copa Libertadores","r":[["H","Boca Juniors","boca"],["H","River Plate","river"],["T","Independiente","independiente de avellaneda"],["T","Peñarol"],["T","Flamengo"],["T","Palmeiras"],["T","São Paulo"],["T","Santos"],["T","Nacional","nacional de montevideo","club nacional"],["T","Estudiantes","estudiantes de la plata"],["T","Grêmio"],["C","Colo-Colo","colo colo","colocolo"],["C","Olimpia"],["C","Cruzeiro"],["C","Atlético Nacional","nacional de medellin"],["C","Internacional","inter de porto alegre"],["C","Corinthians"],["C","Vélez Sarsfield","velez"],["C","Racing Club","racing"],["C","San Lorenzo"],["C","Atlético Mineiro","atletico mg"],["C","Fluminense"],["C","Botafogo"],["D","LDU Quito","liga de quito","ldu"],["D","Vasco da Gama","vasco"],["G","Once Caldas"],["G","Argentinos Juniors"]],"equipo":true},{"id":"campeones_argentina","q":"Jugadores que hayan sido campeones del mundo con Argentina","r":[["H","Lionel Messi","leo messi","lio messi"],["H","Diego Maradona","maradona","el diego","pelusa"],["T","Mario Kempes","matador kempes"],["T","Ángel Di María","di maria","fideo"],["T","Emiliano Martínez","dibu martinez","dibu"],["T","Julián Álvarez","julian alvarez","araña"],["T","Jorge Valdano"],["T","Daniel Passarella"],["T","Rodrigo De Paul"],["T","Enzo Fernández","enzo"],["T","Alexis Mac Allister"],["T","Lautaro Martínez","lautaro"],["T","Nicolás Otamendi"],["T","Paulo Dybala"],["T","Cristian Romero","cuti romero","cuti"],["T","Jorge Burruchaga"],["T","Oscar Ruggeri"],["T","Ubaldo Fillol","pato fillol"],["C","Nery Pumpido"],["C","José Luis Brown","tata brown"],["C","Leandro Paredes"],["C","Nahuel Molina"],["C","Lisandro Martínez","licha martinez"],["C","Nicolás Tagliafico"],["C","Gonzalo Montiel"],["C","Alberto Tarantini"],["C","Leopoldo Luque"],["C","Osvaldo Ardiles"],["C","Daniel Bertoni"],["C","Américo Gallego"],["C","Héctor Enrique"],["C","Ricardo Giusti"],["C","Sergio Batista","checho batista"],["C","Julio Olarticoechea"],["C","Marcos Acuña"],["C","Germán Pezzella"],["C","Guido Rodríguez"],["C","Exequiel Palacios"],["C","Alejandro Gómez","papu gomez","papu"],["C","Ángel Correa"],["C","Thiago Almada"],["C","Juan Foyth"],["C","Franco Armani"],["C","Gerónimo Rulli"],["C","René Houseman"],["C","Norberto Alonso","beto alonso"],["C","Ricardo Bochini","bocha"],["C","Claudio Borghi"],["C","Ricardo Villa"],["D","Luis Galván"],["D","Jorge Olguín"],["D","Omar Larrosa"],["D","Héctor Baley"],["D","Daniel Killer"],["D","Oscar Ortiz"],["D","Miguel Oviedo"],["D","Rubén Galván"],["D","José Daniel Valencia"],["D","Ricardo La Volpe"],["D","Sergio Almirón"],["D","José Luis Cuciuffo"],["D","Oscar Garré"],["D","Néstor Clausen"],["D","Luis Islas"],["D","Pedro Pasculli"],["D","Carlos Tapia"],["D","Marcelo Trobbiani"],["G","Rubén Pagnanini"],["G","Héctor Zelada"]]},{"id":"madrid_barca","q":"Jugadores que hayan jugado en el Real Madrid y en el Barcelona","r":[["H","Luís Figo"],["H","Ronaldo Nazário","ronaldo","r9"],["T","Michael Laudrup"],["T","Luis Enrique","lucho"],["T","Samuel Eto'o"],["T","Javier Saviola","conejo saviola"],["T","Gheorghe Hagi"],["T","Bernd Schuster"],["C","Ricardo Zamora"],["C","Josep Samitier"],["C","Robert Prosinečki"],["C","Julen Lopetegui"],["C","Albert Celades"],["C","Alfonso Pérez"],["C","Marcos Alonso"],["C","Luis Milla"],["D","Dani García Lara","dani garcia"],["D","Nando Muñoz"],["D","Miquel Soler"],["D","Evaristo de Macedo","evaristo"],["D","Chus Pereda","jesus pereda"],["D","Lucien Müller"],["D","Justo Tejada"],["D","Fernand Goyvaerts"],["D","Amador Lorenzo"],["D","Hilario Marrero","hilario"],["D","Josep Canal"],["D","Joaquín Navarro"],["D","Alfonso Navarro"],["D","Arsenio Comamala"],["D","Charles Wallace"],["D","Enrique Normand"],["D","Walter Rositzky"],["G","Alfonso Albéniz"],["G","José Quirante"]]},{"id":"selecciones_mundial","q":"Selecciones que hayan jugado un Mundial","r":[["H","Brasil"],["H","Argentina"],["T","Alemania","alemania federal","alemania occidental"],["T","Italia"],["T","Francia"],["T","España"],["T","Inglaterra"],["T","Uruguay"],["T","Países Bajos","holanda"],["T","México"],["T","Portugal"],["T","Bélgica"],["T","Croacia"],["T","Estados Unidos","eeuu","usa"],["T","Chile"],["T","Colombia"],["T","Japón"],["T","Corea del Sur","corea"],["T","Marruecos"],["T","Suiza"],["T","Suecia"],["T","Dinamarca"],["T","Polonia"],["T","Paraguay"],["T","Perú"],["T","Ecuador"],["T","Camerún"],["T","Nigeria"],["T","Senegal"],["T","Ghana"],["T","Costa Rica"],["T","Australia"],["T","Arabia Saudita","arabia"],["T","Irán"],["T","Qatar","catar"],["T","Serbia","serbia y montenegro"],["T","Rusia"],["T","Túnez"],["T","Egipto"],["T","Argelia"],["T","Canadá"],["C","Austria"],["C","Escocia"],["C","Gales"],["C","Irlanda","republica de irlanda"],["C","Irlanda del Norte"],["C","Noruega"],["C","Grecia"],["C","Turquía"],["C","Rumania","rumania"],["C","Bulgaria"],["C","Hungría"],["C","República Checa","chequia"],["C","Eslovaquia"],["C","Eslovenia"],["C","Bosnia y Herzegovina","bosnia"],["C","Ucrania"],["C","Islandia"],["C","Costa de Marfil"],["C","Sudáfrica"],["C","Bolivia"],["C","Honduras"],["C","Panamá"],["C","Jamaica"],["C","Uzbekistán"],["C","Jordania"],["C","Cabo Verde"],["C","Curazao","curacao"],["C","Nueva Zelanda"],["C","China"],["C","Unión Soviética","urss","union sovietica"],["C","Yugoslavia"],["C","Checoslovaquia"],["D","Haití"],["D","Corea del Norte"],["D","Irak"],["D","Emiratos Árabes Unidos","emiratos"],["D","Kuwait"],["D","Angola"],["D","Togo"],["D","Trinidad y Tobago","trinidad"],["D","El Salvador"],["D","Israel"],["D","RD del Congo","republica democratica del congo","congo","zaire"],["D","Alemania Oriental","alemania democratica","rda"],["G","Cuba"],["G","Indonesia","indias orientales neerlandesas","indias holandesas"]],"equipo":true},{"id":"gol_final_mundial","q":"Jugadores que hayan hecho un gol en una final de Mundial","r":[["H","Lionel Messi","leo messi"],["H","Kylian Mbappé"],["T","Zinedine Zidane","zizou"],["T","Pelé"],["T","Ronaldo Nazário","ronaldo","r9"],["T","Andrés Iniesta"],["T","Mario Götze","goetze"],["T","Ángel Di María","di maria","fideo"],["T","Ferran Torres","ferran","torres"],["T","Paul Pogba"],["T","Antoine Griezmann"],["T","Marco Materazzi"],["C","Mario Kempes"],["C","Gerd Müller"],["C","Paolo Rossi"],["C","Geoff Hurst"],["C","Paul Breitner"],["C","Andreas Brehme"],["C","Ferenc Puskás"],["C","Alcides Ghiggia"],["C","Juan Alberto Schiaffino","pepe schiaffino"],["C","Vavá"],["C","Jairzinho"],["C","Carlos Alberto Torres","carlos alberto"],["C","Emmanuel Petit"],["C","Mario Mandžukić"],["C","Ivan Perišić"],["C","Karl-Heinz Rummenigge"],["C","Rudi Völler"],["C","Jorge Burruchaga"],["C","Jorge Valdano"],["C","Marco Tardelli"],["C","Johan Neeskens"],["C","Helmut Rahn"],["D","Gérson"],["D","Mário Zagallo","zagallo"],["D","Amarildo"],["D","Zito"],["D","Josef Masopust"],["D","Roberto Boninsegna"],["D","Alessandro Altobelli"],["D","Daniel Bertoni"],["D","José Luis Brown","tata brown"],["D","Martin Peters"],["D","Helmut Haller"],["D","Wolfgang Weber"],["D","Nils Liedholm"],["D","Max Morlock"],["D","Zoltán Czibor"],["D","Silvio Piola"],["D","György Sárosi"],["D","Guillermo Stábile"],["D","Héctor Castro"],["D","Pedro Cea"],["D","Dirk Nanninga"],["D","Friaça"],["D","Agne Simonsson"],["D","Raimundo Orsi"],["D","Gino Colaussi"],["D","Angelo Schiavio"],["D","Carlos Peucelle"],["D","Santos Iriarte"],["D","Pablo Dorado"],["G","Antonín Puč"],["G","Pál Titkos"]]},{"id":"chilenos_inglaterra","q":"Chilenos que hayan jugado en la primera división de Inglaterra (Premier League o la antigua First Division)","r":[["H","Alexis Sánchez","alexis","nino maravilla"],["T","Claudio Bravo"],["T","Gary Medel","pitbull"],["C","Mauricio Isla","huaso isla"],["C","Eduardo Vargas","turboman"],["C","Ben Brereton Díaz","brereton","ben brereton"],["C","Mark González"],["C","David Pizarro"],["C","Jean Beausejour"],["C","Gonzalo Jara"],["D","Javier Margas"],["D","Clarence Acuña"],["D","Carlos Villanueva"],["D","Luis Jiménez"],["D","Ángelo Henríquez"],["D","Francisco Sierralta"],["G","Jorge Robledo","george robledo"],["G","Eduardo Robledo","ted robledo"]]}];
 
 /* =================== VALIDACIÓN =================== */
 const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g," ").replace(/\s+/g," ").trim();
@@ -341,8 +295,12 @@ function lev(a,b){const n=b.length;let p=Array.from({length:n+1},(_,j)=>j);
 function buildIndex(c){
   const keys=[],sur={},last=r=>{const w=norm(r[1]).split(" ");return w.length>1?w[w.length-1]:null;};
   if(!c.equipo)c.r.forEach(r=>{const s=last(r);if(s)sur[s]=(sur[s]||0)+1;});
+  const full=new Set();c.r.forEach(r=>r.slice(1).forEach(k=>full.add(norm(k).replace(/ /g,""))));
   c.r.forEach((r,i)=>{const add=k=>{k=norm(k).replace(/ /g,"");if(k)keys.push([k,i]);};
-    r.slice(1).forEach(add);const s=!c.equipo&&last(r);if(s&&s.length>=4&&sur[s]===1)add(s);});
+    // el apellido solo vale si no se repite y no es el nombre de otra respuesta
+    r.slice(1).forEach(add);const s=!c.equipo&&last(r);if(s&&s.length>=4&&sur[s]===1&&!full.has(s))add(s);
+    // apellidos compuestos: "di stefano", "van basten", "de paul", "la volpe"
+    const w=norm(r[1]).split(" ");if(!c.equipo&&w.length>=3&&["di","de","van","der","del","da","mac","la","von","dos"].includes(w[w.length-2]))add(w.slice(-2).join(""));});
   c.keys=keys;
 }
 CONSIGNAS.forEach(buildIndex);
@@ -355,7 +313,23 @@ function findAnswer(c,input){
 }
 
 /* =================== GUARDADO =================== */
-const dayKey=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");};
+// El día cambia a medianoche de Chile para todos los jugadores
+const TZ="America/Santiago";
+const dayKey=()=>new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+function secsToChileMidnight(){const p=Object.fromEntries(new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",second:"2-digit",hourCycle:"h23"}).formatToParts(new Date()).map(x=>[x.type,x.value]));
+  return 86400-((+p.hour)*3600+(+p.minute)*60+(+p.second));}
+let JORNADA=1,bankReady=null;
+function loadBank(){
+  if(bankReady)return bankReady;
+  bankReady=fetch("consignas.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();}).then(b=>{
+    const per=b.porDia||7,days=Math.floor(b.consignas.length/per);
+    const [y,m,d]=dayKey().split("-").map(Number),[y0,m0,d0]=b.inicio.split("-").map(Number);
+    const n=Math.max(0,Math.round((Date.UTC(y,m-1,d)-Date.UTC(y0,m0-1,d0))/86400000));
+    const di=n%days;CONSIGNAS=b.consignas.slice(di*per,di*per+per);CONSIGNAS.forEach(buildIndex);JORNADA=n+1;
+    $("jornada").textContent="JORNADA #"+JORNADA;$("jtag").textContent=dayKey().split("-").reverse().join("/");
+  }).catch(()=>{ /* sin archivo: quedan las consignas de respaldo */ });
+  return bankReady;
+}
 const SKEY=()=>"crackel:"+dayKey();
 function load(){try{return JSON.parse(localStorage.getItem(SKEY()))||null;}catch(e){return null;}}
 function save(){try{localStorage.setItem(SKEY(),JSON.stringify({shots}));}catch(e){}}
@@ -821,13 +795,14 @@ $("form").addEventListener("submit",e=>{
 $("next").addEventListener("click",()=>{if(!waitingNext)return;idx++;if(idx>=7)showFinal();else startConsigna();});
 document.querySelectorAll(".snd").forEach(b=>b.addEventListener("click",()=>{SND.init();SND.toggle();syncSndBtns();}));
 syncSndBtns();
-$("play").addEventListener("click",()=>{SND.init();
+$("play").addEventListener("click",async()=>{SND.init();
+  await loadBank();
   if(shots.length>=7){showFinal();return;}
   setMode("game");idx=shots.length;startConsigna();
 });
 function showFinal(){
   setMode("final");anim=null;$("stamp").innerHTML="";$("meter").hidden=true;
-  $("fTotal").textContent=total();$("fDate").textContent=dayKey().split("-").reverse().join("/");
+  $("fTotal").textContent=total();$("fDate").textContent="JORNADA #"+JORNADA+" · "+dayKey().split("-").reverse().join("/");
   $("rows").innerHTML="";
   shots.forEach((s,i)=>{const c=CATS[s.cat],gods=CONSIGNAS[i].r.filter(r=>r[0]==="G").map(r=>r[1]).join(" · ");
     const row=document.createElement("div");row.className="row";
@@ -835,7 +810,7 @@ function showFinal(){
     row.querySelector(".q2").textContent=`${i+1}. ${CONSIGNAS[i].q}`;row.querySelector(".a").textContent=s.name||"— pifia —";
     row.querySelector(".g").textContent="Dios: "+gods;$("rows").appendChild(row);});
 }
-function tick(){const n=new Date(),m=new Date(n);m.setHours(24,0,0,0);let s=Math.floor((m-n)/1000);
+function tick(){let s=secsToChileMidnight();
   const h=String(Math.floor(s/3600)).padStart(2,"0");s%=3600;$("cd").textContent=`${h}:${String(Math.floor(s/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;}
 setInterval(tick,1000);tick();
 $("reset").addEventListener("click",()=>{clearSave();shots=[];idx=0;anim=null;$("play").textContent="▶ SALIR A LA CANCHA ◀";setMode("intro");});
@@ -846,6 +821,7 @@ const LEG={H:"la más obvia",T:"conocida",C:"de los que saben",D:"muy rara",G:"c
 $("legend").innerHTML=["H","T","C","D","G"].map(k=>`<div class="cat" style="border-color:${CATS[k].color}"><b style="color:${CATS[k].color}">${CATS[k].name}</b><span>+${CATS[k].pts}</span><em>${LEG[k]}</em></div>`).join("");
 drawPips();
 resize();lastW=innerWidth;camX=introX();camY=introY();
+loadBank();
 const saved=load();
 if(saved&&saved.shots){shots=saved.shots;if(shots.length>=7)$("play").textContent="▶ VER MI RESULTADO ◀";}
 requestAnimationFrame(loop);
