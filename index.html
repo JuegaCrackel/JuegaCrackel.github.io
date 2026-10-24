@@ -807,7 +807,7 @@ async function askAI(c,val,inp){
   inp.disabled=true;$("kick").disabled=true;$("fb").classList.add("checking");$("fb").textContent="⟳ REVISANDO…";
   const slow=setTimeout(()=>{if(revisando)$("fb").textContent="⟳ VERIFICANDO DATOS…";},2500);
   let res=null,err=false;
-  try{const r=await fetch(API_URL,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({consignaId:c.id,respuesta:val}),signal:AbortSignal.timeout(45000)});
+  try{const r=await fetch(API_URL,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({consignaId:c.id,respuesta:val}),signal:AbortSignal.timeout(30000)});
     res=await r.json();if(!r.ok)err=true;}catch(e){err=true;}
   revisando=false;clearTimeout(slow);
   if(!err&&res&&res.valida&&CATS[res.categoria]){
