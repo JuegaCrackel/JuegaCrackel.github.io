@@ -202,9 +202,12 @@ body.game .fade{opacity:0}
 .tot{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 .tot .num{font-family:var(--title);font-size:clamp(44px,10vw,76px);color:var(--cream);text-shadow:-.06em 0 var(--pink),.06em 0 var(--cyan)}
 .tot .of{font-family:var(--label);font-size:14px;letter-spacing:.2em;color:var(--muted)}
-.avg{display:flex;justify-content:space-between;align-items:center;gap:12px;border:2px solid var(--line);padding:12px 14px}
+.avghead{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.avg{display:flex;flex-direction:column;gap:6px;border:2px solid var(--line);padding:12px 14px}
 .avg small{font-family:var(--label);font-size:11px;letter-spacing:.2em;color:var(--muted);display:block}
-.avg .v{font-family:var(--title);font-size:22px;color:var(--muted)}
+.avg .v{font-family:var(--title);font-size:22px;color:var(--cream);font-variant-numeric:tabular-nums;white-space:nowrap}
+.avgtxt{display:block;font-size:19px;color:var(--muted);line-height:1.1;margin-top:3px}
+.avgtxt b{font-weight:400;color:var(--lime)}.avgtxt b.down{color:var(--pink)}
 .rows{display:flex;flex-direction:column;gap:6px}
 .row{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:12px;align-items:center;border-bottom:2px solid var(--navy2);padding:6px 0 8px}
 .row .q2{font-size:17px;color:var(--muted);line-height:1.05}
@@ -272,7 +275,7 @@ body.game .fade{opacity:0}
   <div class="panel">
     <p class="ph">PITAZO FINAL · <span id="fDate"></span></p>
     <div class="tot"><span class="num" id="fTotal">0</span><span class="of">/ 700 PTS</span></div>
-    <div class="avg"><div><small>PROMEDIO DEL DÍA</small><span class="muted" style="font-size:18px;color:var(--muted)">Se activa cuando conectemos la base de datos.</span></div><span class="v">—</span></div>
+    <div class="avg"><div class="avghead"><small>PROMEDIO DEL DÍA</small><span class="v" id="avgV">—</span></div><span class="avgtxt" id="avgTxt">Calculando…</span></div>
     <div class="rows" id="rows"></div>
     <div class="foot"><span>NUEVAS CONSIGNAS EN <b id="cd"></b></span><button class="ghost" id="reset">BORRAR PARTIDA DE HOY (PRUEBA)</button></div>
   </div>
@@ -839,6 +842,27 @@ function showFinal(){
     row.innerHTML=`<div><div class="q2"></div><div class="a"></div></div><span class="chip" style="background:${c.color}">${c.name}</span><span class="p">${c.pts}</span>`;
     row.querySelector(".q2").textContent=`${i+1}. ${CONSIGNAS[i].q}`;row.querySelector(".a").textContent=s.name||"— pifia —";
     $("rows").appendChild(row);});
+  if(shots.length>=7)sendScore();
+}
+/* =================== PROMEDIO DEL DÍA =================== */
+const SCORE_URL="https://yhbpbuoovfljslnisqjp.supabase.co/functions/v1/puntaje";
+function playerId(){ // código anónimo al azar, guardado en este navegador
+  let id=null;try{id=localStorage.getItem("crackel:jugador");}catch(e){}
+  if(!id){id=(crypto.randomUUID?crypto.randomUUID():Math.random().toString(36).slice(2)+Date.now().toString(36));try{localStorage.setItem("crackel:jugador",id);}catch(e){}}
+  return id;
+}
+async function sendScore(){
+  const v=$("avgV"),t=$("avgTxt");v.textContent="…";t.textContent="Calculando…";
+  try{
+    const r=await fetch(SCORE_URL,{method:"POST",headers:{"content-type":"application/json"},
+      body:JSON.stringify({jugador:playerId(),tiros:shots.slice(0,7).map(s=>s.cat)}),signal:AbortSignal.timeout(10000)});
+    const d=await r.json();if(!r.ok)throw 0;
+    v.textContent=d.promedio+" PTS";
+    if(d.jugadores<=1){t.textContent="Eres el primero en jugar hoy";return;}
+    const dif=d.total-d.promedio,abs=Math.abs(dif);
+    t.innerHTML=`${d.jugadores} jugadores hoy · `+(dif===0?"<b>justo en el promedio</b>":`<b class="${dif<0?"down":""}">${abs} pts ${dif>0?"sobre":"bajo"} el promedio</b>`)
+      +(d.superaste!=null?` · superaste al ${d.superaste}%`:"");
+  }catch(e){v.textContent="—";t.textContent="No se pudo cargar el promedio";}
 }
 function tick(){let s=secsToChileMidnight();
   const h=String(Math.floor(s/3600)).padStart(2,"0");s%=3600;$("cd").textContent=`${h}:${String(Math.floor(s/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;}
