@@ -2725,6 +2725,994 @@
    ],
    "fuente": "https://lapaginamillonaria.com/river-plate/mastantuono-y-varios-mas-todos-los-futbolistas-que-jugaron-en-river-y-real-madrid · https://www.lagaceta.com.ar/nota/1087109/",
    "dia": 2
+  },
+  {
+   "id": "juventus_inter",
+   "q": "Jugadores que hayan jugado en la Juventus y en el Inter",
+   "r": [
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Roberto Baggio",
+     "baggio"
+    ],
+    [
+     "H",
+     "Andrea Pirlo"
+    ],
+    [
+     "T",
+     "Patrick Vieira"
+    ],
+    [
+     "T",
+     "Fabio Cannavaro"
+    ],
+    [
+     "T",
+     "Leonardo Bonucci"
+    ],
+    [
+     "T",
+     "Arturo Vidal",
+     "rey arturo"
+    ],
+    [
+     "T",
+     "Juan Cuadrado"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Christian Vieri",
+     "bobo vieri"
+    ],
+    [
+     "T",
+     "Lúcio",
+     "lucio"
+    ],
+    [
+     "T",
+     "Felipe Melo"
+    ],
+    [
+     "T",
+     "Fabio Grosso"
+    ],
+    [
+     "C",
+     "Kwadwo Asamoah"
+    ],
+    [
+     "C",
+     "Hernanes"
+    ],
+    [
+     "C",
+     "Paulo Sousa"
+    ],
+    [
+     "C",
+     "Angelo Peruzzi"
+    ],
+    [
+     "C",
+     "Salvatore Schillaci",
+     "toto schillaci"
+    ],
+    [
+     "C",
+     "Aldo Serena"
+    ],
+    [
+     "C",
+     "Marco Tardelli"
+    ],
+    [
+     "C",
+     "Alessandro Altobelli",
+     "spillo altobelli"
+    ],
+    [
+     "C",
+     "Giuseppe Meazza"
+    ],
+    [
+     "C",
+     "Roberto Boninsegna"
+    ],
+    [
+     "C",
+     "Liam Brady"
+    ],
+    [
+     "C",
+     "Vladimir Jugović"
+    ],
+    [
+     "D",
+     "Pietro Anastasi"
+    ],
+    [
+     "D",
+     "Tarcisio Burgnich"
+    ],
+    [
+     "D",
+     "Fabián Carini"
+    ],
+    [
+     "D",
+     "Luigi De Agostini"
+    ],
+    [
+     "D",
+     "Pietro Fanna"
+    ],
+    [
+     "D",
+     "Sergio Gori"
+    ],
+    [
+     "D",
+     "Giuliano Sarti"
+    ],
+    [
+     "G",
+     "Luigi Cevenini"
+    ],
+    [
+     "G",
+     "Enrico Candiani"
+    ]
+   ],
+   "fuente": "https://www.goal.com/en/lists/inter-vs-juventus-players-played-for-both-teams-derby-d-italia/bltb3c43a15117b2447 + fichajes recientes",
+   "dia": 3
+  },
+  {
+   "id": "franceses_arsenal",
+   "q": "Franceses que hayan jugado en el Arsenal",
+   "r": [
+    [
+     "H",
+     "Thierry Henry"
+    ],
+    [
+     "H",
+     "Patrick Vieira"
+    ],
+    [
+     "H",
+     "Robert Pirès",
+     "pires"
+    ],
+    [
+     "T",
+     "Olivier Giroud"
+    ],
+    [
+     "T",
+     "Laurent Koscielny"
+    ],
+    [
+     "T",
+     "Bacary Sagna"
+    ],
+    [
+     "T",
+     "Samir Nasri"
+    ],
+    [
+     "T",
+     "Alexandre Lacazette"
+    ],
+    [
+     "T",
+     "William Saliba"
+    ],
+    [
+     "T",
+     "Nicolas Anelka"
+    ],
+    [
+     "T",
+     "Emmanuel Petit",
+     "manu petit"
+    ],
+    [
+     "T",
+     "Sylvain Wiltord"
+    ],
+    [
+     "T",
+     "Gaël Clichy"
+    ],
+    [
+     "T",
+     "William Gallas"
+    ],
+    [
+     "T",
+     "Mathieu Flamini"
+    ],
+    [
+     "C",
+     "Francis Coquelin"
+    ],
+    [
+     "C",
+     "Abou Diaby"
+    ],
+    [
+     "C",
+     "Mattéo Guendouzi"
+    ],
+    [
+     "C",
+     "Mathieu Debuchy"
+    ],
+    [
+     "C",
+     "Pascal Cygan"
+    ],
+    [
+     "C",
+     "Gilles Grimandi"
+    ],
+    [
+     "C",
+     "Lassana Diarra"
+    ],
+    [
+     "C",
+     "Jérémie Aliadière"
+    ],
+    [
+     "C",
+     "Yaya Sanogo"
+    ],
+    [
+     "C",
+     "Rémi Garde"
+    ],
+    [
+     "C",
+     "Mikaël Silvestre"
+    ],
+    [
+     "C",
+     "Sébastien Squillaci"
+    ],
+    [
+     "D",
+     "Armand Traoré"
+    ],
+    [
+     "G",
+     "David Grondin"
+    ],
+    [
+     "G",
+     "Gilles Sunu"
+    ]
+   ],
+   "fuente": "Planteles del Arsenal (28 franceses en la Premier League según planetfootball.com)",
+   "dia": 3
+  },
+  {
+   "id": "hattrick_mundial",
+   "q": "Jugadores que hayan hecho un hat-trick en un Mundial",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "H",
+     "Pelé",
+     "pele"
+    ],
+    [
+     "H",
+     "Harry Kane"
+    ],
+    [
+     "H",
+     "Gabriel Batistuta",
+     "batigol"
+    ],
+    [
+     "T",
+     "Miroslav Klose"
+    ],
+    [
+     "T",
+     "Thomas Müller"
+    ],
+    [
+     "T",
+     "Gerd Müller",
+     "torpedo muller"
+    ],
+    [
+     "T",
+     "Eusébio"
+    ],
+    [
+     "T",
+     "Geoff Hurst"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "T",
+     "Gary Lineker"
+    ],
+    [
+     "T",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "T",
+     "Xherdan Shaqiri"
+    ],
+    [
+     "T",
+     "Gonçalo Ramos"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Just Fontaine"
+    ],
+    [
+     "T",
+     "Karl-Heinz Rummenigge"
+    ],
+    [
+     "T",
+     "Emilio Butragueño",
+     "el buitre"
+    ],
+    [
+     "T",
+     "Oleg Salenko"
+    ],
+    [
+     "C",
+     "Sándor Kocsis"
+    ],
+    [
+     "C",
+     "Pauleta"
+    ],
+    [
+     "C",
+     "Teófilo Cubillas",
+     "nene cubillas"
+    ],
+    [
+     "C",
+     "Rob Rensenbrink"
+    ],
+    [
+     "C",
+     "Zbigniew Boniek"
+    ],
+    [
+     "C",
+     "Leônidas",
+     "leonidas da silva"
+    ],
+    [
+     "C",
+     "Ademir"
+    ],
+    [
+     "C",
+     "Jonathan David"
+    ],
+    [
+     "C",
+     "Guillermo Stábile"
+    ],
+    [
+     "C",
+     "Tomáš Skuhravý"
+    ],
+    [
+     "C",
+     "Igor Belanov"
+    ],
+    [
+     "C",
+     "Preben Elkjær"
+    ],
+    [
+     "C",
+     "Míchel"
+    ],
+    [
+     "C",
+     "Andrzej Szarmach"
+    ],
+    [
+     "C",
+     "Max Morlock"
+    ],
+    [
+     "C",
+     "Flórián Albert"
+    ],
+    [
+     "C",
+     "Ernst Wilimowski"
+    ],
+    [
+     "C",
+     "Bert Patenaude"
+    ],
+    [
+     "C",
+     "Pedro Cea"
+    ],
+    [
+     "C",
+     "Angelo Schiavio"
+    ],
+    [
+     "C",
+     "Oldřich Nejedlý"
+    ],
+    [
+     "D",
+     "Óscar Míguez"
+    ],
+    [
+     "D",
+     "Carlos Borges"
+    ],
+    [
+     "D",
+     "Burhan Sargın"
+    ],
+    [
+     "D",
+     "Theodor Wagner"
+    ],
+    [
+     "D",
+     "Josef Hügi"
+    ],
+    [
+     "D",
+     "Harry Andersson"
+    ],
+    [
+     "D",
+     "Edmund Conen"
+    ],
+    [
+     "D",
+     "Dušan Bajević"
+    ],
+    [
+     "D",
+     "László Kiss"
+    ],
+    [
+     "G",
+     "Gustav Wetterström"
+    ],
+    [
+     "G",
+     "Erich Probst"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_hat-tricks (57 hat-tricks, 1930-2026)",
+   "dia": 3
+  },
+  {
+   "id": "penales_mundial",
+   "q": "Selecciones que hayan sido eliminadas por penales en un Mundial",
+   "r": [
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "T",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "T",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "T",
+     "Argentina"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "México",
+     "mexico"
+    ],
+    [
+     "T",
+     "Japón",
+     "japon"
+    ],
+    [
+     "T",
+     "Chile"
+    ],
+    [
+     "T",
+     "Alemania",
+     "germany"
+    ],
+    [
+     "T",
+     "Colombia"
+    ],
+    [
+     "C",
+     "Rumania",
+     "rumania"
+    ],
+    [
+     "C",
+     "Suiza"
+    ],
+    [
+     "C",
+     "Dinamarca"
+    ],
+    [
+     "C",
+     "Rusia"
+    ],
+    [
+     "C",
+     "Costa Rica"
+    ],
+    [
+     "C",
+     "Ghana"
+    ],
+    [
+     "C",
+     "Irlanda",
+     "republica de irlanda"
+    ],
+    [
+     "C",
+     "Grecia"
+    ],
+    [
+     "D",
+     "Yugoslavia"
+    ],
+    [
+     "D",
+     "Australia"
+    ]
+   ],
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_penalty_shoot-outs · https://www.cadena3.com/noticia/futbol/mundial-2026-en-los-penales-la-seleccion-que-patea-primero-pierde-la-serie_571173",
+   "dia": 3
+  },
+  {
+   "id": "bota_de_oro",
+   "q": "Ganadores de la Bota de Oro europea (máximo goleador de las ligas de Europa)",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "H",
+     "Erling Haaland"
+    ],
+    [
+     "H",
+     "Robert Lewandowski",
+     "lewy"
+    ],
+    [
+     "H",
+     "Harry Kane"
+    ],
+    [
+     "T",
+     "Luis Suárez",
+     "lucho suarez"
+    ],
+    [
+     "T",
+     "Thierry Henry"
+    ],
+    [
+     "T",
+     "Diego Forlán"
+    ],
+    [
+     "T",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "T",
+     "Eusébio"
+    ],
+    [
+     "T",
+     "Gerd Müller"
+    ],
+    [
+     "T",
+     "Francesco Totti"
+    ],
+    [
+     "T",
+     "Ciro Immobile"
+    ],
+    [
+     "T",
+     "Marco van Basten"
+    ],
+    [
+     "T",
+     "Luca Toni"
+    ],
+    [
+     "T",
+     "Hugo Sánchez"
+    ],
+    [
+     "T",
+     "Hristo Stoichkov"
+    ],
+    [
+     "T",
+     "Ian Rush"
+    ],
+    [
+     "C",
+     "Henrik Larsson"
+    ],
+    [
+     "C",
+     "Roy Makaay"
+    ],
+    [
+     "C",
+     "Mário Jardel",
+     "jardel"
+    ],
+    [
+     "C",
+     "Kevin Phillips"
+    ],
+    [
+     "C",
+     "Darko Pančev",
+     "pancev"
+    ],
+    [
+     "C",
+     "Toni Polster"
+    ],
+    [
+     "C",
+     "Hans Krankl"
+    ],
+    [
+     "C",
+     "Fernando Gomes"
+    ],
+    [
+     "C",
+     "Héctor Yazalde",
+     "chirola yazalde"
+    ],
+    [
+     "C",
+     "Wim Kieft"
+    ],
+    [
+     "C",
+     "Nikos Machlas"
+    ],
+    [
+     "D",
+     "Dudu Georgescu"
+    ],
+    [
+     "D",
+     "Josip Skoblar"
+    ],
+    [
+     "D",
+     "Tanju Çolak",
+     "tanju colak"
+    ],
+    [
+     "D",
+     "Kees Kist"
+    ],
+    [
+     "D",
+     "Erwin Vandenbergh"
+    ],
+    [
+     "D",
+     "Petar Zhekov",
+     "petar jekov"
+    ],
+    [
+     "D",
+     "Sotiris Kaiafas"
+    ],
+    [
+     "D",
+     "Rodion Cămătaru",
+     "camataru"
+    ],
+    [
+     "G",
+     "Georgi Slavkov"
+    ],
+    [
+     "G",
+     "Dorin Mateuț",
+     "mateut"
+    ]
+   ],
+   "fuente": "https://en.wikipedia.org/wiki/European_Golden_Shoe (1968-2026)",
+   "dia": 3
+  },
+  {
+   "id": "brasil_2002",
+   "q": "Jugadores que hayan sido campeones del mundo con Brasil en 2002",
+   "r": [
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Rivaldo"
+    ],
+    [
+     "H",
+     "Roberto Carlos"
+    ],
+    [
+     "H",
+     "Cafu"
+    ],
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "T",
+     "Lúcio",
+     "lucio"
+    ],
+    [
+     "T",
+     "Roque Júnior",
+     "roque junior"
+    ],
+    [
+     "T",
+     "Edmílson",
+     "edmilson"
+    ],
+    [
+     "T",
+     "Gilberto Silva"
+    ],
+    [
+     "T",
+     "Marcos"
+    ],
+    [
+     "T",
+     "Kléberson",
+     "kleberson"
+    ],
+    [
+     "T",
+     "Dida"
+    ],
+    [
+     "T",
+     "Rogério Ceni",
+     "rogerio ceni"
+    ],
+    [
+     "T",
+     "Denílson",
+     "denilson"
+    ],
+    [
+     "T",
+     "Juninho Paulista"
+    ],
+    [
+     "C",
+     "Juliano Belletti",
+     "belletti"
+    ],
+    [
+     "C",
+     "Vampeta"
+    ],
+    [
+     "C",
+     "Luizão",
+     "luizao"
+    ],
+    [
+     "C",
+     "Edílson",
+     "edilson"
+    ],
+    [
+     "D",
+     "Ricardinho"
+    ],
+    [
+     "D",
+     "Júnior",
+     "junior"
+    ],
+    [
+     "G",
+     "Ânderson Polga",
+     "anderson polga"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+   "dia": 3
+  },
+  {
+   "id": "psg_barcelona",
+   "q": "Jugadores que hayan jugado en el PSG y en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "T",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "T",
+     "Dani Alves"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Thiago Motta"
+    ],
+    [
+     "T",
+     "Maxwell"
+    ],
+    [
+     "T",
+     "Lucas Digne"
+    ],
+    [
+     "C",
+     "Ludovic Giuly"
+    ],
+    [
+     "C",
+     "Rafinha Alcântara",
+     "rafinha"
+    ],
+    [
+     "C",
+     "Juan Pablo Sorín",
+     "sorin"
+    ]
+   ],
+   "fuente": "Planteles de PSG y FC Barcelona (el Barça cuenta 15 jugadores en ambos clubes)",
+   "dia": 3
   }
  ]
 }
