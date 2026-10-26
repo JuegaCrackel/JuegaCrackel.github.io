@@ -1,358 +1,442 @@
 {
- "inicio": "2026-10-22",
+ "inicio": "2026-10-25",
  "porDia": 7,
  "consignas": [
   {
-   "id": "balon_oro",
-   "q": "Jugadores que hayan ganado el Balón de Oro",
+   "id": "boca_river",
+   "q": "Jugadores que hayan jugado en Boca Juniors y en River Plate",
    "r": [
     [
      "H",
-     "Lionel Messi",
-     "leo messi",
-     "lio messi"
+     "Gabriel Batistuta",
+     "batigol"
     ],
     [
      "H",
-     "Cristiano Ronaldo",
-     "cristiano",
-     "cr7"
+     "Claudio Caniggia",
+     "cani"
     ],
     [
      "T",
-     "Zinedine Zidane",
-     "zizou"
+     "Oscar Ruggeri",
+     "cabezon ruggeri"
     ],
     [
      "T",
-     "Ronaldo Nazário",
-     "ronaldo",
-     "r9",
-     "el fenomeno"
+     "Alberto Tarantini",
+     "conejo tarantini"
     ],
     [
      "T",
-     "Ronaldinho",
-     "dinho"
+     "Hugo Gatti",
+     "loco gatti"
     ],
     [
      "T",
-     "Kaká",
-     "ricardo kaka"
+     "Ricardo Gareca",
+     "tigre gareca"
     ],
     [
      "T",
-     "Luka Modrić"
+     "Abel Balbo"
     ],
     [
      "T",
-     "Karim Benzema"
+     "Julio Olarticoechea",
+     "vasco olarticoechea"
     ],
     [
      "T",
-     "Johan Cruyff",
-     "cruijff"
+     "José Manuel Moreno",
+     "charro moreno"
     ],
     [
      "T",
-     "Michel Platini"
+     "Jonatan Maidana"
     ],
     [
      "T",
-     "Marco van Basten"
+     "Lucas Pratto",
+     "oso pratto"
     ],
     [
      "T",
-     "Rodri",
-     "rodrigo hernandez"
+     "Nelson Vivas"
     ],
     [
      "T",
-     "Ousmane Dembélé"
+     "Jorge Higuaín"
     ],
     [
      "C",
-     "Fabio Cannavaro"
+     "Carlos Tapia"
     ],
     [
      "C",
-     "Pavel Nedvěd"
+     "Sergio Berti"
     ],
     [
      "C",
-     "Andriy Shevchenko",
-     "sheva"
+     "Fernando Cáceres"
     ],
     [
      "C",
-     "Luís Figo"
+     "Julio César Cáceres"
     ],
     [
      "C",
-     "Michael Owen"
+     "Juan José López",
+     "jj lopez"
     ],
     [
      "C",
-     "Rivaldo"
+     "Gabriel Amato"
     ],
     [
      "C",
-     "Franz Beckenbauer",
-     "kaiser",
-     "el kaiser"
+     "Claudio Cabrera"
     ],
     [
      "C",
-     "Alfredo Di Stéfano"
+     "Fabio Talarico"
     ],
     [
      "C",
-     "Gerd Müller"
+     "Rubén Da Silva"
     ],
     [
      "C",
-     "George Weah"
+     "José Luis Villarreal"
     ],
     [
      "C",
-     "Ruud Gullit"
+     "Fernando Gamboa"
     ],
     [
      "C",
-     "Eusébio"
+     "Julio Toresani"
     ],
     [
      "C",
-     "Lothar Matthäus",
-     "matheus"
+     "Néstor Cedrés"
     ],
     [
      "C",
-     "Roberto Baggio"
+     "Sebastián Rambert",
+     "pocho rambert"
     ],
     [
      "C",
-     "Hristo Stoichkov"
+     "Luciano Figueroa"
     ],
     [
      "C",
-     "George Best"
+     "Jesús Méndez"
     ],
     [
      "C",
-     "Karl-Heinz Rummenigge"
+     "Jonathan Fabbro"
     ],
     [
      "C",
-     "Kevin Keegan"
+     "Nicolás Bertolo"
     ],
     [
      "C",
-     "Paolo Rossi",
-     "pablito"
+     "Tomás Pochettino"
     ],
     [
      "C",
-     "Bobby Charlton"
+     "Marcelo Saracchi"
     ],
     [
      "C",
-     "Lev Yashin",
-     "araña negra"
+     "Adam Bareiro"
+    ],
+    [
+     "C",
+     "Bruno Urribarri"
+    ],
+    [
+     "C",
+     "Jorge Martínez"
+    ],
+    [
+     "C",
+     "Ramón Centurión"
+    ],
+    [
+     "C",
+     "Rubén Gómez"
+    ],
+    [
+     "C",
+     "Jorge Rinaldi"
+    ],
+    [
+     "C",
+     "Milton Melgar"
+    ],
+    [
+     "C",
+     "Pablo Erbin"
+    ],
+    [
+     "C",
+     "Juan Amador Sánchez"
+    ],
+    [
+     "C",
+     "Gerardo Reinoso"
+    ],
+    [
+     "C",
+     "Carlos Barisio"
+    ],
+    [
+     "C",
+     "Oscar Trossero"
+    ],
+    [
+     "C",
+     "Carlos López"
+    ],
+    [
+     "C",
+     "Osvaldo Pérez"
+    ],
+    [
+     "C",
+     "Carlos Randazzo"
+    ],
+    [
+     "C",
+     "Pablo Comelles"
+    ],
+    [
+     "C",
+     "Carlos Morete",
+     "puma morete"
+    ],
+    [
+     "C",
+     "Hugo Coscia"
+    ],
+    [
+     "C",
+     "Victorio Cocco"
+    ],
+    [
+     "C",
+     "Ernesto Mastrangelo"
+    ],
+    [
+     "C",
+     "Carlos Salinas"
+    ],
+    [
+     "C",
+     "Aníbal Cibeyra"
+    ],
+    [
+     "C",
+     "Rubén Galletti"
+    ],
+    [
+     "C",
+     "Daniel Silguero"
+    ],
+    [
+     "C",
+     "Francisco Sá",
+     "pancho sa"
+    ],
+    [
+     "C",
+     "José Luis Luna"
+    ],
+    [
+     "C",
+     "Miguel Loayza"
+    ],
+    [
+     "C",
+     "Marcos Zarich"
+    ],
+    [
+     "C",
+     "Roque Ditro"
+    ],
+    [
+     "C",
+     "Alfredo Rojas",
+     "tanque rojas"
+    ],
+    [
+     "C",
+     "Néstor Isella"
+    ],
+    [
+     "C",
+     "Jorge Diz"
+    ],
+    [
+     "C",
+     "Juan Carlos Barberis"
+    ],
+    [
+     "C",
+     "Norberto Menéndez"
+    ],
+    [
+     "C",
+     "Francisco Lombardo"
+    ],
+    [
+     "C",
+     "Miguel Ángel Rodríguez"
+    ],
+    [
+     "C",
+     "Juan José Pizzuti"
+    ],
+    [
+     "C",
+     "Alberto De Zorzi"
+    ],
+    [
+     "C",
+     "Juan Apolonio Vairo"
+    ],
+    [
+     "C",
+     "Fausto Iseo Rosello"
     ],
     [
      "D",
-     "Jean-Pierre Papin"
+     "Juan José Negri"
     ],
     [
      "D",
-     "Matthias Sammer"
+     "Joaquín Martínez"
     ],
     [
      "D",
-     "Igor Belanov"
+     "Ricardo Staggi"
     ],
     [
      "D",
-     "Oleg Blokhin"
+     "Camilo Bonelli"
     ],
     [
      "D",
-     "Denis Law"
+     "Ricardo Zatelli"
     ],
     [
      "D",
-     "Omar Sívori"
+     "Cataldo Spitale"
     ],
     [
      "D",
-     "Raymond Kopa"
+     "Pedro Marassi"
     ],
     [
      "D",
-     "Luis Suárez Miramontes",
-     "luis suarez"
+     "Antonio Ganduglia"
     ],
     [
      "D",
-     "Josef Masopust"
+     "Eugenio Cacopardo"
     ],
     [
      "D",
-     "Stanley Matthews"
+     "Casildo Fallatti"
     ],
     [
      "D",
-     "Gianni Rivera"
+     "Severiano Álvarez"
+    ],
+    [
+     "D",
+     "Dante Pertini"
+    ],
+    [
+     "D",
+     "Antonio Ameal"
+    ],
+    [
+     "D",
+     "Alfredo Garasini",
+     "alfred garasini"
+    ],
+    [
+     "D",
+     "Zoilo Canaveri"
+    ],
+    [
+     "D",
+     "Alfredo Martín"
+    ],
+    [
+     "D",
+     "Agustín Lanata"
+    ],
+    [
+     "D",
+     "Francisco Taggino"
+    ],
+    [
+     "D",
+     "Alfredo Elli"
+    ],
+    [
+     "D",
+     "Luis Solans"
+    ],
+    [
+     "D",
+     "Albert Penney"
+    ],
+    [
+     "D",
+     "Ramón Lamique"
+    ],
+    [
+     "D",
+     "Ángel Angotti"
+    ],
+    [
+     "D",
+     "Ramón Ferreiro"
+    ],
+    [
+     "D",
+     "Donato Abbatangelo"
+    ],
+    [
+     "D",
+     "Vicente Oñate"
+    ],
+    [
+     "D",
+     "Francisco Priano",
+     "francesco priano"
     ],
     [
      "G",
-     "Flórián Albert"
+     "Pedro Moltedo"
     ],
     [
      "G",
-     "Allan Simonsen"
+     "Anempodisto García"
     ]
    ],
-   "completa": true,
-   "fuente": "https://www.si.com/soccer/men-s-ballon-d-or-full-list-of-winners"
+   "fuente": "https://www.elgrafico.com.ar/articulo/1038/47925/los-101-jugadores-que-pasaron-por-boca-y-river",
+   "dia": 1
   },
   {
-   "id": "libertadores",
-   "q": "Clubes que hayan ganado la Copa Libertadores",
-   "r": [
-    [
-     "H",
-     "Boca Juniors",
-     "boca"
-    ],
-    [
-     "H",
-     "River Plate",
-     "river"
-    ],
-    [
-     "T",
-     "Independiente",
-     "independiente de avellaneda"
-    ],
-    [
-     "T",
-     "Peñarol"
-    ],
-    [
-     "T",
-     "Flamengo"
-    ],
-    [
-     "T",
-     "Palmeiras"
-    ],
-    [
-     "T",
-     "São Paulo"
-    ],
-    [
-     "T",
-     "Santos"
-    ],
-    [
-     "T",
-     "Nacional",
-     "nacional de montevideo",
-     "club nacional"
-    ],
-    [
-     "T",
-     "Estudiantes",
-     "estudiantes de la plata"
-    ],
-    [
-     "T",
-     "Grêmio"
-    ],
-    [
-     "C",
-     "Colo-Colo",
-     "colo colo",
-     "colocolo"
-    ],
-    [
-     "C",
-     "Olimpia"
-    ],
-    [
-     "C",
-     "Cruzeiro"
-    ],
-    [
-     "C",
-     "Atlético Nacional",
-     "nacional de medellin"
-    ],
-    [
-     "C",
-     "Internacional",
-     "inter de porto alegre"
-    ],
-    [
-     "C",
-     "Corinthians"
-    ],
-    [
-     "C",
-     "Vélez Sarsfield",
-     "velez"
-    ],
-    [
-     "C",
-     "Racing Club",
-     "racing"
-    ],
-    [
-     "C",
-     "San Lorenzo"
-    ],
-    [
-     "C",
-     "Atlético Mineiro",
-     "atletico mg"
-    ],
-    [
-     "C",
-     "Fluminense"
-    ],
-    [
-     "C",
-     "Botafogo"
-    ],
-    [
-     "D",
-     "LDU Quito",
-     "liga de quito",
-     "ldu"
-    ],
-    [
-     "D",
-     "Vasco da Gama",
-     "vasco"
-    ],
-    [
-     "G",
-     "Once Caldas"
-    ],
-    [
-     "G",
-     "Argentinos Juniors"
-    ]
-   ],
-   "completa": true,
-   "equipo": true,
-   "fuente": "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals"
-  },
-  {
-   "id": "campeones_argentina",
-   "q": "Jugadores que hayan sido campeones del mundo con Argentina",
+   "id": "diez_argentina",
+   "q": "Jugadores que hayan usado la camiseta número 10 de Argentina en un Mundial",
    "r": [
     [
      "H",
@@ -369,836 +453,55 @@
     ],
     [
      "T",
+     "Juan Román Riquelme",
+     "roman riquelme",
+     "riquelme"
+    ],
+    [
+     "T",
      "Mario Kempes",
      "matador kempes"
     ],
     [
-     "T",
-     "Ángel Di María",
-     "di maria",
-     "fideo"
-    ],
-    [
-     "T",
-     "Emiliano Martínez",
-     "dibu martinez",
-     "dibu"
-    ],
-    [
-     "T",
-     "Julián Álvarez",
-     "julian alvarez",
-     "araña"
-    ],
-    [
-     "T",
-     "Jorge Valdano"
-    ],
-    [
-     "T",
-     "Daniel Passarella"
-    ],
-    [
-     "T",
-     "Rodrigo De Paul"
-    ],
-    [
-     "T",
-     "Enzo Fernández",
-     "enzo"
-    ],
-    [
-     "T",
-     "Alexis Mac Allister"
-    ],
-    [
-     "T",
-     "Lautaro Martínez",
-     "lautaro"
-    ],
-    [
-     "T",
-     "Nicolás Otamendi"
-    ],
-    [
-     "T",
-     "Paulo Dybala"
-    ],
-    [
-     "T",
-     "Cristian Romero",
-     "cuti romero",
-     "cuti"
-    ],
-    [
-     "T",
-     "Jorge Burruchaga"
-    ],
-    [
-     "T",
-     "Oscar Ruggeri"
-    ],
-    [
-     "T",
-     "Ubaldo Fillol",
-     "pato fillol"
-    ],
-    [
      "C",
-     "Nery Pumpido"
-    ],
-    [
-     "C",
-     "José Luis Brown",
-     "tata brown"
-    ],
-    [
-     "C",
-     "Leandro Paredes"
-    ],
-    [
-     "C",
-     "Nahuel Molina"
-    ],
-    [
-     "C",
-     "Lisandro Martínez",
-     "licha martinez"
-    ],
-    [
-     "C",
-     "Nicolás Tagliafico"
-    ],
-    [
-     "C",
-     "Gonzalo Montiel"
-    ],
-    [
-     "C",
-     "Alberto Tarantini"
-    ],
-    [
-     "C",
-     "Leopoldo Luque"
-    ],
-    [
-     "C",
-     "Osvaldo Ardiles"
-    ],
-    [
-     "C",
-     "Daniel Bertoni"
-    ],
-    [
-     "C",
-     "Américo Gallego"
-    ],
-    [
-     "C",
-     "Héctor Enrique"
-    ],
-    [
-     "C",
-     "Ricardo Giusti"
-    ],
-    [
-     "C",
-     "Sergio Batista",
-     "checho batista"
-    ],
-    [
-     "C",
-     "Julio Olarticoechea"
-    ],
-    [
-     "C",
-     "Marcos Acuña"
-    ],
-    [
-     "C",
-     "Germán Pezzella"
-    ],
-    [
-     "C",
-     "Guido Rodríguez"
-    ],
-    [
-     "C",
-     "Exequiel Palacios"
-    ],
-    [
-     "C",
-     "Alejandro Gómez",
-     "papu gomez",
-     "papu"
-    ],
-    [
-     "C",
-     "Ángel Correa"
-    ],
-    [
-     "C",
-     "Thiago Almada"
-    ],
-    [
-     "C",
-     "Juan Foyth"
-    ],
-    [
-     "C",
-     "Franco Armani"
-    ],
-    [
-     "C",
-     "Gerónimo Rulli"
-    ],
-    [
-     "C",
-     "René Houseman"
-    ],
-    [
-     "C",
-     "Norberto Alonso",
-     "beto alonso"
-    ],
-    [
-     "C",
-     "Ricardo Bochini",
-     "bocha"
-    ],
-    [
-     "C",
-     "Claudio Borghi"
-    ],
-    [
-     "C",
-     "Ricardo Villa"
+     "Ariel Ortega",
+     "burrito ortega"
     ],
     [
      "D",
-     "Luis Galván"
+     "Antonio Rattín",
+     "rattin"
     ],
     [
      "D",
-     "Jorge Olguín"
-    ],
-    [
-     "D",
-     "Omar Larrosa"
-    ],
-    [
-     "D",
-     "Héctor Baley"
-    ],
-    [
-     "D",
-     "Daniel Killer"
-    ],
-    [
-     "D",
-     "Oscar Ortiz"
-    ],
-    [
-     "D",
-     "Miguel Oviedo"
-    ],
-    [
-     "D",
-     "Rubén Galván"
-    ],
-    [
-     "D",
-     "José Daniel Valencia"
-    ],
-    [
-     "D",
-     "Ricardo La Volpe"
-    ],
-    [
-     "D",
-     "Sergio Almirón"
-    ],
-    [
-     "D",
-     "José Luis Cuciuffo"
-    ],
-    [
-     "D",
-     "Oscar Garré"
-    ],
-    [
-     "D",
-     "Néstor Clausen"
-    ],
-    [
-     "D",
-     "Luis Islas"
-    ],
-    [
-     "D",
-     "Pedro Pasculli"
-    ],
-    [
-     "D",
-     "Carlos Tapia"
-    ],
-    [
-     "D",
-     "Marcelo Trobbiani"
+     "José Sanfilippo",
+     "nene sanfilippo"
     ],
     [
      "G",
-     "Rubén Pagnanini"
+     "Ramón Heredia",
+     "cacho heredia"
     ],
     [
      "G",
-     "Héctor Zelada"
+     "Alfredo Rojas",
+     "tanque rojas"
     ]
    ],
    "completa": true,
-   "fuente": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads"
+   "fuente": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads",
+   "dia": 1
   },
   {
-   "id": "madrid_barca",
-   "q": "Jugadores que hayan jugado en el Real Madrid y en el Barcelona",
+   "id": "gol_final_champions",
+   "q": "Jugadores que hayan hecho un gol en una final de Champions League (o Copa de Europa)",
    "r": [
     [
      "H",
-     "Luís Figo"
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
     ],
-    [
-     "H",
-     "Ronaldo Nazário",
-     "ronaldo",
-     "r9"
-    ],
-    [
-     "T",
-     "Michael Laudrup"
-    ],
-    [
-     "T",
-     "Luis Enrique",
-     "lucho"
-    ],
-    [
-     "T",
-     "Samuel Eto'o"
-    ],
-    [
-     "T",
-     "Javier Saviola",
-     "conejo saviola"
-    ],
-    [
-     "T",
-     "Gheorghe Hagi"
-    ],
-    [
-     "T",
-     "Bernd Schuster"
-    ],
-    [
-     "C",
-     "Ricardo Zamora"
-    ],
-    [
-     "C",
-     "Josep Samitier"
-    ],
-    [
-     "C",
-     "Robert Prosinečki"
-    ],
-    [
-     "C",
-     "Julen Lopetegui"
-    ],
-    [
-     "C",
-     "Albert Celades"
-    ],
-    [
-     "C",
-     "Alfonso Pérez"
-    ],
-    [
-     "C",
-     "Marcos Alonso"
-    ],
-    [
-     "C",
-     "Luis Milla"
-    ],
-    [
-     "D",
-     "Dani García Lara",
-     "dani garcia"
-    ],
-    [
-     "D",
-     "Nando Muñoz"
-    ],
-    [
-     "D",
-     "Miquel Soler"
-    ],
-    [
-     "D",
-     "Evaristo de Macedo",
-     "evaristo"
-    ],
-    [
-     "D",
-     "Chus Pereda",
-     "jesus pereda"
-    ],
-    [
-     "D",
-     "Lucien Müller"
-    ],
-    [
-     "D",
-     "Justo Tejada"
-    ],
-    [
-     "D",
-     "Fernand Goyvaerts"
-    ],
-    [
-     "D",
-     "Amador Lorenzo"
-    ],
-    [
-     "D",
-     "Hilario Marrero",
-     "hilario"
-    ],
-    [
-     "D",
-     "Josep Canal"
-    ],
-    [
-     "D",
-     "Joaquín Navarro"
-    ],
-    [
-     "D",
-     "Alfonso Navarro"
-    ],
-    [
-     "D",
-     "Arsenio Comamala"
-    ],
-    [
-     "D",
-     "Charles Wallace"
-    ],
-    [
-     "D",
-     "Enrique Normand"
-    ],
-    [
-     "D",
-     "Walter Rositzky"
-    ],
-    [
-     "G",
-     "Alfonso Albéniz"
-    ],
-    [
-     "G",
-     "José Quirante"
-    ]
-   ],
-   "fuente": "https://okdiario.com/diariomadridista/real-madrid/clasico-todos-futbolistas-que-han-jugado-real-madrid-barcelona-631404"
-  },
-  {
-   "id": "selecciones_mundial",
-   "q": "Selecciones que hayan jugado un Mundial",
-   "r": [
-    [
-     "H",
-     "Brasil"
-    ],
-    [
-     "H",
-     "Argentina"
-    ],
-    [
-     "T",
-     "Alemania",
-     "alemania federal",
-     "alemania occidental"
-    ],
-    [
-     "T",
-     "Italia"
-    ],
-    [
-     "T",
-     "Francia"
-    ],
-    [
-     "T",
-     "España"
-    ],
-    [
-     "T",
-     "Inglaterra"
-    ],
-    [
-     "T",
-     "Uruguay"
-    ],
-    [
-     "T",
-     "Países Bajos",
-     "holanda"
-    ],
-    [
-     "T",
-     "México"
-    ],
-    [
-     "T",
-     "Portugal"
-    ],
-    [
-     "T",
-     "Bélgica"
-    ],
-    [
-     "T",
-     "Croacia"
-    ],
-    [
-     "T",
-     "Estados Unidos",
-     "eeuu",
-     "usa"
-    ],
-    [
-     "T",
-     "Chile"
-    ],
-    [
-     "T",
-     "Colombia"
-    ],
-    [
-     "T",
-     "Japón"
-    ],
-    [
-     "T",
-     "Corea del Sur",
-     "corea"
-    ],
-    [
-     "T",
-     "Marruecos"
-    ],
-    [
-     "T",
-     "Suiza"
-    ],
-    [
-     "T",
-     "Suecia"
-    ],
-    [
-     "T",
-     "Dinamarca"
-    ],
-    [
-     "T",
-     "Polonia"
-    ],
-    [
-     "T",
-     "Paraguay"
-    ],
-    [
-     "T",
-     "Perú"
-    ],
-    [
-     "T",
-     "Ecuador"
-    ],
-    [
-     "T",
-     "Camerún"
-    ],
-    [
-     "T",
-     "Nigeria"
-    ],
-    [
-     "T",
-     "Senegal"
-    ],
-    [
-     "T",
-     "Ghana"
-    ],
-    [
-     "T",
-     "Costa Rica"
-    ],
-    [
-     "T",
-     "Australia"
-    ],
-    [
-     "T",
-     "Arabia Saudita",
-     "arabia"
-    ],
-    [
-     "T",
-     "Irán"
-    ],
-    [
-     "T",
-     "Qatar",
-     "catar"
-    ],
-    [
-     "T",
-     "Serbia",
-     "serbia y montenegro"
-    ],
-    [
-     "T",
-     "Rusia"
-    ],
-    [
-     "T",
-     "Túnez"
-    ],
-    [
-     "T",
-     "Egipto"
-    ],
-    [
-     "T",
-     "Argelia"
-    ],
-    [
-     "T",
-     "Canadá"
-    ],
-    [
-     "C",
-     "Austria"
-    ],
-    [
-     "C",
-     "Escocia"
-    ],
-    [
-     "C",
-     "Gales"
-    ],
-    [
-     "C",
-     "Irlanda",
-     "republica de irlanda"
-    ],
-    [
-     "C",
-     "Irlanda del Norte"
-    ],
-    [
-     "C",
-     "Noruega"
-    ],
-    [
-     "C",
-     "Grecia"
-    ],
-    [
-     "C",
-     "Turquía"
-    ],
-    [
-     "C",
-     "Rumania",
-     "rumania"
-    ],
-    [
-     "C",
-     "Bulgaria"
-    ],
-    [
-     "C",
-     "Hungría"
-    ],
-    [
-     "C",
-     "República Checa",
-     "chequia"
-    ],
-    [
-     "C",
-     "Eslovaquia"
-    ],
-    [
-     "C",
-     "Eslovenia"
-    ],
-    [
-     "C",
-     "Bosnia y Herzegovina",
-     "bosnia"
-    ],
-    [
-     "C",
-     "Ucrania"
-    ],
-    [
-     "C",
-     "Islandia"
-    ],
-    [
-     "C",
-     "Costa de Marfil"
-    ],
-    [
-     "C",
-     "Sudáfrica"
-    ],
-    [
-     "C",
-     "Bolivia"
-    ],
-    [
-     "C",
-     "Honduras"
-    ],
-    [
-     "C",
-     "Panamá"
-    ],
-    [
-     "C",
-     "Jamaica"
-    ],
-    [
-     "C",
-     "Uzbekistán"
-    ],
-    [
-     "C",
-     "Jordania"
-    ],
-    [
-     "C",
-     "Cabo Verde"
-    ],
-    [
-     "C",
-     "Curazao",
-     "curacao"
-    ],
-    [
-     "C",
-     "Nueva Zelanda"
-    ],
-    [
-     "C",
-     "China"
-    ],
-    [
-     "C",
-     "Unión Soviética",
-     "urss",
-     "union sovietica"
-    ],
-    [
-     "C",
-     "Yugoslavia"
-    ],
-    [
-     "C",
-     "Checoslovaquia"
-    ],
-    [
-     "D",
-     "Haití"
-    ],
-    [
-     "D",
-     "Corea del Norte"
-    ],
-    [
-     "D",
-     "Irak"
-    ],
-    [
-     "D",
-     "Emiratos Árabes Unidos",
-     "emiratos"
-    ],
-    [
-     "D",
-     "Kuwait"
-    ],
-    [
-     "D",
-     "Angola"
-    ],
-    [
-     "D",
-     "Togo"
-    ],
-    [
-     "D",
-     "Trinidad y Tobago",
-     "trinidad"
-    ],
-    [
-     "D",
-     "El Salvador"
-    ],
-    [
-     "D",
-     "Israel"
-    ],
-    [
-     "D",
-     "RD del Congo",
-     "republica democratica del congo",
-     "congo",
-     "zaire"
-    ],
-    [
-     "D",
-     "Alemania Oriental",
-     "alemania democratica",
-     "rda"
-    ],
-    [
-     "G",
-     "Cuba"
-    ],
-    [
-     "G",
-     "Indonesia",
-     "indias orientales neerlandesas",
-     "indias holandesas"
-    ]
-   ],
-   "completa": true,
-   "equipo": true,
-   "fuente": "https://en.wikipedia.org/wiki/National_team_appearances_in_the_FIFA_World_Cup"
-  },
-  {
-   "id": "gol_final_mundial",
-   "q": "Jugadores que hayan hecho un gol en una final de Mundial",
-   "r": [
     [
      "H",
      "Lionel Messi",
@@ -1206,87 +509,343 @@
     ],
     [
      "H",
-     "Kylian Mbappé"
+     "Sergio Ramos"
     ],
     [
-     "T",
+     "H",
      "Zinedine Zidane",
      "zizou"
     ],
     [
-     "T",
-     "Pelé"
+     "H",
+     "Gareth Bale"
     ],
     [
      "T",
-     "Ronaldo Nazário",
-     "ronaldo",
-     "r9"
+     "Karim Benzema"
     ],
     [
      "T",
-     "Andrés Iniesta"
+     "Vinícius Júnior",
+     "vinicius",
+     "vini jr"
     ],
     [
      "T",
-     "Mario Götze",
-     "goetze"
+     "Samuel Eto'o"
     ],
     [
      "T",
-     "Ángel Di María",
-     "di maria",
-     "fideo"
+     "Raúl González",
+     "raul"
     ],
     [
      "T",
-     "Ferran Torres",
-     "ferran",
-     "torres"
+     "Didier Drogba"
     ],
     [
      "T",
-     "Paul Pogba"
+     "Steven Gerrard"
     ],
     [
      "T",
-     "Antoine Griezmann"
+     "Filippo Inzaghi",
+     "pippo inzaghi"
     ],
     [
      "T",
-     "Marco Materazzi"
+     "Neymar"
     ],
     [
-     "C",
-     "Mario Kempes"
+     "T",
+     "Luis Suárez"
     ],
     [
-     "C",
-     "Gerd Müller"
+     "T",
+     "Mohamed Salah"
     ],
     [
-     "C",
-     "Paolo Rossi"
+     "T",
+     "Wayne Rooney"
     ],
     [
-     "C",
-     "Geoff Hurst"
+     "T",
+     "Frank Lampard"
     ],
     [
-     "C",
-     "Paul Breitner"
+     "T",
+     "Thomas Müller"
     ],
     [
-     "C",
-     "Andreas Brehme"
+     "T",
+     "Arjen Robben"
     ],
     [
-     "C",
+     "T",
+     "Casemiro"
+    ],
+    [
+     "T",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Kai Havertz"
+    ],
+    [
+     "T",
+     "Ole Gunnar Solskjær",
+     "solskjaer"
+    ],
+    [
+     "T",
+     "Alfredo Di Stéfano"
+    ],
+    [
+     "T",
      "Ferenc Puskás"
     ],
     [
+     "T",
+     "Johan Cruyff",
+     "cruijff"
+    ],
+    [
+     "T",
+     "Marco van Basten"
+    ],
+    [
+     "T",
+     "Ruud Gullit"
+    ],
+    [
+     "T",
+     "Paolo Maldini"
+    ],
+    [
+     "T",
+     "Diego Milito",
+     "principe milito"
+    ],
+    [
+     "T",
+     "Hernán Crespo"
+    ],
+    [
+     "T",
+     "Álvaro Morata"
+    ],
+    [
+     "T",
+     "Marcelo"
+    ],
+    [
+     "T",
+     "Sadio Mané"
+    ],
+    [
+     "T",
+     "Alessandro Del Piero"
+    ],
+    [
+     "T",
+     "Patrick Kluivert"
+    ],
+    [
+     "T",
+     "Eusébio"
+    ],
+    [
+     "T",
+     "Gerd Müller"
+    ],
+    [
+     "T",
+     "Michel Platini"
+    ],
+    [
+     "T",
+     "Bobby Charlton"
+    ],
+    [
+     "T",
+     "George Best"
+    ],
+    [
+     "T",
+     "David Villa"
+    ],
+    [
+     "T",
+     "Pedro Rodríguez",
+     "pedrito"
+    ],
+    [
+     "T",
+     "Xabi Alonso"
+    ],
+    [
      "C",
-     "Alcides Ghiggia"
+     "Kenny Dalglish"
+    ],
+    [
+     "C",
+     "Ronald Koeman"
+    ],
+    [
+     "C",
+     "Frank Rijkaard"
+    ],
+    [
+     "C",
+     "Marcel Desailly"
+    ],
+    [
+     "C",
+     "Dani Carvajal"
+    ],
+    [
+     "C",
+     "Achraf Hakimi"
+    ],
+    [
+     "C",
+     "Khvicha Kvaratskhelia",
+     "kvaradona"
+    ],
+    [
+     "C",
+     "Désiré Doué"
+    ],
+    [
+     "C",
+     "Mario Mandžukić"
+    ],
+    [
+     "C",
+     "İlkay Gündoğan"
+    ],
+    [
+     "C",
+     "Ivan Rakitić"
+    ],
+    [
+     "C",
+     "Marco Asensio"
+    ],
+    [
+     "C",
+     "Kingsley Coman"
+    ],
+    [
+     "C",
+     "Divock Origi"
+    ],
+    [
+     "C",
+     "Diego Godín"
+    ],
+    [
+     "C",
+     "Yannick Carrasco"
+    ],
+    [
+     "C",
+     "Teddy Sheringham"
+    ],
+    [
+     "C",
+     "Fernando Morientes"
+    ],
+    [
+     "C",
+     "Steve McManaman"
+    ],
+    [
+     "C",
+     "Predrag Mijatović"
+    ],
+    [
+     "C",
+     "Deco"
+    ],
+    [
+     "C",
+     "Lúcio"
+    ],
+    [
+     "C",
+     "Karl-Heinz Riedle"
+    ],
+    [
+     "C",
+     "Jari Litmanen"
+    ],
+    [
+     "C",
+     "Dejan Savićević"
+    ],
+    [
+     "C",
+     "Daniele Massaro"
+    ],
+    [
+     "C",
+     "Fabrizio Ravanelli"
+    ],
+    [
+     "C",
+     "Dirk Kuyt"
+    ],
+    [
+     "C",
+     "Vladimír Šmicer"
+    ],
+    [
+     "C",
+     "Sol Campbell"
+    ],
+    [
+     "C",
+     "Juliano Belletti"
+    ],
+    [
+     "C",
+     "Stefan Effenberg"
+    ],
+    [
+     "C",
+     "Gaizka Mendieta"
+    ],
+    [
+     "C",
+     "Mario Basler"
+    ],
+    [
+     "C",
+     "Rabah Madjer"
+    ],
+    [
+     "C",
+     "Uli Hoeneß"
+    ],
+    [
+     "C",
+     "Francisco Gento",
+     "paco gento"
+    ],
+    [
+     "C",
+     "Sandro Mazzola"
+    ],
+    [
+     "C",
+     "José Altafini"
     ],
     [
      "C",
@@ -1295,11 +854,608 @@
     ],
     [
      "C",
-     "Vavá"
+     "Felix Magath"
     ],
     [
      "C",
-     "Jairzinho"
+     "Trevor Francis"
+    ],
+    [
+     "C",
+     "Allan Simonsen"
+    ],
+    [
+     "C",
+     "Brian Kidd"
+    ],
+    [
+     "C",
+     "Luis Aragonés"
+    ],
+    [
+     "C",
+     "Lars Ricken"
+    ],
+    [
+     "C",
+     "Basile Boli"
+    ],
+    [
+     "D",
+     "Héctor Rial"
+    ],
+    [
+     "D",
+     "Marquitos",
+     "marcos alonso imaz"
+    ],
+    [
+     "D",
+     "Enrique Mateos"
+    ],
+    [
+     "D",
+     "Amancio Amaro",
+     "amancio"
+    ],
+    [
+     "D",
+     "Jair da Costa"
+    ],
+    [
+     "D",
+     "Pierino Prati"
+    ],
+    [
+     "D",
+     "Tommy Gemmell"
+    ],
+    [
+     "D",
+     "Stevie Chalmers"
+    ],
+    [
+     "D",
+     "Johnny Rep"
+    ],
+    [
+     "D",
+     "Arie Haan"
+    ],
+    [
+     "D",
+     "Dick van Dijk"
+    ],
+    [
+     "D",
+     "Rinus Israël"
+    ],
+    [
+     "D",
+     "Ove Kindvall"
+    ],
+    [
+     "D",
+     "Hans-Georg Schwarzenbeck"
+    ],
+    [
+     "D",
+     "Franz Roth"
+    ],
+    [
+     "D",
+     "Phil Neal"
+    ],
+    [
+     "D",
+     "Terry McDermott"
+    ],
+    [
+     "D",
+     "Tommy Smith"
+    ],
+    [
+     "D",
+     "John Robertson"
+    ],
+    [
+     "D",
+     "Alan Kennedy"
+    ],
+    [
+     "D",
+     "Peter Withe"
+    ],
+    [
+     "D",
+     "Roberto Pruzzo"
+    ],
+    [
+     "D",
+     "Ludwig Kögl"
+    ],
+    [
+     "D",
+     "Juary"
+    ],
+    [
+     "D",
+     "Carlos Alberto de Souza",
+     "carlos alberto"
+    ],
+    [
+     "D",
+     "Dmitri Alenichev"
+    ],
+    [
+     "D",
+     "Senny Mayulu"
+    ],
+    [
+     "D",
+     "José Águas"
+    ],
+    [
+     "D",
+     "Mário Coluna"
+    ],
+    [
+     "D",
+     "Sándor Kocsis"
+    ],
+    [
+     "D",
+     "Zoltán Czibor"
+    ],
+    [
+     "D",
+     "Velibor Vasović"
+    ],
+    [
+     "D",
+     "Angelo Sormani"
+    ],
+    [
+     "D",
+     "Aurelio Milani"
+    ],
+    [
+     "D",
+     "Michel Hidalgo"
+    ],
+    [
+     "D",
+     "Jaime Graça"
+    ],
+    [
+     "D",
+     "Erwin Stein"
+    ],
+    [
+     "D",
+     "Richard Kress"
+    ],
+    [
+     "D",
+     "Fernando Serena"
+    ],
+    [
+     "D",
+     "Felo"
+    ],
+    [
+     "D",
+     "Domiciano Cavém"
+    ],
+    [
+     "D",
+     "Ernesto Grillo"
+    ],
+    [
+     "G",
+     "Michel Leblond"
+    ],
+    [
+     "G",
+     "Jean Templin"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+   "dia": 1
+  },
+  {
+   "id": "campeones_francia",
+   "q": "Jugadores que hayan sido campeones del mundo con Francia",
+   "r": [
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "T",
+     "Thierry Henry"
+    ],
+    [
+     "T",
+     "Antoine Griezmann"
+    ],
+    [
+     "T",
+     "Paul Pogba"
+    ],
+    [
+     "T",
+     "Didier Deschamps"
+    ],
+    [
+     "T",
+     "Fabien Barthez"
+    ],
+    [
+     "T",
+     "Hugo Lloris"
+    ],
+    [
+     "T",
+     "N'Golo Kanté"
+    ],
+    [
+     "T",
+     "Olivier Giroud"
+    ],
+    [
+     "T",
+     "Raphaël Varane"
+    ],
+    [
+     "T",
+     "Lilian Thuram"
+    ],
+    [
+     "T",
+     "David Trezeguet"
+    ],
+    [
+     "T",
+     "Patrick Vieira"
+    ],
+    [
+     "T",
+     "Marcel Desailly"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Laurent Blanc"
+    ],
+    [
+     "C",
+     "Emmanuel Petit"
+    ],
+    [
+     "C",
+     "Youri Djorkaeff"
+    ],
+    [
+     "C",
+     "Bixente Lizarazu"
+    ],
+    [
+     "C",
+     "Christian Karembeu"
+    ],
+    [
+     "C",
+     "Robert Pires"
+    ],
+    [
+     "C",
+     "Samuel Umtiti"
+    ],
+    [
+     "C",
+     "Benjamin Pavard"
+    ],
+    [
+     "C",
+     "Lucas Hernández"
+    ],
+    [
+     "C",
+     "Blaise Matuidi"
+    ],
+    [
+     "C",
+     "Nabil Fekir"
+    ],
+    [
+     "C",
+     "Corentin Tolisso"
+    ],
+    [
+     "C",
+     "Steven Nzonzi"
+    ],
+    [
+     "C",
+     "Thomas Lemar"
+    ],
+    [
+     "C",
+     "Benjamin Mendy"
+    ],
+    [
+     "C",
+     "Presnel Kimpembe"
+    ],
+    [
+     "C",
+     "Florian Thauvin"
+    ],
+    [
+     "C",
+     "Steve Mandanda"
+    ],
+    [
+     "C",
+     "Djibril Sidibé"
+    ],
+    [
+     "C",
+     "Christophe Dugarry"
+    ],
+    [
+     "C",
+     "Frank Leboeuf"
+    ],
+    [
+     "C",
+     "Alain Boghossian"
+    ],
+    [
+     "C",
+     "Vincent Candela"
+    ],
+    [
+     "D",
+     "Alphonse Areola"
+    ],
+    [
+     "D",
+     "Adil Rami"
+    ],
+    [
+     "D",
+     "Bernard Lama"
+    ],
+    [
+     "D",
+     "Stéphane Guivarc'h"
+    ],
+    [
+     "G",
+     "Lionel Charbonnier"
+    ],
+    [
+     "G",
+     "Bernard Diomède"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+   "dia": 1
+  },
+  {
+   "id": "estadios_final_mundial",
+   "q": "Estadios que hayan sido sede de una final de Mundial",
+   "r": [
+    [
+     "H",
+     "Maracanã",
+     "maracana",
+     "estadio maracana",
+     "mario filho"
+    ],
+    [
+     "H",
+     "Wembley",
+     "estadio de wembley"
+    ],
+    [
+     "T",
+     "Estadio Azteca",
+     "azteca",
+     "estadio banorte"
+    ],
+    [
+     "T",
+     "Estadio Monumental",
+     "monumental",
+     "el monumental",
+     "monumental de nunez",
+     "antonio vespucio liberti"
+    ],
+    [
+     "T",
+     "Santiago Bernabéu",
+     "bernabeu",
+     "estadio santiago bernabeu"
+    ],
+    [
+     "T",
+     "Stade de France",
+     "estadio de francia"
+    ],
+    [
+     "T",
+     "Estadio Lusail",
+     "lusail",
+     "lusail stadium"
+    ],
+    [
+     "T",
+     "MetLife Stadium",
+     "metlife",
+     "estadio metlife",
+     "new york new jersey stadium"
+    ],
+    [
+     "T",
+     "Estadio Nacional de Chile",
+     "estadio nacional",
+     "estadio nacional julio martinez pradanos"
+    ],
+    [
+     "C",
+     "Estadio Olímpico de Roma",
+     "olimpico de roma",
+     "stadio olimpico"
+    ],
+    [
+     "C",
+     "Estadio Olímpico de Berlín",
+     "olimpico de berlin",
+     "olympiastadion berlin"
+    ],
+    [
+     "C",
+     "Soccer City",
+     "fnb stadium",
+     "estadio soccer city"
+    ],
+    [
+     "C",
+     "Estadio Luzhniki",
+     "luzhniki"
+    ],
+    [
+     "C",
+     "Estadio Centenario",
+     "centenario"
+    ],
+    [
+     "C",
+     "Rose Bowl"
+    ],
+    [
+     "D",
+     "Estadio Olímpico de Múnich",
+     "olimpico de munich",
+     "olympiastadion munchen",
+     "olympiastadion munich"
+    ],
+    [
+     "D",
+     "Estadio Internacional de Yokohama",
+     "yokohama",
+     "nissan stadium",
+     "estadio de yokohama"
+    ],
+    [
+     "D",
+     "Estadio Råsunda",
+     "rasunda"
+    ],
+    [
+     "D",
+     "Estadio Wankdorf",
+     "wankdorf",
+     "wankdorfstadion"
+    ],
+    [
+     "G",
+     "Stadio Nazionale PNF",
+     "stadio nazionale",
+     "estadio nacional del pnf",
+     "stadio del partito nazionale fascista"
+    ],
+    [
+     "G",
+     "Stade Olympique de Colombes",
+     "colombes",
+     "stade yves du manoir",
+     "estadio de colombes"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "estadio",
+   "fuente": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_final_stadiums",
+   "dia": 1
+  },
+  {
+   "id": "capitanes_campeones",
+   "q": "Capitanes de selecciones campeonas del mundo",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Diego Maradona",
+     "maradona"
+    ],
+    [
+     "T",
+     "Cafu"
+    ],
+    [
+     "T",
+     "Iker Casillas",
+     "san iker"
+    ],
+    [
+     "T",
+     "Franz Beckenbauer",
+     "kaiser"
+    ],
+    [
+     "T",
+     "Fabio Cannavaro"
+    ],
+    [
+     "T",
+     "Hugo Lloris"
+    ],
+    [
+     "T",
+     "Philipp Lahm"
+    ],
+    [
+     "T",
+     "Didier Deschamps"
+    ],
+    [
+     "T",
+     "Lothar Matthäus"
+    ],
+    [
+     "T",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Daniel Passarella"
+    ],
+    [
+     "T",
+     "Bobby Moore"
+    ],
+    [
+     "T",
+     "Dunga"
     ],
     [
      "C",
@@ -1308,261 +1464,179 @@
     ],
     [
      "C",
-     "Emmanuel Petit"
+     "Dino Zoff"
     ],
     [
      "C",
-     "Mario Mandžukić"
+     "Obdulio Varela",
+     "negro jefe"
     ],
     [
      "C",
-     "Ivan Perišić"
+     "Fritz Walter"
+    ],
+    [
+     "D",
+     "Hilderaldo Bellini",
+     "bellini"
+    ],
+    [
+     "D",
+     "Giuseppe Meazza"
+    ],
+    [
+     "D",
+     "Mauro Ramos"
+    ],
+    [
+     "G",
+     "José Nasazzi"
+    ],
+    [
+     "G",
+     "Giampiero Combi"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://www.chaseyoursport.com/football/all-fifa-world-cup-winning-captains-history/12710",
+   "dia": 1
+  },
+  {
+   "id": "goleadores_mundial",
+   "q": "Jugadores que hayan sido máximo goleador de un Mundial (cuentan los empatados)",
+   "r": [
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "T",
+     "Miroslav Klose"
+    ],
+    [
+     "T",
+     "Harry Kane"
+    ],
+    [
+     "T",
+     "James Rodríguez"
+    ],
+    [
+     "T",
+     "Thomas Müller"
+    ],
+    [
+     "T",
+     "Mario Kempes"
+    ],
+    [
+     "T",
+     "Gary Lineker"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "T",
+     "Eusébio"
+    ],
+    [
+     "T",
+     "Davor Šuker"
+    ],
+    [
+     "T",
+     "David Villa"
+    ],
+    [
+     "T",
+     "Wesley Sneijder"
+    ],
+    [
+     "T",
+     "Diego Forlán"
+    ],
+    [
+     "T",
+     "Hristo Stoichkov"
+    ],
+    [
+     "T",
+     "Gerd Müller"
     ],
     [
      "C",
-     "Karl-Heinz Rummenigge"
+     "Salvatore Schillaci",
+     "toto schillaci"
     ],
     [
      "C",
-     "Rudi Völler"
+     "Just Fontaine"
     ],
     [
      "C",
-     "Jorge Burruchaga"
+     "Garrincha"
     ],
     [
      "C",
-     "Jorge Valdano"
+     "Leônidas"
     ],
     [
      "C",
-     "Marco Tardelli"
+     "Sándor Kocsis"
     ],
     [
      "C",
-     "Johan Neeskens"
+     "Grzegorz Lato"
     ],
     [
      "C",
-     "Helmut Rahn"
+     "Oleg Salenko"
     ],
     [
-     "D",
-     "Gérson"
+     "C",
+     "Vavá"
     ],
     [
-     "D",
-     "Mário Zagallo",
-     "zagallo"
+     "C",
+     "Leonel Sánchez"
     ],
     [
-     "D",
-     "Amarildo"
-    ],
-    [
-     "D",
-     "Zito"
-    ],
-    [
-     "D",
-     "Josef Masopust"
-    ],
-    [
-     "D",
-     "Roberto Boninsegna"
-    ],
-    [
-     "D",
-     "Alessandro Altobelli"
-    ],
-    [
-     "D",
-     "Daniel Bertoni"
-    ],
-    [
-     "D",
-     "José Luis Brown",
-     "tata brown"
-    ],
-    [
-     "D",
-     "Martin Peters"
-    ],
-    [
-     "D",
-     "Helmut Haller"
-    ],
-    [
-     "D",
-     "Wolfgang Weber"
-    ],
-    [
-     "D",
-     "Nils Liedholm"
-    ],
-    [
-     "D",
-     "Max Morlock"
-    ],
-    [
-     "D",
-     "Zoltán Czibor"
-    ],
-    [
-     "D",
-     "Silvio Piola"
-    ],
-    [
-     "D",
-     "György Sárosi"
-    ],
-    [
-     "D",
+     "C",
      "Guillermo Stábile"
     ],
     [
      "D",
-     "Héctor Castro"
+     "Ademir"
     ],
     [
      "D",
-     "Pedro Cea"
+     "Valentin Ivanov"
     ],
     [
      "D",
-     "Dirk Nanninga"
-    ],
-    [
-     "D",
-     "Friaça"
-    ],
-    [
-     "D",
-     "Agne Simonsson"
-    ],
-    [
-     "D",
-     "Raimundo Orsi"
-    ],
-    [
-     "D",
-     "Gino Colaussi"
-    ],
-    [
-     "D",
-     "Angelo Schiavio"
-    ],
-    [
-     "D",
-     "Carlos Peucelle"
-    ],
-    [
-     "D",
-     "Santos Iriarte"
-    ],
-    [
-     "D",
-     "Pablo Dorado"
+     "Flórián Albert"
     ],
     [
      "G",
-     "Antonín Puč"
+     "Oldřich Nejedlý"
     ],
     [
      "G",
-     "Pál Titkos"
+     "Dražan Jerković"
     ]
    ],
    "completa": true,
-   "fuente": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_final_goalscorers"
-  },
-  {
-   "id": "chilenos_inglaterra",
-   "q": "Chilenos que hayan jugado en la primera división de Inglaterra (Premier League o la antigua First Division)",
-   "r": [
-    [
-     "H",
-     "Alexis Sánchez",
-     "alexis",
-     "nino maravilla"
-    ],
-    [
-     "T",
-     "Claudio Bravo"
-    ],
-    [
-     "T",
-     "Gary Medel",
-     "pitbull"
-    ],
-    [
-     "C",
-     "Mauricio Isla",
-     "huaso isla"
-    ],
-    [
-     "C",
-     "Eduardo Vargas",
-     "turboman"
-    ],
-    [
-     "C",
-     "Ben Brereton Díaz",
-     "brereton",
-     "ben brereton"
-    ],
-    [
-     "C",
-     "Mark González"
-    ],
-    [
-     "C",
-     "David Pizarro"
-    ],
-    [
-     "C",
-     "Jean Beausejour"
-    ],
-    [
-     "C",
-     "Gonzalo Jara"
-    ],
-    [
-     "D",
-     "Javier Margas"
-    ],
-    [
-     "D",
-     "Clarence Acuña"
-    ],
-    [
-     "D",
-     "Carlos Villanueva"
-    ],
-    [
-     "D",
-     "Luis Jiménez"
-    ],
-    [
-     "D",
-     "Ángelo Henríquez"
-    ],
-    [
-     "D",
-     "Francisco Sierralta"
-    ],
-    [
-     "G",
-     "Jorge Robledo",
-     "george robledo"
-    ],
-    [
-     "G",
-     "Eduardo Robledo",
-     "ted robledo"
-    ]
-   ],
-   "fuente": "https://www.prensafutbol.cl/563569-brereton-los-18-chilenos-que-han-jugado-en-la-premier-league/"
+   "fuente": "https://worldsoccertalk.com/world-cup/list-of-world-cup-golden-boot-winners-every-top-scorer-from-1930-to-present/",
+   "dia": 1
   }
  ]
 }
