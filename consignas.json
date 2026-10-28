@@ -3713,6 +3713,2250 @@
    ],
    "fuente": "Planteles de PSG y FC Barcelona (el Barça cuenta 15 jugadores en ambos clubes)",
    "dia": 3
+  },
+  {
+   "id": "liverpool_chelsea",
+   "q": "Jugadores que hayan jugado en el Liverpool y en el Chelsea",
+   "r": [
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "H",
+     "Fernando Torres",
+     "el niño torres",
+     "nino torres"
+    ],
+    [
+     "H",
+     "Raheem Sterling"
+    ],
+    [
+     "T",
+     "Daniel Sturridge"
+    ],
+    [
+     "T",
+     "Joe Cole"
+    ],
+    [
+     "T",
+     "Glen Johnson"
+    ],
+    [
+     "T",
+     "Nicolas Anelka"
+    ],
+    [
+     "T",
+     "Yossi Benayoun"
+    ],
+    [
+     "T",
+     "Raul Meireles"
+    ],
+    [
+     "T",
+     "Victor Moses"
+    ],
+    [
+     "T",
+     "Dominic Solanke"
+    ],
+    [
+     "T",
+     "Fabio Borini"
+    ],
+    [
+     "C",
+     "Bolo Zenden",
+     "boudewijn zenden"
+    ],
+    [
+     "C",
+     "Nigel Spackman"
+    ],
+    [
+     "C",
+     "Joey Jones"
+    ],
+    [
+     "D",
+     "David Speedie"
+    ]
+   ],
+   "fuente": "https://www.planetfootball.com/quick-reads/liverpool-chelsea-players-ranking-played-for-both-combined-premier-league + planteles",
+   "dia": 4
+  },
+  {
+   "id": "portugueses_real_madrid",
+   "q": "Portugueses que hayan jugado en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "H",
+     "Pepe"
+    ],
+    [
+     "T",
+     "Ricardo Carvalho"
+    ],
+    [
+     "T",
+     "Fábio Coentrão",
+     "coentrao"
+    ],
+    [
+     "T",
+     "Bernardo Silva"
+    ],
+    [
+     "C",
+     "Secretário",
+     "secretario"
+    ],
+    [
+     "D",
+     "Edgar"
+    ],
+    [
+     "G",
+     "Pedro Mendes"
+    ]
+   ],
+   "fuente": "https://lahora.gt/secciones-para-ti/deportes/jcortega/2026/06/17/bernardo-silva-es-nuevo-jugador-del-real-madrid-estos-son-los-portugueses-que-han-jugado-en-el-club-merengue/",
+   "dia": 4
+  },
+  {
+   "id": "river_libertadores_2018",
+   "q": "Jugadores que hayan sido campeones de la Copa Libertadores 2018 con River",
+   "r": [
+    [
+     "H",
+     "Julián Álvarez",
+     "julian alvarez",
+     "araña alvarez"
+    ],
+    [
+     "H",
+     "Enzo Pérez"
+    ],
+    [
+     "H",
+     "Franco Armani"
+    ],
+    [
+     "H",
+     "Gonzalo Martínez",
+     "pity martinez",
+     "pity"
+    ],
+    [
+     "H",
+     "Juan Fernando Quintero",
+     "juanfer quintero",
+     "juanfer"
+    ],
+    [
+     "H",
+     "Lucas Pratto",
+     "oso pratto"
+    ],
+    [
+     "H",
+     "Gonzalo Montiel",
+     "cachete montiel"
+    ],
+    [
+     "T",
+     "Leonardo Ponzio"
+    ],
+    [
+     "T",
+     "Exequiel Palacios"
+    ],
+    [
+     "T",
+     "Rafael Santos Borré",
+     "rafael borre",
+     "borre"
+    ],
+    [
+     "T",
+     "Ignacio Fernández",
+     "nacho fernandez"
+    ],
+    [
+     "T",
+     "Javier Pinola"
+    ],
+    [
+     "T",
+     "Jonatan Maidana"
+    ],
+    [
+     "T",
+     "Lucas Martínez Quarta"
+    ],
+    [
+     "T",
+     "Milton Casco"
+    ],
+    [
+     "T",
+     "Ignacio Scocco"
+    ],
+    [
+     "T",
+     "Nicolás De La Cruz"
+    ],
+    [
+     "T",
+     "Camilo Mayada"
+    ],
+    [
+     "T",
+     "Rodrigo Mora"
+    ],
+    [
+     "T",
+     "Bruno Zuculini"
+    ],
+    [
+     "T",
+     "Germán Lux"
+    ],
+    [
+     "T",
+     "Santiago Sosa"
+    ],
+    [
+     "C",
+     "Marcelo Saracchi"
+    ],
+    [
+     "C",
+     "Jorge Moreira"
+    ],
+    [
+     "C",
+     "Luciano Lollo"
+    ],
+    [
+     "C",
+     "Benjamín Rollheiser"
+    ],
+    [
+     "C",
+     "Kevin Sibille"
+    ],
+    [
+     "C",
+     "David Martínez"
+    ],
+    [
+     "C",
+     "Cristian Ferreira"
+    ],
+    [
+     "C",
+     "Enrique Bologna"
+    ],
+    [
+     "C",
+     "Nahuel Gallardo"
+    ],
+    [
+     "C",
+     "Ariel Rojas"
+    ],
+    [
+     "C",
+     "Carlos Auzqui"
+    ],
+    [
+     "C",
+     "Iván Rossi"
+    ],
+    [
+     "C",
+     "Marcelo Larrondo"
+    ],
+    [
+     "D",
+     "Ezequiel Centurión"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://lapaginamillonaria.com/riverplate/Que-es-de-la-vida-de-los-jugadores-de-River-de-la-Copa-Libertadores-2018-que-le-ganaron-a-Boca-la-final-en-el-Bernabeu-20210531-0011.html (36 inscritos)",
+   "dia": 4
+  },
+  {
+   "id": "dt_campeones_mundo",
+   "q": "Entrenadores que hayan sido campeones del mundo",
+   "r": [
+    [
+     "H",
+     "Lionel Scaloni",
+     "scaloni"
+    ],
+    [
+     "H",
+     "Didier Deschamps"
+    ],
+    [
+     "H",
+     "Vicente del Bosque"
+    ],
+    [
+     "T",
+     "Joachim Löw",
+     "jogi low"
+    ],
+    [
+     "T",
+     "Luiz Felipe Scolari",
+     "felipao"
+    ],
+    [
+     "T",
+     "Marcello Lippi"
+    ],
+    [
+     "T",
+     "César Luis Menotti",
+     "flaco menotti"
+    ],
+    [
+     "T",
+     "Carlos Bilardo",
+     "narigon bilardo"
+    ],
+    [
+     "T",
+     "Franz Beckenbauer",
+     "kaiser"
+    ],
+    [
+     "T",
+     "Mário Zagallo",
+     "zagallo"
+    ],
+    [
+     "T",
+     "Carlos Alberto Parreira"
+    ],
+    [
+     "T",
+     "Luis de la Fuente"
+    ],
+    [
+     "C",
+     "Enzo Bearzot"
+    ],
+    [
+     "C",
+     "Aimé Jacquet"
+    ],
+    [
+     "C",
+     "Alf Ramsey"
+    ],
+    [
+     "C",
+     "Helmut Schön"
+    ],
+    [
+     "C",
+     "Vittorio Pozzo"
+    ],
+    [
+     "C",
+     "Vicente Feola"
+    ],
+    [
+     "D",
+     "Sepp Herberger"
+    ],
+    [
+     "D",
+     "Aymoré Moreira"
+    ],
+    [
+     "D",
+     "Juan López Fontana"
+    ],
+    [
+     "G",
+     "Alberto Suppici"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos campeones de cada Mundial 1930-2026",
+   "dia": 4
+  },
+  {
+   "id": "campeones_italia",
+   "q": "Clubes que hayan sido campeones de Italia",
+   "r": [
+    [
+     "H",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "H",
+     "Inter",
+     "internazionale",
+     "inter de milan"
+    ],
+    [
+     "H",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "T",
+     "Napoli",
+     "napoles"
+    ],
+    [
+     "T",
+     "Roma",
+     "as roma"
+    ],
+    [
+     "T",
+     "Lazio"
+    ],
+    [
+     "T",
+     "Fiorentina"
+    ],
+    [
+     "C",
+     "Torino"
+    ],
+    [
+     "C",
+     "Bologna",
+     "bolonia"
+    ],
+    [
+     "C",
+     "Genoa"
+    ],
+    [
+     "C",
+     "Sampdoria"
+    ],
+    [
+     "C",
+     "Cagliari"
+    ],
+    [
+     "C",
+     "Hellas Verona",
+     "verona"
+    ],
+    [
+     "D",
+     "Pro Vercelli"
+    ],
+    [
+     "D",
+     "Casale"
+    ],
+    [
+     "G",
+     "Novese"
+    ]
+   ],
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés del campeonato italiano (Serie A y torneos anteriores a 1929)",
+   "dia": 4
+  },
+  {
+   "id": "alemania_2014",
+   "q": "Jugadores que hayan sido campeones del mundo con Alemania en 2014",
+   "r": [
+    [
+     "H",
+     "Manuel Neuer"
+    ],
+    [
+     "H",
+     "Thomas Müller"
+    ],
+    [
+     "H",
+     "Toni Kroos"
+    ],
+    [
+     "H",
+     "Philipp Lahm"
+    ],
+    [
+     "H",
+     "Bastian Schweinsteiger"
+    ],
+    [
+     "H",
+     "Miroslav Klose"
+    ],
+    [
+     "H",
+     "Mario Götze"
+    ],
+    [
+     "H",
+     "Mesut Özil"
+    ],
+    [
+     "T",
+     "Mats Hummels"
+    ],
+    [
+     "T",
+     "Jérôme Boateng"
+    ],
+    [
+     "T",
+     "Sami Khedira"
+    ],
+    [
+     "T",
+     "André Schürrle"
+    ],
+    [
+     "T",
+     "Lukas Podolski"
+    ],
+    [
+     "T",
+     "Per Mertesacker"
+    ],
+    [
+     "T",
+     "Benedikt Höwedes"
+    ],
+    [
+     "T",
+     "Julian Draxler"
+    ],
+    [
+     "T",
+     "Christoph Kramer"
+    ],
+    [
+     "T",
+     "Matthias Ginter"
+    ],
+    [
+     "T",
+     "Shkodran Mustafi"
+    ],
+    [
+     "C",
+     "Kevin Großkreutz",
+     "kevin grosskreutz"
+    ],
+    [
+     "C",
+     "Roman Weidenfeller"
+    ],
+    [
+     "D",
+     "Erik Durm"
+    ],
+    [
+     "D",
+     "Ron-Robert Zieler"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 23 de Alemania en Brasil 2014",
+   "dia": 4
+  },
+  {
+   "id": "gol_final_eurocopa",
+   "q": "Jugadores que hayan hecho un gol en una final de Eurocopa",
+   "r": [
+    [
+     "H",
+     "Fernando Torres",
+     "el niño torres",
+     "nino torres"
+    ],
+    [
+     "H",
+     "Marco van Basten"
+    ],
+    [
+     "H",
+     "Ruud Gullit"
+    ],
+    [
+     "H",
+     "Michel Platini"
+    ],
+    [
+     "T",
+     "Gerd Müller",
+     "torpedo muller"
+    ],
+    [
+     "T",
+     "David Trezeguet"
+    ],
+    [
+     "T",
+     "Sylvain Wiltord"
+    ],
+    [
+     "T",
+     "Oliver Bierhoff"
+    ],
+    [
+     "T",
+     "Angelos Charisteas"
+    ],
+    [
+     "T",
+     "Éder",
+     "eder"
+    ],
+    [
+     "T",
+     "Jordi Alba"
+    ],
+    [
+     "T",
+     "David Silva"
+    ],
+    [
+     "T",
+     "Juan Mata"
+    ],
+    [
+     "T",
+     "Leonardo Bonucci"
+    ],
+    [
+     "T",
+     "Luke Shaw"
+    ],
+    [
+     "T",
+     "Nico Williams"
+    ],
+    [
+     "T",
+     "Mikel Oyarzabal"
+    ],
+    [
+     "T",
+     "Cole Palmer"
+    ],
+    [
+     "T",
+     "Gigi Riva",
+     "luigi riva"
+    ],
+    [
+     "T",
+     "Patrik Berger"
+    ],
+    [
+     "C",
+     "Horst Hrubesch"
+    ],
+    [
+     "C",
+     "Marco Delvecchio"
+    ],
+    [
+     "C",
+     "John Jensen"
+    ],
+    [
+     "C",
+     "Kim Vilfort"
+    ],
+    [
+     "C",
+     "Bruno Bellone"
+    ],
+    [
+     "C",
+     "Pietro Anastasi"
+    ],
+    [
+     "C",
+     "Marcelino Martínez",
+     "marcelino"
+    ],
+    [
+     "C",
+     "Dieter Müller"
+    ],
+    [
+     "C",
+     "Bernd Hölzenbein"
+    ],
+    [
+     "C",
+     "René Vandereycken"
+    ],
+    [
+     "C",
+     "Viktor Ponedelnik"
+    ],
+    [
+     "C",
+     "Dragan Džajić",
+     "dzajic"
+    ],
+    [
+     "C",
+     "Angelo Domenghini"
+    ],
+    [
+     "D",
+     "Milan Galić"
+    ],
+    [
+     "D",
+     "Slava Metreveli"
+    ],
+    [
+     "D",
+     "Jesús María Pereda"
+    ],
+    [
+     "D",
+     "Herbert Wimmer"
+    ],
+    [
+     "D",
+     "Karol Dobiaš"
+    ],
+    [
+     "G",
+     "Ján Švehlík"
+    ],
+    [
+     "G",
+     "Galimzyan Khusainov",
+     "galimzian jusainov"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Goleadores de las finales de la Eurocopa 1960-2024 (incluye el desempate de 1968)",
+   "dia": 4
+  },
+  {
+   "id": "atletico_real_madrid",
+   "q": "Jugadores que hayan jugado en el Atlético de Madrid y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Thibaut Courtois"
+    ],
+    [
+     "H",
+     "Álvaro Morata"
+    ],
+    [
+     "H",
+     "Hugo Sánchez",
+     "hugol"
+    ],
+    [
+     "T",
+     "Marcos Llorente"
+    ],
+    [
+     "T",
+     "Bernd Schuster"
+    ],
+    [
+     "T",
+     "Santiago Solari",
+     "indiecito solari"
+    ],
+    [
+     "T",
+     "Juanfran"
+    ],
+    [
+     "T",
+     "José Antonio Reyes"
+    ],
+    [
+     "T",
+     "Sergio Reguilón"
+    ],
+    [
+     "T",
+     "Juan Esnáider",
+     "esnaider"
+    ],
+    [
+     "T",
+     "Paco Llorente"
+    ],
+    [
+     "C",
+     "Antonio Adán"
+    ],
+    [
+     "C",
+     "José Manuel Jurado",
+     "jurado"
+    ],
+    [
+     "C",
+     "José García Calvo",
+     "garcia calvo"
+    ],
+    [
+     "C",
+     "Mario Hermoso"
+    ],
+    [
+     "C",
+     "Pedro Jaro"
+    ],
+    [
+     "C",
+     "Ramón Grosso"
+    ],
+    [
+     "C",
+     "Sebastián Losada"
+    ],
+    [
+     "C",
+     "Miguel Soler"
+    ],
+    [
+     "D",
+     "Pruden Sánchez",
+     "pruden"
+    ],
+    [
+     "D",
+     "Luis Olaso"
+    ],
+    [
+     "D",
+     "Cosme Vázquez"
+    ],
+    [
+     "D",
+     "Luis Marín"
+    ],
+    [
+     "D",
+     "Joaquín Parra"
+    ],
+    [
+     "D",
+     "Juan Antonio Ipiña"
+    ],
+    [
+     "D",
+     "José Luis Pérez-Payá",
+     "perez paya"
+    ],
+    [
+     "D",
+     "Francisco Moraleda"
+    ],
+    [
+     "D",
+     "Cándido Martínez"
+    ],
+    [
+     "D",
+     "José Cabo"
+    ],
+    [
+     "G",
+     "Monchín Triana"
+    ],
+    [
+     "G",
+     "Jaime Lazcano"
+    ]
+   ],
+   "fuente": "https://www.goal.com/es/listados/de-thibaut-courtois-a-alvaro-morata-que-futbolistas-que-cruzaron-la-rivalidad-en-el-derbi-madrileno-y-jugaron-tanto-en-el-real-madrid-como-en-el-atletico-de-madrid/blt38b54940da9d16da · https://www.laliga.com/noticias/elderbi-futbolistas-que-han-jugado-en-real-madrid-y-atletico-de-madrid",
+   "dia": 5
+  },
+  {
+   "id": "uruguayos_atletico",
+   "q": "Uruguayos que hayan jugado en el Atlético de Madrid",
+   "r": [
+    [
+     "H",
+     "Diego Forlán"
+    ],
+    [
+     "H",
+     "Diego Godín"
+    ],
+    [
+     "H",
+     "Luis Suárez",
+     "lucho suarez"
+    ],
+    [
+     "T",
+     "José María Giménez",
+     "josema gimenez",
+     "josema"
+    ],
+    [
+     "T",
+     "Cristian Rodríguez",
+     "cebolla rodriguez",
+     "cebolla"
+    ],
+    [
+     "T",
+     "Lucas Torreira"
+    ],
+    [
+     "T",
+     "Fernando Correa",
+     "petete correa",
+     "petete"
+    ],
+    [
+     "C",
+     "Gonzalo de los Santos"
+    ],
+    [
+     "C",
+     "Diego Alonso",
+     "tornado alonso"
+    ],
+    [
+     "C",
+     "Richard Núñez"
+    ],
+    [
+     "C",
+     "Marcelo Sosa"
+    ],
+    [
+     "C",
+     "Leandro Cabrera",
+     "lele cabrera"
+    ],
+    [
+     "C",
+     "Pablo García"
+    ],
+    [
+     "C",
+     "Rubén Olivera",
+     "pollo olivera"
+    ],
+    [
+     "C",
+     "Leonel Pilipauskas"
+    ],
+    [
+     "C",
+     "Juan Manuel Sanabria"
+    ],
+    [
+     "D",
+     "Jorge da Silva",
+     "polilla da silva"
+    ],
+    [
+     "D",
+     "Juan Carlos González",
+     "juanchi gonzalez"
+    ],
+    [
+     "G",
+     "Rafael Souto"
+    ],
+    [
+     "G",
+     "Eduardo Belza"
+    ]
+   ],
+   "fuente": "https://espndeportes.espn.com/futbol/espana/nota/_/id/6888966/atletico-madrid-y-los-uruguayos-una-relacion-que-se-amplia-con-la-llegada-de-luis-suarez",
+   "dia": 5
+  },
+  {
+   "id": "espana_2010",
+   "q": "Jugadores que hayan sido campeones del mundo con España en 2010",
+   "r": [
+    [
+     "H",
+     "Iker Casillas",
+     "san iker"
+    ],
+    [
+     "H",
+     "Andrés Iniesta"
+    ],
+    [
+     "H",
+     "Xavi Hernández",
+     "xavi"
+    ],
+    [
+     "H",
+     "Carles Puyol"
+    ],
+    [
+     "H",
+     "Sergio Ramos"
+    ],
+    [
+     "H",
+     "Gerard Piqué"
+    ],
+    [
+     "H",
+     "David Villa",
+     "el guaje"
+    ],
+    [
+     "H",
+     "Fernando Torres",
+     "el niño torres",
+     "nino torres"
+    ],
+    [
+     "T",
+     "Sergio Busquets"
+    ],
+    [
+     "T",
+     "Xabi Alonso"
+    ],
+    [
+     "T",
+     "Cesc Fàbregas",
+     "cesc",
+     "fabregas"
+    ],
+    [
+     "T",
+     "David Silva"
+    ],
+    [
+     "T",
+     "Pedro Rodríguez",
+     "pedro"
+    ],
+    [
+     "T",
+     "Jesús Navas"
+    ],
+    [
+     "T",
+     "Joan Capdevila"
+    ],
+    [
+     "T",
+     "Pepe Reina"
+    ],
+    [
+     "T",
+     "Víctor Valdés"
+    ],
+    [
+     "T",
+     "Juan Mata"
+    ],
+    [
+     "T",
+     "Fernando Llorente"
+    ],
+    [
+     "T",
+     "Álvaro Arbeloa"
+    ],
+    [
+     "T",
+     "Javi Martínez"
+    ],
+    [
+     "C",
+     "Raúl Albiol"
+    ],
+    [
+     "C",
+     "Carlos Marchena"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 23 de España en Sudáfrica 2010",
+   "dia": 5
+  },
+  {
+   "id": "mejor_jugador_mundial",
+   "q": "Jugadores elegidos mejor jugador de un Mundial (Balón de Oro del torneo)",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Diego Maradona",
+     "maradona",
+     "el diego"
+    ],
+    [
+     "H",
+     "Luka Modrić"
+    ],
+    [
+     "H",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Pelé",
+     "pele"
+    ],
+    [
+     "T",
+     "Johan Cruyff"
+    ],
+    [
+     "T",
+     "Diego Forlán"
+    ],
+    [
+     "T",
+     "Oliver Kahn"
+    ],
+    [
+     "T",
+     "Romário"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "T",
+     "Salvatore Schillaci",
+     "toto schillaci"
+    ],
+    [
+     "T",
+     "Mario Kempes",
+     "matador kempes"
+    ],
+    [
+     "T",
+     "Garrincha"
+    ],
+    [
+     "C",
+     "Bobby Charlton"
+    ],
+    [
+     "C",
+     "Ferenc Puskás"
+    ],
+    [
+     "C",
+     "Didi"
+    ],
+    [
+     "C",
+     "Leônidas",
+     "leonidas da silva"
+    ],
+    [
+     "C",
+     "Giuseppe Meazza"
+    ],
+    [
+     "D",
+     "Zizinho"
+    ],
+    [
+     "D",
+     "José Nasazzi"
+    ]
+   ],
+   "fuente": "Balón de Oro de la Copa del Mundo (oficial desde 1982; FIFA reconoce a los mejores de 1930-1978) · https://www.foxsports.com.mx/2026/07/19/rodri-conquista-el-balon-de-oro-del-mundial-2026-tras-ganar-con-espana-al-titulo-ante-argentina/",
+   "dia": 5
+  },
+  {
+   "id": "ingleses_final_champions",
+   "q": "Clubes ingleses que hayan jugado una final de Champions League (o Copa de Europa)",
+   "r": [
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "man united",
+     "man utd"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "T",
+     "Manchester City",
+     "man city"
+    ],
+    [
+     "T",
+     "Arsenal"
+    ],
+    [
+     "T",
+     "Tottenham",
+     "tottenham hotspur",
+     "spurs"
+    ],
+    [
+     "C",
+     "Nottingham Forest"
+    ],
+    [
+     "C",
+     "Aston Villa"
+    ],
+    [
+     "D",
+     "Leeds United",
+     "leeds"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals",
+   "dia": 5
+  },
+  {
+   "id": "bayern_dortmund",
+   "q": "Jugadores que hayan jugado en el Bayern Múnich y en el Borussia Dortmund",
+   "r": [
+    [
+     "H",
+     "Robert Lewandowski",
+     "lewy"
+    ],
+    [
+     "H",
+     "Mario Götze"
+    ],
+    [
+     "H",
+     "Mats Hummels"
+    ],
+    [
+     "T",
+     "Niklas Süle"
+    ],
+    [
+     "T",
+     "Emre Can"
+    ],
+    [
+     "T",
+     "Marcel Sabitzer"
+    ],
+    [
+     "T",
+     "Raphaël Guerreiro",
+     "guerreiro"
+    ],
+    [
+     "T",
+     "Jürgen Kohler"
+    ],
+    [
+     "T",
+     "Stefan Reuter"
+    ],
+    [
+     "T",
+     "Torsten Frings"
+    ],
+    [
+     "T",
+     "Thomas Helmer"
+    ],
+    [
+     "C",
+     "Sebastian Rode"
+    ],
+    [
+     "C",
+     "Christian Nerlinger"
+    ],
+    [
+     "C",
+     "Robert Kovač"
+    ],
+    [
+     "C",
+     "Michael Rummenigge"
+    ],
+    [
+     "D",
+     "Jürgen Wegmann"
+    ]
+   ],
+   "fuente": "https://www.goal.com/en-my/lists/bayern-munich-vs-borussia-dortmund-from-robert-lewandowski-to-mario-gotze-meet-the-players-who-crossed-the-klasiker-divide/bltaf5d6481564bac56 + fichajes recientes",
+   "dia": 5
+  },
+  {
+   "id": "expulsados_final_mundial",
+   "q": "Jugadores expulsados en una final de Mundial",
+   "r": [
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "T",
+     "Enzo Fernández"
+    ],
+    [
+     "T",
+     "Marcel Desailly"
+    ],
+    [
+     "T",
+     "Leandro Paredes"
+    ],
+    [
+     "C",
+     "John Heitinga"
+    ],
+    [
+     "C",
+     "Gustavo Dezotti"
+    ],
+    [
+     "D",
+     "Pedro Monzón"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Finales de 1990, 1998, 2006, 2010 y 2026 · https://www.minutouno.com/deportes/expulsaron-un-jugador-la-seleccion-argentina-el-pitazo-final-el-mundial-2026-n6301323",
+   "dia": 5
+  },
+  {
+   "id": "milan_inter",
+   "q": "Jugadores que hayan jugado en el Milan y en el Inter",
+   "r": [
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Andrea Pirlo"
+    ],
+    [
+     "H",
+     "Clarence Seedorf"
+    ],
+    [
+     "H",
+     "Roberto Baggio"
+    ],
+    [
+     "T",
+     "Hernán Crespo",
+     "valdanito"
+    ],
+    [
+     "T",
+     "Mario Balotelli"
+    ],
+    [
+     "T",
+     "Christian Vieri",
+     "bobo vieri"
+    ],
+    [
+     "T",
+     "Leonardo Bonucci"
+    ],
+    [
+     "T",
+     "Hakan Çalhanoğlu",
+     "calhanoglu"
+    ],
+    [
+     "T",
+     "Francesco Acerbi"
+    ],
+    [
+     "T",
+     "Matteo Darmian"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Patrick Vieira"
+    ],
+    [
+     "T",
+     "Sulley Muntari"
+    ],
+    [
+     "T",
+     "Giampaolo Pazzini"
+    ],
+    [
+     "T",
+     "Antonio Cassano"
+    ],
+    [
+     "T",
+     "Giuseppe Meazza"
+    ],
+    [
+     "T",
+     "Francesco Toldo"
+    ],
+    [
+     "T",
+     "Christian Panucci"
+    ],
+    [
+     "T",
+     "Francesco Coco"
+    ],
+    [
+     "T",
+     "Dario Šimić"
+    ],
+    [
+     "T",
+     "Taribo West"
+    ],
+    [
+     "C",
+     "Fulvio Collovati"
+    ],
+    [
+     "C",
+     "Sergio Battistini"
+    ],
+    [
+     "C",
+     "Aldo Serena"
+    ],
+    [
+     "C",
+     "Maurizio Ganz"
+    ],
+    [
+     "C",
+     "Cyril Domoraud"
+    ],
+    [
+     "C",
+     "Giuseppe Favalli"
+    ],
+    [
+     "C",
+     "Mattia Destro"
+    ],
+    [
+     "C",
+     "Domenico Morfeo"
+    ],
+    [
+     "C",
+     "Ümit Davala"
+    ],
+    [
+     "C",
+     "Diego Laxalt"
+    ],
+    [
+     "C",
+     "Andrea Poli"
+    ],
+    [
+     "C",
+     "Matías Silvestre"
+    ],
+    [
+     "C",
+     "Raoul Bellanova"
+    ],
+    [
+     "C",
+     "Thomas Helveg"
+    ],
+    [
+     "C",
+     "Cristian Brocchi"
+    ],
+    [
+     "C",
+     "Amantino Mancini",
+     "mancini"
+    ],
+    [
+     "C",
+     "Antonio Angelillo"
+    ],
+    [
+     "C",
+     "Giorgio Ghezzi"
+    ],
+    [
+     "C",
+     "Lorenzo Buffon"
+    ],
+    [
+     "C",
+     "Guly"
+    ],
+    [
+     "D",
+     "Aldo Bet"
+    ],
+    [
+     "D",
+     "Egidio Calloni"
+    ],
+    [
+     "D",
+     "Oscar Damiani"
+    ],
+    [
+     "D",
+     "Giancarlo Pasinato"
+    ],
+    [
+     "D",
+     "Víctor Benítez"
+    ],
+    [
+     "D",
+     "Nevio Scala"
+    ],
+    [
+     "D",
+     "Enrico Candiani"
+    ],
+    [
+     "D",
+     "Savino Bellini"
+    ],
+    [
+     "D",
+     "Gaetano Salvemini"
+    ],
+    [
+     "D",
+     "Giorgio Morini"
+    ],
+    [
+     "D",
+     "Adelio Moro"
+    ],
+    [
+     "D",
+     "Tiziano Manfrin"
+    ],
+    [
+     "D",
+     "Nazzareno Canuti"
+    ],
+    [
+     "D",
+     "Dario Barluzzi"
+    ],
+    [
+     "D",
+     "Aquilino Bonfanti"
+    ],
+    [
+     "D",
+     "Pierluigi Orlandini"
+    ],
+    [
+     "D",
+     "Luca Ceccarelli"
+    ],
+    [
+     "D",
+     "Salvatore Ferraro"
+    ],
+    [
+     "D",
+     "Dražen Brnčić"
+    ],
+    [
+     "D",
+     "Luigi Cevenini"
+    ],
+    [
+     "D",
+     "Marco Sala"
+    ],
+    [
+     "D",
+     "Julio Bavastro"
+    ],
+    [
+     "D",
+     "Renato De Manzano"
+    ],
+    [
+     "D",
+     "Elpidio Coppa"
+    ],
+    [
+     "D",
+     "Carlo Villa"
+    ],
+    [
+     "G",
+     "Aldo Cevenini"
+    ],
+    [
+     "G",
+     "Hugo Rietmann"
+    ]
+   ],
+   "fuente": "https://www.goal.com/es/listados/de-zlatan-ibrahimovic-a-andrea-pirlo-los-futbolistas-que-jugaron-tanto-en-el-ac-milan-como-en-el-inter/blt81ffe59b0347c6d6",
+   "dia": 6
+  },
+  {
+   "id": "holandeses_barcelona",
+   "q": "Neerlandeses (holandeses) que hayan jugado en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Johan Cruyff",
+     "cruyff"
+    ],
+    [
+     "H",
+     "Frenkie de Jong",
+     "frenkie"
+    ],
+    [
+     "H",
+     "Ronald Koeman"
+    ],
+    [
+     "H",
+     "Patrick Kluivert"
+    ],
+    [
+     "T",
+     "Memphis Depay",
+     "memphis"
+    ],
+    [
+     "T",
+     "Phillip Cocu"
+    ],
+    [
+     "T",
+     "Frank de Boer"
+    ],
+    [
+     "T",
+     "Marc Overmars"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Mark van Bommel"
+    ],
+    [
+     "T",
+     "Giovanni van Bronckhorst",
+     "gio van bronckhorst"
+    ],
+    [
+     "T",
+     "Johan Neeskens"
+    ],
+    [
+     "T",
+     "Michael Reiziger"
+    ],
+    [
+     "T",
+     "Jasper Cillessen"
+    ],
+    [
+     "T",
+     "Luuk de Jong"
+    ],
+    [
+     "C",
+     "Ronald de Boer"
+    ],
+    [
+     "C",
+     "Bolo Zenden",
+     "boudewijn zenden"
+    ],
+    [
+     "C",
+     "Ibrahim Afellay"
+    ],
+    [
+     "C",
+     "Ruud Hesp"
+    ],
+    [
+     "C",
+     "Jordi Cruyff"
+    ],
+    [
+     "C",
+     "Winston Bogarde"
+    ],
+    [
+     "D",
+     "Richard Witschge"
+    ]
+   ],
+   "fuente": "https://www.fcbarcelona.es/es/noticias/982074/los-19-holandeses-del-barca-al-detalle + Frenkie de Jong, Memphis y Luuk de Jong",
+   "dia": 6
+  },
+  {
+   "id": "italia_2006",
+   "q": "Jugadores que hayan sido campeones del mundo con Italia en 2006",
+   "r": [
+    [
+     "H",
+     "Gianluigi Buffon",
+     "gigi buffon"
+    ],
+    [
+     "H",
+     "Fabio Cannavaro"
+    ],
+    [
+     "H",
+     "Andrea Pirlo"
+    ],
+    [
+     "H",
+     "Francesco Totti"
+    ],
+    [
+     "H",
+     "Alessandro Del Piero"
+    ],
+    [
+     "H",
+     "Gennaro Gattuso",
+     "rino gattuso"
+    ],
+    [
+     "H",
+     "Marco Materazzi"
+    ],
+    [
+     "H",
+     "Fabio Grosso"
+    ],
+    [
+     "T",
+     "Alessandro Nesta"
+    ],
+    [
+     "T",
+     "Gianluca Zambrotta"
+    ],
+    [
+     "T",
+     "Daniele De Rossi"
+    ],
+    [
+     "T",
+     "Luca Toni"
+    ],
+    [
+     "T",
+     "Filippo Inzaghi",
+     "pippo inzaghi"
+    ],
+    [
+     "T",
+     "Alberto Gilardino"
+    ],
+    [
+     "T",
+     "Mauro Camoranesi"
+    ],
+    [
+     "T",
+     "Simone Perrotta"
+    ],
+    [
+     "T",
+     "Vincenzo Iaquinta"
+    ],
+    [
+     "T",
+     "Andrea Barzagli"
+    ],
+    [
+     "T",
+     "Angelo Peruzzi"
+    ],
+    [
+     "C",
+     "Cristian Zaccardo"
+    ],
+    [
+     "C",
+     "Massimo Oddo"
+    ],
+    [
+     "C",
+     "Simone Barone"
+    ],
+    [
+     "C",
+     "Marco Amelia"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 23 de Italia en Alemania 2006",
+   "dia": 6
+  },
+  {
+   "id": "champions_y_libertadores",
+   "q": "Jugadores que hayan ganado la Champions League y la Copa Libertadores",
+   "r": [
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Carlos Tévez",
+     "carlitos tevez",
+     "apache tevez"
+    ],
+    [
+     "H",
+     "Cafu"
+    ],
+    [
+     "H",
+     "Marcelo"
+    ],
+    [
+     "T",
+     "Julián Álvarez",
+     "julian alvarez",
+     "araña alvarez"
+    ],
+    [
+     "T",
+     "Dida"
+    ],
+    [
+     "T",
+     "David Luiz"
+    ],
+    [
+     "T",
+     "Jorginho"
+    ],
+    [
+     "T",
+     "Danilo"
+    ],
+    [
+     "T",
+     "Walter Samuel"
+    ],
+    [
+     "T",
+     "Roque Júnior",
+     "roque junior"
+    ],
+    [
+     "C",
+     "Juan Pablo Sorín",
+     "sorin"
+    ],
+    [
+     "C",
+     "Rafinha"
+    ]
+   ],
+   "fuente": "https://www.foxsports.com.mx/2023/11/04/marcelo-vieira-se-une-al-club-de-14-jugadores-que-ganaron-champions-league-y-copa-libertadores/ + Jorginho (Flamengo 2025)",
+   "dia": 6
+  },
+  {
+   "id": "brasilenos_libertadores",
+   "q": "Clubes brasileños campeones de la Copa Libertadores",
+   "r": [
+    [
+     "H",
+     "Flamengo"
+    ],
+    [
+     "H",
+     "Palmeiras"
+    ],
+    [
+     "H",
+     "São Paulo",
+     "sao paulo"
+    ],
+    [
+     "H",
+     "Santos"
+    ],
+    [
+     "T",
+     "Grêmio",
+     "gremio"
+    ],
+    [
+     "T",
+     "Internacional",
+     "inter de porto alegre"
+    ],
+    [
+     "T",
+     "Corinthians"
+    ],
+    [
+     "T",
+     "Cruzeiro"
+    ],
+    [
+     "T",
+     "Fluminense"
+    ],
+    [
+     "T",
+     "Botafogo"
+    ],
+    [
+     "T",
+     "Atlético Mineiro",
+     "atletico mineiro",
+     "galo"
+    ],
+    [
+     "C",
+     "Vasco da Gama",
+     "vasco"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés de la Copa Libertadores 1960-2025",
+   "dia": 6
+  },
+  {
+   "id": "copa_america_argentina",
+   "q": "Jugadores que hayan sido campeones de la Copa América con Argentina en 2021 o 2024",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria"
+    ],
+    [
+     "H",
+     "Emiliano Martínez",
+     "dibu martinez",
+     "dibu"
+    ],
+    [
+     "H",
+     "Lautaro Martínez",
+     "lautaro",
+     "toro martinez"
+    ],
+    [
+     "H",
+     "Julián Álvarez",
+     "julian alvarez",
+     "araña alvarez"
+    ],
+    [
+     "H",
+     "Enzo Fernández"
+    ],
+    [
+     "H",
+     "Alexis Mac Allister",
+     "mac allister"
+    ],
+    [
+     "H",
+     "Rodrigo De Paul"
+    ],
+    [
+     "T",
+     "Nicolás Otamendi"
+    ],
+    [
+     "T",
+     "Leandro Paredes"
+    ],
+    [
+     "T",
+     "Cristian Romero",
+     "cuti romero"
+    ],
+    [
+     "T",
+     "Nahuel Molina"
+    ],
+    [
+     "T",
+     "Gonzalo Montiel",
+     "cachete montiel"
+    ],
+    [
+     "T",
+     "Nicolás Tagliafico"
+    ],
+    [
+     "T",
+     "Marcos Acuña",
+     "huevo acuna"
+    ],
+    [
+     "T",
+     "Lisandro Martínez",
+     "lisandro"
+    ],
+    [
+     "T",
+     "Sergio Agüero",
+     "kun aguero",
+     "kun"
+    ],
+    [
+     "T",
+     "Alejandro Garnacho"
+    ],
+    [
+     "T",
+     "Giovani Lo Celso"
+    ],
+    [
+     "T",
+     "Nicolás González"
+    ],
+    [
+     "T",
+     "Alejandro Gómez",
+     "papu gomez"
+    ],
+    [
+     "T",
+     "Guido Rodríguez"
+    ],
+    [
+     "T",
+     "Franco Armani"
+    ],
+    [
+     "T",
+     "Germán Pezzella"
+    ],
+    [
+     "T",
+     "Ángel Correa"
+    ],
+    [
+     "T",
+     "Gerónimo Rulli"
+    ],
+    [
+     "C",
+     "Lucas Martínez Quarta"
+    ],
+    [
+     "C",
+     "Exequiel Palacios"
+    ],
+    [
+     "C",
+     "Joaquín Correa",
+     "tucu correa"
+    ],
+    [
+     "C",
+     "Valentín Carboni"
+    ],
+    [
+     "C",
+     "Juan Musso"
+    ],
+    [
+     "C",
+     "Agustín Marchesín"
+    ],
+    [
+     "C",
+     "Nicolás Domínguez"
+    ],
+    [
+     "D",
+     "Lucas Alario"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://www.winsports.co/futbol-internacional/noticias/listos-los-28-de-argentina-messi-lidera-los-convocados-para-la-copa-america-32890 · https://www.minutouno.com/deportes/seleccion-argentina/la-lista-la-la-copa-america-2024-n5973977",
+   "dia": 6
+  },
+  {
+   "id": "barcelona_juventus",
+   "q": "Jugadores que hayan jugado en el Barcelona y en la Juventus",
+   "r": [
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Dani Alves"
+    ],
+    [
+     "H",
+     "Thierry Henry"
+    ],
+    [
+     "T",
+     "Arturo Vidal",
+     "rey arturo"
+    ],
+    [
+     "T",
+     "Miralem Pjanić"
+    ],
+    [
+     "T",
+     "Arthur Melo",
+     "arthur"
+    ],
+    [
+     "T",
+     "Lilian Thuram"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Gianluca Zambrotta"
+    ],
+    [
+     "T",
+     "Wojciech Szczęsny",
+     "szczesny"
+    ],
+    [
+     "T",
+     "Michael Laudrup"
+    ],
+    [
+     "C",
+     "Martín Cáceres"
+    ],
+    [
+     "C",
+     "Juan Pablo Sorín",
+     "sorin"
+    ]
+   ],
+   "fuente": "https://www.juventus.com/en/news/articles/they-played-for-both-sides + fichajes recientes",
+   "dia": 6
   }
  ]
 }
