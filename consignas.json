@@ -5957,6 +5957,774 @@
    ],
    "fuente": "https://www.juventus.com/en/news/articles/they-played-for-both-sides + fichajes recientes",
    "dia": 6
+  },
+  {
+   "id": "arsenal_tottenham",
+   "q": "Jugadores que hayan jugado en el Arsenal y en el Tottenham",
+   "r": [
+    [
+     "H",
+     "Emmanuel Adebayor"
+    ],
+    [
+     "H",
+     "Sol Campbell"
+    ],
+    [
+     "T",
+     "William Gallas"
+    ],
+    [
+     "T",
+     "Pat Jennings"
+    ],
+    [
+     "T",
+     "David Bentley"
+    ],
+    [
+     "C",
+     "Willie Young"
+    ],
+    [
+     "C",
+     "Jimmy Robertson"
+    ],
+    [
+     "C",
+     "Rohan Ricketts"
+    ],
+    [
+     "C",
+     "Steve Walford"
+    ],
+    [
+     "C",
+     "David Jenkins"
+    ],
+    [
+     "D",
+     "Laurie Brown"
+    ],
+    [
+     "D",
+     "Vic Groves"
+    ],
+    [
+     "D",
+     "Freddie Cox"
+    ],
+    [
+     "D",
+     "George Hunt"
+    ],
+    [
+     "G",
+     "Jimmy Brain"
+    ]
+   ],
+   "fuente": "https://www.90min.com/posts/tottenham-arsenal-north-london-derby-players-both-clubs",
+   "dia": 7
+  },
+  {
+   "id": "ganadores_balon_de_oro",
+   "q": "Ganadores del Balón de Oro",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Luka Modrić"
+    ],
+    [
+     "H",
+     "Karim Benzema"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "T",
+     "Johan Cruyff"
+    ],
+    [
+     "T",
+     "Michel Platini"
+    ],
+    [
+     "T",
+     "Marco van Basten"
+    ],
+    [
+     "T",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Harry Kane"
+    ],
+    [
+     "T",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "T",
+     "Rivaldo"
+    ],
+    [
+     "T",
+     "Andriy Shevchenko",
+     "sheva"
+    ],
+    [
+     "T",
+     "Pavel Nedvěd"
+    ],
+    [
+     "T",
+     "Fabio Cannavaro"
+    ],
+    [
+     "T",
+     "Michael Owen"
+    ],
+    [
+     "T",
+     "Roberto Baggio"
+    ],
+    [
+     "T",
+     "Franz Beckenbauer",
+     "kaiser"
+    ],
+    [
+     "T",
+     "Alfredo Di Stéfano",
+     "di stefano"
+    ],
+    [
+     "T",
+     "Eusébio"
+    ],
+    [
+     "T",
+     "Gerd Müller"
+    ],
+    [
+     "T",
+     "Lothar Matthäus"
+    ],
+    [
+     "T",
+     "Ruud Gullit"
+    ],
+    [
+     "T",
+     "George Weah"
+    ],
+    [
+     "T",
+     "Hristo Stoichkov"
+    ],
+    [
+     "C",
+     "Karl-Heinz Rummenigge"
+    ],
+    [
+     "C",
+     "Kevin Keegan"
+    ],
+    [
+     "C",
+     "Paolo Rossi"
+    ],
+    [
+     "C",
+     "Jean-Pierre Papin"
+    ],
+    [
+     "C",
+     "Matthias Sammer"
+    ],
+    [
+     "C",
+     "Bobby Charlton"
+    ],
+    [
+     "C",
+     "George Best"
+    ],
+    [
+     "C",
+     "Denis Law"
+    ],
+    [
+     "C",
+     "Lev Yashin",
+     "lev yashin",
+     "yashin"
+    ],
+    [
+     "C",
+     "Stanley Matthews"
+    ],
+    [
+     "C",
+     "Raymond Kopa"
+    ],
+    [
+     "C",
+     "Igor Belanov"
+    ],
+    [
+     "C",
+     "Oleg Blokhin"
+    ],
+    [
+     "C",
+     "Gianni Rivera"
+    ],
+    [
+     "C",
+     "Omar Sívori"
+    ],
+    [
+     "D",
+     "Josef Masopust"
+    ],
+    [
+     "D",
+     "Flórián Albert"
+    ],
+    [
+     "D",
+     "Allan Simonsen"
+    ],
+    [
+     "D",
+     "Luis Suárez Miramontes",
+     "miramontes"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Balón de Oro de France Football 1956-2026 (2020 no se entregó) · https://www.publimetro.co/deportes/2026/10/26/harry-kane-gano-el-balon-de-oro-2026-y-se-convirtio-en-el-mejor-futbolista-del-mundo/",
+   "dia": 7
+  },
+  {
+   "id": "argentina_2022",
+   "q": "Jugadores que hayan sido campeones del mundo con Argentina en 2022",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria"
+    ],
+    [
+     "H",
+     "Emiliano Martínez",
+     "dibu martinez",
+     "dibu"
+    ],
+    [
+     "H",
+     "Julián Álvarez",
+     "julian alvarez",
+     "araña alvarez"
+    ],
+    [
+     "H",
+     "Enzo Fernández"
+    ],
+    [
+     "H",
+     "Alexis Mac Allister",
+     "mac allister"
+    ],
+    [
+     "H",
+     "Rodrigo De Paul"
+    ],
+    [
+     "H",
+     "Lautaro Martínez",
+     "lautaro",
+     "toro martinez"
+    ],
+    [
+     "T",
+     "Nicolás Otamendi"
+    ],
+    [
+     "T",
+     "Cristian Romero",
+     "cuti romero"
+    ],
+    [
+     "T",
+     "Nahuel Molina"
+    ],
+    [
+     "T",
+     "Gonzalo Montiel",
+     "cachete montiel"
+    ],
+    [
+     "T",
+     "Nicolás Tagliafico"
+    ],
+    [
+     "T",
+     "Marcos Acuña",
+     "huevo acuna"
+    ],
+    [
+     "T",
+     "Lisandro Martínez",
+     "lisandro"
+    ],
+    [
+     "T",
+     "Leandro Paredes"
+    ],
+    [
+     "T",
+     "Paulo Dybala"
+    ],
+    [
+     "T",
+     "Alejandro Gómez",
+     "papu gomez"
+    ],
+    [
+     "T",
+     "Germán Pezzella"
+    ],
+    [
+     "T",
+     "Guido Rodríguez"
+    ],
+    [
+     "T",
+     "Ángel Correa"
+    ],
+    [
+     "T",
+     "Franco Armani"
+    ],
+    [
+     "T",
+     "Gerónimo Rulli"
+    ],
+    [
+     "T",
+     "Exequiel Palacios"
+    ],
+    [
+     "C",
+     "Juan Foyth"
+    ],
+    [
+     "C",
+     "Thiago Almada"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 26 de Argentina en Qatar 2022",
+   "dia": 7
+  },
+  {
+   "id": "campeones_copa_america",
+   "q": "Selecciones que hayan ganado la Copa América",
+   "r": [
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Uruguay"
+    ],
+    [
+     "T",
+     "Chile"
+    ],
+    [
+     "T",
+     "Colombia"
+    ],
+    [
+     "T",
+     "Paraguay"
+    ],
+    [
+     "T",
+     "Perú",
+     "peru"
+    ],
+    [
+     "C",
+     "Bolivia"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Palmarés de la Copa América 1916-2024",
+   "dia": 7
+  },
+  {
+   "id": "golden_boy",
+   "q": "Ganadores del premio Golden Boy (mejor jugador joven de Europa)",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "H",
+     "Erling Haaland"
+    ],
+    [
+     "H",
+     "Lamine Yamal",
+     "lamine"
+    ],
+    [
+     "H",
+     "Jude Bellingham"
+    ],
+    [
+     "H",
+     "Pedri"
+    ],
+    [
+     "H",
+     "Wayne Rooney"
+    ],
+    [
+     "T",
+     "Gavi"
+    ],
+    [
+     "T",
+     "Paul Pogba"
+    ],
+    [
+     "T",
+     "Sergio Agüero",
+     "kun aguero",
+     "kun"
+    ],
+    [
+     "T",
+     "Cesc Fàbregas",
+     "cesc",
+     "fabregas"
+    ],
+    [
+     "T",
+     "João Félix",
+     "joao felix"
+    ],
+    [
+     "T",
+     "Mario Götze"
+    ],
+    [
+     "T",
+     "Mario Balotelli"
+    ],
+    [
+     "T",
+     "Raheem Sterling"
+    ],
+    [
+     "T",
+     "Isco"
+    ],
+    [
+     "T",
+     "Matthijs de Ligt"
+    ],
+    [
+     "T",
+     "Désiré Doué",
+     "desire doue",
+     "doue"
+    ],
+    [
+     "T",
+     "Anthony Martial"
+    ],
+    [
+     "T",
+     "Alexandre Pato",
+     "pato"
+    ],
+    [
+     "C",
+     "Renato Sanches"
+    ],
+    [
+     "C",
+     "Rafael van der Vaart"
+    ],
+    [
+     "D",
+     "Anderson",
+     "anderson oliveira"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Premio Golden Boy 2003-2025 · https://emisorasunidas.com/deportes/2025/12/01/desire-doue-recibio-el-golden-boy-2025/",
+   "dia": 7
+  },
+  {
+   "id": "brasilenos_barcelona",
+   "q": "Brasileños que hayan jugado en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Rivaldo"
+    ],
+    [
+     "H",
+     "Dani Alves"
+    ],
+    [
+     "H",
+     "Raphinha"
+    ],
+    [
+     "T",
+     "Romário"
+    ],
+    [
+     "T",
+     "Philippe Coutinho",
+     "coutinho"
+    ],
+    [
+     "T",
+     "Arthur Melo",
+     "arthur"
+    ],
+    [
+     "T",
+     "Maxwell"
+    ],
+    [
+     "T",
+     "Paulinho"
+    ],
+    [
+     "T",
+     "Adriano Correia",
+     "adriano"
+    ],
+    [
+     "T",
+     "Sylvinho"
+    ],
+    [
+     "T",
+     "Juliano Belletti",
+     "belletti"
+    ],
+    [
+     "T",
+     "Edmílson",
+     "edmilson"
+    ],
+    [
+     "T",
+     "Vitor Roque"
+    ],
+    [
+     "T",
+     "Gabriel Jesus"
+    ],
+    [
+     "T",
+     "Malcom"
+    ],
+    [
+     "T",
+     "Emerson Royal",
+     "emerson"
+    ],
+    [
+     "T",
+     "Rafinha Alcântara",
+     "rafinha"
+    ],
+    [
+     "C",
+     "Giovanni"
+    ],
+    [
+     "C",
+     "Douglas Pereira",
+     "douglas"
+    ],
+    [
+     "C",
+     "Evaristo de Macedo",
+     "evaristo"
+    ],
+    [
+     "C",
+     "Geovanni"
+    ],
+    [
+     "C",
+     "Fábio Rochemback",
+     "rochemback"
+    ],
+    [
+     "C",
+     "Marlon Santos",
+     "marlon"
+    ],
+    [
+     "C",
+     "Matheus Fernandes"
+    ],
+    [
+     "D",
+     "Aloísio",
+     "aloisio"
+    ],
+    [
+     "D",
+     "Roberto Dinamite"
+    ],
+    [
+     "D",
+     "Bio"
+    ],
+    [
+     "G",
+     "Marinho Peres"
+    ]
+   ],
+   "fuente": "https://www.goal.com/br/listas/todos-brasileiros-que-jogaram-barcelona/blt1d31a19cd1269bc1 · https://www.fcbarcelona.es/es/noticias/4570086/gabriel-jesus-otro-delantero-brasileno-para-golear-de-azulgrana",
+   "dia": 7
+  },
+  {
+   "id": "psg_real_madrid",
+   "q": "Jugadores que hayan jugado en el PSG y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Kylian Mbappé"
+    ],
+    [
+     "H",
+     "Sergio Ramos"
+    ],
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria"
+    ],
+    [
+     "H",
+     "Keylor Navas"
+    ],
+    [
+     "H",
+     "Achraf Hakimi"
+    ],
+    [
+     "T",
+     "Marco Asensio"
+    ],
+    [
+     "T",
+     "Claude Makélélé",
+     "makelele"
+    ],
+    [
+     "T",
+     "Nicolas Anelka"
+    ],
+    [
+     "T",
+     "Jesé",
+     "jese rodriguez"
+    ],
+    [
+     "T",
+     "Gabriel Heinze"
+    ]
+   ],
+   "fuente": "Planteles de PSG y Real Madrid",
+   "dia": 7
   }
  ]
 }
