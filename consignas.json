@@ -8927,6 +8927,550 @@
    "tipo": "club",
    "fuente": "Palmarés de la Copa Libertadores 1960-2025",
    "dia": 9
+  },
+  {
+   "id": "barcelona_atletico",
+   "q": "Jugadores que hayan jugado en el Barcelona y en el Atlético de Madrid",
+   "r": [
+    [
+     "H",
+     "Antoine Griezmann"
+    ],
+    [
+     "H",
+     "Luis Suárez",
+     "lucho suarez"
+    ],
+    [
+     "H",
+     "Sergio Agüero",
+     "kun aguero",
+     "kun"
+    ],
+    [
+     "H",
+     "David Villa",
+     "el guaje"
+    ],
+    [
+     "T",
+     "João Félix",
+     "joao felix"
+    ],
+    [
+     "T",
+     "Memphis Depay",
+     "memphis"
+    ],
+    [
+     "T",
+     "Arda Turan"
+    ],
+    [
+     "T",
+     "Clément Lenglet"
+    ],
+    [
+     "T",
+     "Thiago Motta"
+    ],
+    [
+     "T",
+     "Simão Sabrosa",
+     "simao"
+    ],
+    [
+     "T",
+     "Bernd Schuster"
+    ],
+    [
+     "T",
+     "Luis García"
+    ],
+    [
+     "C",
+     "Sergi Barjuán",
+     "sergi"
+    ],
+    [
+     "C",
+     "Eusebio Sacristán",
+     "eusebio"
+    ],
+    [
+     "C",
+     "Julio Salinas"
+    ],
+    [
+     "C",
+     "Demetrio Albertini"
+    ],
+    [
+     "C",
+     "Santi Ezquerro"
+    ],
+    [
+     "C",
+     "Juan Carlos Rodríguez"
+    ],
+    [
+     "C",
+     "Julio Alberto"
+    ],
+    [
+     "C",
+     "Pablo Alfaro"
+    ],
+    [
+     "D",
+     "Marcos Alonso Peña"
+    ],
+    [
+     "D",
+     "Miguel Reina"
+    ],
+    [
+     "D",
+     "Delfí Geli"
+    ],
+    [
+     "D",
+     "Lluís Carreras"
+    ],
+    [
+     "D",
+     "Miquel Soler"
+    ],
+    [
+     "D",
+     "Jesús Landáburu"
+    ],
+    [
+     "G",
+     "Victoriano de Santos"
+    ]
+   ],
+   "fuente": "https://www.laliga.com/noticias/futbolistas-barcelona-atletico-de-madrid",
+   "dia": 10
+  },
+  {
+   "id": "guante_oro_mundial",
+   "q": "Arqueros que hayan ganado el Guante de Oro (mejor arquero) de un Mundial",
+   "r": [
+    [
+     "H",
+     "Emiliano Martínez",
+     "dibu martinez",
+     "dibu",
+     "emi martinez"
+    ],
+    [
+     "H",
+     "Gianluigi Buffon",
+     "gigi buffon"
+    ],
+    [
+     "H",
+     "Iker Casillas",
+     "san iker"
+    ],
+    [
+     "H",
+     "Manuel Neuer"
+    ],
+    [
+     "T",
+     "Thibaut Courtois"
+    ],
+    [
+     "T",
+     "Oliver Kahn"
+    ],
+    [
+     "T",
+     "Fabien Barthez"
+    ],
+    [
+     "T",
+     "Unai Simón"
+    ],
+    [
+     "C",
+     "Michel Preud'homme",
+     "preudhomme"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Guante de Oro / Premio Lev Yashin 1994-2026 · https://www.foxsports.com.mx/2026/07/19/unai-simon-es-el-ganador-del-guante-de-oro-del-mundial-2026-recibio-1-gol-en-la-justa/",
+   "dia": 10
+  },
+  {
+   "id": "juventus_real_madrid",
+   "q": "Jugadores que hayan jugado en la Juventus y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "T",
+     "Álvaro Morata"
+    ],
+    [
+     "T",
+     "Fabio Cannavaro"
+    ],
+    [
+     "T",
+     "Sami Khedira"
+    ],
+    [
+     "T",
+     "Ángel Di María",
+     "fideo di maria"
+    ],
+    [
+     "T",
+     "Danilo"
+    ],
+    [
+     "T",
+     "Michael Laudrup"
+    ],
+    [
+     "T",
+     "Nicolas Anelka"
+    ],
+    [
+     "C",
+     "Emerson"
+    ],
+    [
+     "C",
+     "Robert Jarni"
+    ],
+    [
+     "D",
+     "Luis del Sol"
+    ]
+   ],
+   "fuente": "https://soccerladuma.co.za/international/messi-ronaldo-neymar-mbappe-watch/10-stars-who-played-for-both-real-madrid-juventus-20180711 + planteles",
+   "dia": 10
+  },
+  {
+   "id": "ganadores_puskas",
+   "q": "Ganadores del Premio Puskás (gol del año de la FIFA)",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "T",
+     "James Rodríguez",
+     "james"
+    ],
+    [
+     "T",
+     "Olivier Giroud"
+    ],
+    [
+     "T",
+     "Son Heung-min",
+     "son"
+    ],
+    [
+     "T",
+     "Alejandro Garnacho"
+    ],
+    [
+     "T",
+     "Erik Lamela"
+    ],
+    [
+     "C",
+     "Hamit Altıntop",
+     "hamit altintop"
+    ],
+    [
+     "C",
+     "Santiago Montiel"
+    ],
+    [
+     "C",
+     "Marcin Oleksy"
+    ],
+    [
+     "D",
+     "Wendell Lira"
+    ],
+    [
+     "D",
+     "Miroslav Stoch"
+    ],
+    [
+     "D",
+     "Guilherme Madruga"
+    ],
+    [
+     "G",
+     "Mohd Faiz Subri",
+     "faiz subri"
+    ],
+    [
+     "G",
+     "Dániel Zsóri",
+     "daniel zsori"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Premio Puskás 2009-2025 · https://www.semana.com/deportes/articulo/fifa-anuncio-al-ganador-del-premio-puskas-2025-este-fue-el-mejor-gol-del-ano/202505/",
+   "dia": 10
+  },
+  {
+   "id": "inter_real_madrid",
+   "q": "Jugadores que hayan jugado en el Inter y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "H",
+     "Roberto Carlos"
+    ],
+    [
+     "H",
+     "Iván Zamorano",
+     "bam bam zamorano",
+     "zamorano"
+    ],
+    [
+     "T",
+     "Clarence Seedorf"
+    ],
+    [
+     "T",
+     "Wesley Sneijder"
+    ],
+    [
+     "T",
+     "Esteban Cambiasso",
+     "cuchu cambiasso"
+    ],
+    [
+     "T",
+     "Walter Samuel"
+    ],
+    [
+     "T",
+     "Achraf Hakimi"
+    ],
+    [
+     "T",
+     "Mateo Kovačić",
+     "kovacic"
+    ],
+    [
+     "T",
+     "Santiago Solari",
+     "indiecito solari"
+    ],
+    [
+     "C",
+     "Christian Panucci"
+    ]
+   ],
+   "fuente": "Planteles de Inter y Real Madrid",
+   "dia": 10
+  },
+  {
+   "id": "campeones_eurocopa",
+   "q": "Selecciones que hayan ganado la Eurocopa",
+   "r": [
+    [
+     "H",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "H",
+     "Alemania",
+     "alemania federal",
+     "germany"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Portugal"
+    ],
+    [
+     "T",
+     "Grecia"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "Dinamarca"
+    ],
+    [
+     "C",
+     "Unión Soviética",
+     "union sovietica",
+     "urss"
+    ],
+    [
+     "C",
+     "Checoslovaquia"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Palmarés de la Eurocopa 1960-2024",
+   "dia": 10
+  },
+  {
+   "id": "dt_argentina_mundial",
+   "q": "Entrenadores que hayan dirigido a Argentina en un Mundial",
+   "r": [
+    [
+     "H",
+     "Lionel Scaloni",
+     "scaloni"
+    ],
+    [
+     "H",
+     "Diego Maradona",
+     "maradona"
+    ],
+    [
+     "H",
+     "Marcelo Bielsa",
+     "loco bielsa",
+     "bielsa"
+    ],
+    [
+     "H",
+     "Jorge Sampaoli",
+     "sampaoli"
+    ],
+    [
+     "T",
+     "César Luis Menotti",
+     "flaco menotti"
+    ],
+    [
+     "T",
+     "Carlos Bilardo",
+     "narigon bilardo"
+    ],
+    [
+     "T",
+     "Alejandro Sabella",
+     "sabella"
+    ],
+    [
+     "T",
+     "José Pékerman",
+     "pekerman"
+    ],
+    [
+     "T",
+     "Daniel Passarella",
+     "passarella"
+    ],
+    [
+     "T",
+     "Alfio Basile",
+     "coco basile"
+    ],
+    [
+     "C",
+     "Vladislao Cap"
+    ],
+    [
+     "C",
+     "Juan Carlos Lorenzo",
+     "toto lorenzo"
+    ],
+    [
+     "C",
+     "Guillermo Stábile",
+     "filtrador stabile"
+    ],
+    [
+     "D",
+     "Felipe Pascucci"
+    ],
+    [
+     "D",
+     "Francisco Olazar"
+    ],
+    [
+     "G",
+     "Juan José Tramutola"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos de la selección argentina en cada Mundial 1930-2026",
+   "dia": 10
   }
  ]
 }
