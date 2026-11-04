@@ -9471,6 +9471,627 @@
    "tipo": "entrenador",
    "fuente": "Técnicos de la selección argentina en cada Mundial 1930-2026",
    "dia": 10
+  },
+  {
+   "id": "arsenal_chelsea",
+   "q": "Jugadores que hayan jugado en el Arsenal y en el Chelsea",
+   "r": [
+    [
+     "H",
+     "Cesc Fàbregas",
+     "cesc",
+     "fabregas"
+    ],
+    [
+     "H",
+     "Ashley Cole"
+    ],
+    [
+     "H",
+     "Olivier Giroud"
+    ],
+    [
+     "H",
+     "Petr Čech",
+     "petr cech"
+    ],
+    [
+     "H",
+     "Kai Havertz"
+    ],
+    [
+     "T",
+     "William Gallas"
+    ],
+    [
+     "T",
+     "David Luiz"
+    ],
+    [
+     "T",
+     "Willian"
+    ],
+    [
+     "T",
+     "Jorginho"
+    ],
+    [
+     "T",
+     "Pierre-Emerick Aubameyang",
+     "aubameyang"
+    ],
+    [
+     "T",
+     "Raheem Sterling"
+    ],
+    [
+     "T",
+     "Nicolas Anelka"
+    ],
+    [
+     "T",
+     "Emmanuel Petit",
+     "manu petit"
+    ],
+    [
+     "T",
+     "Kepa Arrizabalaga",
+     "kepa"
+    ],
+    [
+     "T",
+     "Noni Madueke"
+    ],
+    [
+     "C",
+     "Lassana Diarra"
+    ],
+    [
+     "C",
+     "Yossi Benayoun"
+    ]
+   ],
+   "fuente": "Planteles de Arsenal y Chelsea",
+   "dia": 11
+  },
+  {
+   "id": "sedes_mundial",
+   "q": "Países que hayan sido sede de un Mundial",
+   "r": [
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Alemania",
+     "germany"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Estados Unidos",
+     "eeuu",
+     "usa"
+    ],
+    [
+     "H",
+     "México",
+     "mexico"
+    ],
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Catar",
+     "qatar"
+    ],
+    [
+     "T",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "T",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "T",
+     "Rusia"
+    ],
+    [
+     "T",
+     "Sudáfrica",
+     "sudafrica"
+    ],
+    [
+     "T",
+     "Japón",
+     "japon"
+    ],
+    [
+     "T",
+     "Corea del Sur",
+     "corea"
+    ],
+    [
+     "T",
+     "Chile"
+    ],
+    [
+     "T",
+     "Uruguay"
+    ],
+    [
+     "T",
+     "Canadá",
+     "canada"
+    ],
+    [
+     "C",
+     "Suecia"
+    ],
+    [
+     "C",
+     "Suiza"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "país",
+   "fuente": "Sedes de la Copa del Mundo 1930-2026",
+   "dia": 11
+  },
+  {
+   "id": "milan_juventus",
+   "q": "Jugadores que hayan jugado en el Milan y en la Juventus",
+   "r": [
+    [
+     "H",
+     "Andrea Pirlo"
+    ],
+    [
+     "H",
+     "Roberto Baggio"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "H",
+     "Leonardo Bonucci"
+    ],
+    [
+     "H",
+     "Filippo Inzaghi",
+     "pippo inzaghi"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Christian Vieri",
+     "bobo vieri"
+    ],
+    [
+     "T",
+     "Gianluca Zambrotta"
+    ],
+    [
+     "T",
+     "Álvaro Morata"
+    ],
+    [
+     "T",
+     "Mario Mandžukić",
+     "mandzukic"
+    ],
+    [
+     "T",
+     "Adrien Rabiot"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "T",
+     "Fabio Capello"
+    ],
+    [
+     "T",
+     "Christian Abbiati"
+    ],
+    [
+     "T",
+     "Mattia De Sciglio"
+    ],
+    [
+     "T",
+     "Alessandro Matri"
+    ],
+    [
+     "T",
+     "Paolo Di Canio"
+    ],
+    [
+     "T",
+     "Pierre Kalulu"
+    ],
+    [
+     "T",
+     "Giuseppe Meazza"
+    ],
+    [
+     "C",
+     "Marco Storari"
+    ],
+    [
+     "C",
+     "Nicola Legrottaglie"
+    ],
+    [
+     "C",
+     "Mattia Caldara"
+    ],
+    [
+     "C",
+     "Romeo Benetti"
+    ],
+    [
+     "C",
+     "Sandro Salvadore"
+    ],
+    [
+     "C",
+     "Alessandro Orlando"
+    ],
+    [
+     "C",
+     "Cristian Zenoni"
+    ],
+    [
+     "C",
+     "Bruno Mora"
+    ],
+    [
+     "D",
+     "Gilberto Noletti"
+    ],
+    [
+     "D",
+     "Giorgio Rossano"
+    ],
+    [
+     "D",
+     "Eduardo Ricagni"
+    ],
+    [
+     "D",
+     "Alberto Piccinini"
+    ],
+    [
+     "D",
+     "Savino Bellini"
+    ],
+    [
+     "D",
+     "Egidio Micheloni"
+    ],
+    [
+     "D",
+     "Guglielmo Borgo"
+    ],
+    [
+     "G",
+     "Luigi Giunta"
+    ],
+    [
+     "G",
+     "Cinzio Scagliotti"
+    ]
+   ],
+   "fuente": "https://sempremilan.com/every-player-move-between-ac-milan-juventus + planteles",
+   "dia": 11
+  },
+  {
+   "id": "dt_champions_dos_clubes",
+   "q": "Entrenadores que hayan ganado la Champions League (o Copa de Europa) con dos clubes distintos",
+   "r": [
+    [
+     "H",
+     "Pep Guardiola",
+     "guardiola"
+    ],
+    [
+     "H",
+     "Carlo Ancelotti",
+     "ancelotti"
+    ],
+    [
+     "H",
+     "José Mourinho",
+     "mourinho"
+    ],
+    [
+     "T",
+     "Luis Enrique"
+    ],
+    [
+     "T",
+     "Jupp Heynckes",
+     "heynckes"
+    ],
+    [
+     "T",
+     "Ottmar Hitzfeld",
+     "hitzfeld"
+    ],
+    [
+     "C",
+     "Ernst Happel",
+     "happel"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos campeones de Europa con más de un club (hasta 2026)",
+   "dia": 11
+  },
+  {
+   "id": "brasil_1994",
+   "q": "Jugadores que hayan sido campeones del mundo con Brasil en 1994",
+   "r": [
+    [
+     "H",
+     "Romário",
+     "romario"
+    ],
+    [
+     "H",
+     "Bebeto"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Cafu"
+    ],
+    [
+     "H",
+     "Dunga"
+    ],
+    [
+     "T",
+     "Cláudio Taffarel",
+     "taffarel"
+    ],
+    [
+     "T",
+     "Jorginho"
+    ],
+    [
+     "T",
+     "Aldair"
+    ],
+    [
+     "T",
+     "Márcio Santos",
+     "marcio santos"
+    ],
+    [
+     "T",
+     "Branco"
+    ],
+    [
+     "T",
+     "Leonardo"
+    ],
+    [
+     "T",
+     "Mauro Silva"
+    ],
+    [
+     "T",
+     "Zinho"
+    ],
+    [
+     "T",
+     "Raí",
+     "rai"
+    ],
+    [
+     "T",
+     "Mazinho"
+    ],
+    [
+     "T",
+     "Ricardo Rocha"
+    ],
+    [
+     "C",
+     "Müller",
+     "muller"
+    ],
+    [
+     "C",
+     "Viola"
+    ],
+    [
+     "C",
+     "Zetti"
+    ],
+    [
+     "C",
+     "Paulo Sérgio",
+     "paulo sergio"
+    ],
+    [
+     "D",
+     "Ronaldão",
+     "ronaldao"
+    ],
+    [
+     "D",
+     "Gilmar Rinaldi",
+     "gilmar"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 22 de Brasil en Estados Unidos 1994",
+   "dia": 11
+  },
+  {
+   "id": "campeones_bundesliga",
+   "q": "Clubes que hayan ganado la Bundesliga",
+   "r": [
+    [
+     "H",
+     "Bayern Múnich",
+     "bayern munich",
+     "bayern"
+    ],
+    [
+     "H",
+     "Borussia Dortmund",
+     "dortmund"
+    ],
+    [
+     "T",
+     "Bayer Leverkusen",
+     "leverkusen"
+    ],
+    [
+     "T",
+     "Borussia Mönchengladbach",
+     "monchengladbach",
+     "gladbach"
+    ],
+    [
+     "T",
+     "Werder Bremen",
+     "werder"
+    ],
+    [
+     "T",
+     "Hamburgo",
+     "hamburgo sv",
+     "hamburger sv",
+     "hamburg"
+    ],
+    [
+     "T",
+     "Stuttgart",
+     "vfb stuttgart"
+    ],
+    [
+     "T",
+     "Wolfsburg"
+    ],
+    [
+     "C",
+     "Kaiserslautern"
+    ],
+    [
+     "C",
+     "Colonia",
+     "koln",
+     "1 fc koln"
+    ],
+    [
+     "D",
+     "Núremberg",
+     "nuremberg",
+     "nurnberg"
+    ],
+    [
+     "D",
+     "1860 Múnich",
+     "1860 munich",
+     "munich 1860"
+    ],
+    [
+     "G",
+     "Eintracht Braunschweig",
+     "braunschweig"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Campeones de la Bundesliga 1963-64 a 2025-26",
+   "dia": 11
+  },
+  {
+   "id": "the_best_fifa",
+   "q": "Ganadores del premio The Best de la FIFA al mejor jugador",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "T",
+     "Robert Lewandowski",
+     "lewy"
+    ],
+    [
+     "T",
+     "Luka Modrić"
+    ],
+    [
+     "T",
+     "Vinícius Júnior",
+     "vinicius",
+     "vini jr",
+     "vinicius jr"
+    ],
+    [
+     "C",
+     "Ousmane Dembélé"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://eleconomista.com.ar/deportes/uno-uno-todos-ganadores-premio-the-best-fifa-lo-largo-historia-n60097 (2016-2025)",
+   "dia": 11
   }
  ]
 }
