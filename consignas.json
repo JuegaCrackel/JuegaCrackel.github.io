@@ -10092,6 +10092,570 @@
    "completa": true,
    "fuente": "https://eleconomista.com.ar/deportes/uno-uno-todos-ganadores-premio-the-best-fifa-lo-largo-historia-n60097 (2016-2025)",
    "dia": 11
+  },
+  {
+   "id": "inter_barcelona",
+   "q": "Jugadores que hayan jugado en el Inter y en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Samuel Eto'o",
+     "eto o",
+     "etoo"
+    ],
+    [
+     "H",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "H",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "T",
+     "Philippe Coutinho",
+     "coutinho"
+    ],
+    [
+     "T",
+     "Arturo Vidal",
+     "rey arturo"
+    ],
+    [
+     "T",
+     "Thiago Motta"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Ricardo Quaresma",
+     "quaresma"
+    ],
+    [
+     "T",
+     "Maxwell"
+    ],
+    [
+     "T",
+     "Laurent Blanc"
+    ],
+    [
+     "C",
+     "Rafinha Alcântara",
+     "rafinha"
+    ],
+    [
+     "C",
+     "Martín Montoya"
+    ],
+    [
+     "C",
+     "Francesco Coco"
+    ],
+    [
+     "C",
+     "Luis Suárez Miramontes",
+     "miramontes",
+     "luis suarez"
+    ],
+    [
+     "D",
+     "Héctor Scarone",
+     "scarone"
+    ],
+    [
+     "G",
+     "Szegedi"
+    ]
+   ],
+   "fuente": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2803857/inter-y-barca-un-vinculo-de-19-jugadores",
+   "dia": 12
+  },
+  {
+   "id": "terceros_mundial",
+   "q": "Selecciones que hayan terminado terceras en un Mundial",
+   "r": [
+    [
+     "H",
+     "Alemania",
+     "alemania federal",
+     "germany"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Croacia"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "Bélgica",
+     "belgica"
+    ],
+    [
+     "T",
+     "Portugal"
+    ],
+    [
+     "T",
+     "Chile"
+    ],
+    [
+     "T",
+     "Suecia"
+    ],
+    [
+     "T",
+     "Polonia"
+    ],
+    [
+     "T",
+     "Turquía",
+     "turquia"
+    ],
+    [
+     "C",
+     "Austria"
+    ],
+    [
+     "D",
+     "Estados Unidos",
+     "eeuu",
+     "usa"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "https://www.record.com.mx/historia/todos-los-terceros-lugares-en-la-historia-de-los-mundiales-2026071721002238292 + 2026 (Inglaterra 6-4 Francia)",
+   "dia": 12
+  },
+  {
+   "id": "brasilenos_milan",
+   "q": "Brasileños que hayan jugado en el Milan",
+   "r": [
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Cafu"
+    ],
+    [
+     "H",
+     "Thiago Silva"
+    ],
+    [
+     "T",
+     "Alexandre Pato",
+     "pato"
+    ],
+    [
+     "T",
+     "Dida"
+    ],
+    [
+     "T",
+     "Robinho"
+    ],
+    [
+     "T",
+     "Lucas Paquetá",
+     "paqueta"
+    ],
+    [
+     "T",
+     "Rivaldo"
+    ],
+    [
+     "T",
+     "Leonardo"
+    ],
+    [
+     "T",
+     "Serginho"
+    ],
+    [
+     "T",
+     "Emerson"
+    ],
+    [
+     "T",
+     "Roque Júnior",
+     "roque junior"
+    ],
+    [
+     "T",
+     "Emerson Royal"
+    ],
+    [
+     "C",
+     "Alex",
+     "alex costa"
+    ],
+    [
+     "C",
+     "Ricardo Oliveira"
+    ],
+    [
+     "C",
+     "José Altafini",
+     "altafini",
+     "mazzola"
+    ],
+    [
+     "C",
+     "Dino Sani"
+    ],
+    [
+     "C",
+     "Amarildo"
+    ],
+    [
+     "C",
+     "Léo Duarte",
+     "leo duarte"
+    ],
+    [
+     "C",
+     "Rodrigo Ely"
+    ],
+    [
+     "D",
+     "Angelo Sormani",
+     "sormani"
+    ],
+    [
+     "D",
+     "Emanuele Del Vecchio",
+     "del vecchio"
+    ],
+    [
+     "D",
+     "Germano"
+    ],
+    [
+     "D",
+     "Digão",
+     "digao"
+    ],
+    [
+     "G",
+     "Arnoni Vicente"
+    ],
+    [
+     "G",
+     "Eliseu Gabardo",
+     "gabardo"
+    ]
+   ],
+   "fuente": "https://rsssf.org/players/braz-players-in-it.html + planteles recientes",
+   "dia": 12
+  },
+  {
+   "id": "campeones_liga_espana",
+   "q": "Clubes que hayan ganado la Liga española",
+   "r": [
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "T",
+     "Atlético de Madrid",
+     "atletico de madrid",
+     "atletico"
+    ],
+    [
+     "T",
+     "Valencia"
+    ],
+    [
+     "T",
+     "Athletic Club",
+     "athletic de bilbao",
+     "athletic"
+    ],
+    [
+     "C",
+     "Real Sociedad"
+    ],
+    [
+     "C",
+     "Deportivo La Coruña",
+     "deportivo",
+     "depor"
+    ],
+    [
+     "C",
+     "Sevilla"
+    ],
+    [
+     "D",
+     "Real Betis",
+     "betis"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés de LaLiga 1929-2026",
+   "dia": 12
+  },
+  {
+   "id": "united_real_madrid",
+   "q": "Jugadores que hayan jugado en el Manchester United y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "David Beckham"
+    ],
+    [
+     "H",
+     "Casemiro"
+    ],
+    [
+     "T",
+     "Ruud van Nistelrooy"
+    ],
+    [
+     "T",
+     "Ángel Di María",
+     "fideo di maria"
+    ],
+    [
+     "T",
+     "Raphaël Varane",
+     "varane"
+    ],
+    [
+     "T",
+     "Michael Owen"
+    ],
+    [
+     "T",
+     "Gabriel Heinze"
+    ],
+    [
+     "T",
+     "Javier Hernández",
+     "chicharito"
+    ],
+    [
+     "C",
+     "Laurie Cunningham"
+    ]
+   ],
+   "fuente": "https://www.unitedinfocus.com/news/beckham-ronaldo-casemiro-every-player-to-play-for-both-manchester-united-and-real-madrid/",
+   "dia": 12
+  },
+  {
+   "id": "dt_campeones_premier",
+   "q": "Entrenadores que hayan ganado la Premier League",
+   "r": [
+    [
+     "H",
+     "Alex Ferguson",
+     "sir alex ferguson",
+     "ferguson"
+    ],
+    [
+     "H",
+     "Pep Guardiola",
+     "guardiola"
+    ],
+    [
+     "H",
+     "José Mourinho",
+     "mourinho"
+    ],
+    [
+     "H",
+     "Jürgen Klopp",
+     "klopp"
+    ],
+    [
+     "H",
+     "Arsène Wenger",
+     "wenger"
+    ],
+    [
+     "T",
+     "Carlo Ancelotti",
+     "ancelotti"
+    ],
+    [
+     "T",
+     "Antonio Conte",
+     "conte"
+    ],
+    [
+     "T",
+     "Claudio Ranieri",
+     "ranieri"
+    ],
+    [
+     "T",
+     "Mikel Arteta",
+     "arteta"
+    ],
+    [
+     "T",
+     "Arne Slot",
+     "slot"
+    ],
+    [
+     "T",
+     "Roberto Mancini",
+     "mancini"
+    ],
+    [
+     "C",
+     "Manuel Pellegrini",
+     "pellegrini"
+    ],
+    [
+     "C",
+     "Kenny Dalglish",
+     "dalglish"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos campeones de la Premier 1992-93 a 2025-26 (Arteta con el Arsenal en 2026)",
+   "dia": 12
+  },
+  {
+   "id": "balon_oro_real_madrid",
+   "q": "Ganadores del Balón de Oro que hayan jugado en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Luka Modrić"
+    ],
+    [
+     "H",
+     "Karim Benzema"
+    ],
+    [
+     "T",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "T",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "T",
+     "Alfredo Di Stéfano",
+     "di stefano",
+     "saeta rubia"
+    ],
+    [
+     "T",
+     "Fabio Cannavaro"
+    ],
+    [
+     "C",
+     "Michael Owen"
+    ],
+    [
+     "C",
+     "Raymond Kopa",
+     "kopa"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Ganadores del Balón de Oro 1956-2026 cruzados con los planteles del Real Madrid",
+   "dia": 12
   }
  ]
 }
