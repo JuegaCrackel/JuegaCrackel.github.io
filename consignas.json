@@ -10656,6 +10656,514 @@
    "completa": true,
    "fuente": "Ganadores del Balón de Oro 1956-2026 cruzados con los planteles del Real Madrid",
    "dia": 12
+  },
+  {
+   "id": "barcelona_milan",
+   "q": "Jugadores que hayan jugado en el Barcelona y en el Milan",
+   "r": [
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Rivaldo"
+    ],
+    [
+     "T",
+     "Patrick Kluivert"
+    ],
+    [
+     "T",
+     "Edgar Davids"
+    ],
+    [
+     "T",
+     "Gianluca Zambrotta"
+    ],
+    [
+     "T",
+     "Mark van Bommel"
+    ],
+    [
+     "T",
+     "Kevin-Prince Boateng",
+     "boateng"
+    ],
+    [
+     "T",
+     "Bojan Krkić",
+     "bojan"
+    ],
+    [
+     "T",
+     "Gerard Deulofeu",
+     "deulofeu"
+    ],
+    [
+     "T",
+     "Franck Kessié",
+     "kessie"
+    ],
+    [
+     "C",
+     "Michael Reiziger"
+    ],
+    [
+     "C",
+     "Winston Bogarde"
+    ],
+    [
+     "C",
+     "Christophe Dugarry"
+    ],
+    [
+     "C",
+     "Sergiño Dest",
+     "dest"
+    ]
+   ],
+   "fuente": "Planteles de Barcelona y Milan",
+   "dia": 13
+  },
+  {
+   "id": "dt_chile_mundial",
+   "q": "Entrenadores que hayan dirigido a Chile en un Mundial",
+   "r": [
+    [
+     "H",
+     "Marcelo Bielsa",
+     "loco bielsa",
+     "bielsa"
+    ],
+    [
+     "H",
+     "Jorge Sampaoli",
+     "sampaoli"
+    ],
+    [
+     "T",
+     "Nelson Acosta"
+    ],
+    [
+     "T",
+     "Fernando Riera"
+    ],
+    [
+     "C",
+     "Luis Santibáñez",
+     "santibanez"
+    ],
+    [
+     "C",
+     "Luis Álamos",
+     "alamos"
+    ],
+    [
+     "D",
+     "Alberto Buccicardi",
+     "buccicardi"
+    ],
+    [
+     "G",
+     "György Orth",
+     "gyorgy orth",
+     "jorge orth"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "https://en.wikipedia.org/wiki/List_of_Chile_national_football_team_managers",
+   "dia": 13
+  },
+  {
+   "id": "africanos_chelsea",
+   "q": "Africanos que hayan jugado en el Chelsea",
+   "r": [
+    [
+     "H",
+     "Didier Drogba",
+     "drogba"
+    ],
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "H",
+     "Michael Essien",
+     "essien"
+    ],
+    [
+     "T",
+     "John Obi Mikel",
+     "obi mikel",
+     "mikel"
+    ],
+    [
+     "T",
+     "Salomon Kalou",
+     "kalou"
+    ],
+    [
+     "T",
+     "Victor Moses"
+    ],
+    [
+     "T",
+     "Hakim Ziyech",
+     "ziyech"
+    ],
+    [
+     "T",
+     "Kalidou Koulibaly",
+     "koulibaly"
+    ],
+    [
+     "T",
+     "Édouard Mendy",
+     "edouard mendy"
+    ],
+    [
+     "T",
+     "Pierre-Emerick Aubameyang",
+     "aubameyang"
+    ],
+    [
+     "T",
+     "Nicolas Jackson"
+    ],
+    [
+     "C",
+     "Geremi"
+    ],
+    [
+     "C",
+     "Celestine Babayaro",
+     "babayaro"
+    ],
+    [
+     "C",
+     "Ola Aina"
+    ],
+    [
+     "C",
+     "Bertrand Traoré"
+    ]
+   ],
+   "fuente": "Planteles del Chelsea",
+   "dia": 13
+  },
+  {
+   "id": "campeones_sub20",
+   "q": "Selecciones que hayan ganado el Mundial Sub-20",
+   "r": [
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "T",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "T",
+     "Portugal"
+    ],
+    [
+     "T",
+     "Francia",
+     "france"
+    ],
+    [
+     "T",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "T",
+     "Uruguay"
+    ],
+    [
+     "T",
+     "Marruecos"
+    ],
+    [
+     "C",
+     "Ghana"
+    ],
+    [
+     "C",
+     "Serbia"
+    ],
+    [
+     "C",
+     "Ucrania"
+    ],
+    [
+     "C",
+     "Alemania Federal",
+     "alemania",
+     "alemania occidental"
+    ],
+    [
+     "D",
+     "Unión Soviética",
+     "union sovietica",
+     "urss"
+    ],
+    [
+     "G",
+     "Yugoslavia"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "https://www.cronica.com.ar/depo/futbolinternacional/Marruecos-se-sumo-a-la-lista-todos-los-campeones-del-Mundial-Sub-20-20251019-0024.html (1977-2025)",
+   "dia": 13
+  },
+  {
+   "id": "psg_milan",
+   "q": "Jugadores que hayan jugado en el PSG y en el Milan",
+   "r": [
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Thiago Silva"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "David Beckham"
+    ],
+    [
+     "H",
+     "Gianluigi Donnarumma",
+     "donnarumma"
+    ],
+    [
+     "T",
+     "George Weah"
+    ],
+    [
+     "T",
+     "Leonardo"
+    ],
+    [
+     "T",
+     "Adrien Rabiot"
+    ],
+    [
+     "T",
+     "Jérémy Ménez",
+     "menez"
+    ],
+    [
+     "T",
+     "Alessandro Florenzi"
+    ]
+   ],
+   "fuente": "Planteles de PSG y Milan",
+   "dia": 13
+  },
+  {
+   "id": "campeones_confederaciones",
+   "q": "Selecciones que hayan ganado la Copa Confederaciones",
+   "r": [
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Alemania",
+     "germany"
+    ],
+    [
+     "T",
+     "Francia",
+     "france"
+    ],
+    [
+     "T",
+     "México",
+     "mexico"
+    ],
+    [
+     "T",
+     "Argentina"
+    ],
+    [
+     "C",
+     "Dinamarca"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Palmarés de la Copa Confederaciones / Copa Rey Fahd 1992-2017",
+   "dia": 13
+  },
+  {
+   "id": "arqueros_real_madrid",
+   "q": "Arqueros que hayan jugado en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Iker Casillas",
+     "san iker"
+    ],
+    [
+     "H",
+     "Thibaut Courtois"
+    ],
+    [
+     "H",
+     "Keylor Navas"
+    ],
+    [
+     "T",
+     "Andriy Lunin",
+     "lunin"
+    ],
+    [
+     "T",
+     "Diego López"
+    ],
+    [
+     "T",
+     "Kepa Arrizabalaga",
+     "kepa"
+    ],
+    [
+     "T",
+     "Paco Buyo",
+     "buyo"
+    ],
+    [
+     "T",
+     "Santiago Cañizares",
+     "canizares"
+    ],
+    [
+     "T",
+     "Jerzy Dudek"
+    ],
+    [
+     "T",
+     "Bodo Illgner"
+    ],
+    [
+     "T",
+     "Kiko Casilla"
+    ],
+    [
+     "T",
+     "César Sánchez"
+    ],
+    [
+     "T",
+     "Antonio Adán"
+    ],
+    [
+     "T",
+     "Alphonse Areola",
+     "areola"
+    ],
+    [
+     "C",
+     "Ricardo Zamora",
+     "el divino zamora"
+    ],
+    [
+     "C",
+     "Miguel Ángel González",
+     "miguel angel"
+    ],
+    [
+     "C",
+     "Mariano García Remón",
+     "garcia remon"
+    ],
+    [
+     "C",
+     "Luca Zidane"
+    ],
+    [
+     "C",
+     "José Araquistáin",
+     "araquistain"
+    ],
+    [
+     "C",
+     "Rogelio Domínguez"
+    ],
+    [
+     "C",
+     "Albano Bizzarri",
+     "bizarri"
+    ],
+    [
+     "C",
+     "Pedro Contreras"
+    ],
+    [
+     "C",
+     "Jesús Fernández"
+    ],
+    [
+     "C",
+     "Tomás Mejías"
+    ],
+    [
+     "D",
+     "Agustín Rodríguez"
+    ],
+    [
+     "D",
+     "Antonio Betancort",
+     "betancort"
+    ],
+    [
+     "D",
+     "Juan Alonso"
+    ]
+   ],
+   "fuente": "https://www.goal.com/es/noticias/la-interminable-fabrica-de-porteros-del-real-madrid/19mnlbr8vj8491w0n88pr134no + planteles",
+   "dia": 13
   }
  ]
 }
