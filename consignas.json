@@ -11164,6 +11164,789 @@
    ],
    "fuente": "https://www.goal.com/es/noticias/la-interminable-fabrica-de-porteros-del-real-madrid/19mnlbr8vj8491w0n88pr134no + planteles",
    "dia": 13
+  },
+  {
+   "id": "real_madrid_milan",
+   "q": "Jugadores que hayan jugado en el Real Madrid y en el Milan",
+   "r": [
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "David Beckham",
+     "beckham"
+    ],
+    [
+     "T",
+     "Clarence Seedorf",
+     "seedorf"
+    ],
+    [
+     "T",
+     "Luka Modrić",
+     "modric"
+    ],
+    [
+     "T",
+     "Robinho"
+    ],
+    [
+     "T",
+     "Gonzalo Higuaín",
+     "pipita higuain"
+    ],
+    [
+     "T",
+     "Theo Hernández"
+    ],
+    [
+     "T",
+     "Brahim Díaz",
+     "brahim"
+    ],
+    [
+     "T",
+     "Álvaro Morata",
+     "morata"
+    ],
+    [
+     "T",
+     "Antonio Cassano",
+     "cassano"
+    ],
+    [
+     "T",
+     "Fernando Redondo",
+     "principe redondo"
+    ],
+    [
+     "C",
+     "Klaas-Jan Huntelaar",
+     "huntelaar"
+    ],
+    [
+     "C",
+     "Michael Essien",
+     "essien"
+    ],
+    [
+     "C",
+     "Luka Jović",
+     "jovic"
+    ],
+    [
+     "C",
+     "Christian Panucci",
+     "panucci"
+    ],
+    [
+     "C",
+     "Diego López"
+    ]
+   ],
+   "fuente": "Planteles históricos de Real Madrid y AC Milan",
+   "dia": 14
+  },
+  {
+   "id": "argentina_1986",
+   "q": "Jugadores que hayan sido campeones del mundo con Argentina en 1986",
+   "r": [
+    [
+     "H",
+     "Diego Maradona",
+     "maradona",
+     "el diego",
+     "pelusa"
+    ],
+    [
+     "T",
+     "Jorge Valdano"
+    ],
+    [
+     "T",
+     "Jorge Burruchaga",
+     "burru"
+    ],
+    [
+     "T",
+     "Oscar Ruggeri",
+     "cabezon ruggeri"
+    ],
+    [
+     "T",
+     "Nery Pumpido"
+    ],
+    [
+     "T",
+     "José Luis Brown",
+     "tata brown"
+    ],
+    [
+     "T",
+     "Daniel Passarella",
+     "kaiser passarella"
+    ],
+    [
+     "T",
+     "Sergio Batista",
+     "checho batista"
+    ],
+    [
+     "T",
+     "Ricardo Bochini",
+     "bocha bochini"
+    ],
+    [
+     "C",
+     "Claudio Borghi",
+     "bichi borghi"
+    ],
+    [
+     "C",
+     "Héctor Enrique",
+     "negro enrique"
+    ],
+    [
+     "C",
+     "Julio Olarticoechea",
+     "vasco olarticoechea"
+    ],
+    [
+     "C",
+     "Ricardo Giusti"
+    ],
+    [
+     "C",
+     "José Luis Cuciuffo",
+     "cuciuffo"
+    ],
+    [
+     "C",
+     "Oscar Garré"
+    ],
+    [
+     "C",
+     "Néstor Clausen"
+    ],
+    [
+     "C",
+     "Luis Islas"
+    ],
+    [
+     "C",
+     "Carlos Tapia"
+    ],
+    [
+     "C",
+     "Marcelo Trobbiani"
+    ],
+    [
+     "C",
+     "Pedro Pasculli"
+    ],
+    [
+     "D",
+     "Sergio Almirón"
+    ],
+    [
+     "D",
+     "Héctor Zelada"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 22 de Argentina en México 1986",
+   "dia": 14
+  },
+  {
+   "id": "dt_barcelona",
+   "q": "Entrenadores que hayan dirigido al Barcelona",
+   "r": [
+    [
+     "H",
+     "Pep Guardiola",
+     "guardiola"
+    ],
+    [
+     "H",
+     "Johan Cruyff",
+     "cruyff",
+     "cruijff"
+    ],
+    [
+     "H",
+     "Luis Enrique"
+    ],
+    [
+     "H",
+     "Xavi Hernández",
+     "xavi"
+    ],
+    [
+     "T",
+     "Frank Rijkaard",
+     "rijkaard"
+    ],
+    [
+     "T",
+     "Hansi Flick",
+     "flick"
+    ],
+    [
+     "T",
+     "Louis van Gaal",
+     "van gaal"
+    ],
+    [
+     "T",
+     "Ronald Koeman",
+     "koeman"
+    ],
+    [
+     "T",
+     "Ernesto Valverde",
+     "valverde"
+    ],
+    [
+     "T",
+     "Tito Vilanova",
+     "vilanova"
+    ],
+    [
+     "T",
+     "Gerardo Martino",
+     "tata martino"
+    ],
+    [
+     "T",
+     "Quique Setién",
+     "setien"
+    ],
+    [
+     "T",
+     "Bobby Robson"
+    ],
+    [
+     "C",
+     "César Luis Menotti",
+     "menotti",
+     "flaco menotti"
+    ],
+    [
+     "C",
+     "Terry Venables",
+     "venables"
+    ],
+    [
+     "C",
+     "Carles Rexach",
+     "charly rexach"
+    ],
+    [
+     "C",
+     "Lorenzo Serra Ferrer",
+     "serra ferrer"
+    ],
+    [
+     "C",
+     "Radomir Antić",
+     "antic"
+    ],
+    [
+     "C",
+     "Rinus Michels",
+     "michels"
+    ],
+    [
+     "C",
+     "Helenio Herrera"
+    ],
+    [
+     "C",
+     "Udo Lattek",
+     "lattek"
+    ],
+    [
+     "C",
+     "Luis Aragonés"
+    ],
+    [
+     "C",
+     "Hennes Weisweiler",
+     "weisweiler"
+    ],
+    [
+     "D",
+     "Ladislao Kubala",
+     "kubala"
+    ],
+    [
+     "D",
+     "Vic Buckingham"
+    ],
+    [
+     "D",
+     "Salvador Artigas"
+    ],
+    [
+     "D",
+     "Ferdinand Daučík",
+     "daucik"
+    ],
+    [
+     "D",
+     "Jordi Roura"
+    ],
+    [
+     "G",
+     "Jack Greenwell",
+     "greenwell"
+    ],
+    [
+     "G",
+     "Josep Samitier",
+     "samitier"
+    ]
+   ],
+   "tipo": "entrenador",
+   "fuente": "Historial de entrenadores del FC Barcelona",
+   "dia": 14
+  },
+  {
+   "id": "argentinos_napoli",
+   "q": "Argentinos que hayan jugado en el Napoli",
+   "r": [
+    [
+     "H",
+     "Diego Maradona",
+     "maradona",
+     "el diego",
+     "pelusa"
+    ],
+    [
+     "T",
+     "Gonzalo Higuaín",
+     "pipita higuain"
+    ],
+    [
+     "T",
+     "Ezequiel Lavezzi",
+     "pocho lavezzi"
+    ],
+    [
+     "T",
+     "Giovanni Simeone",
+     "gio simeone",
+     "cholito simeone"
+    ],
+    [
+     "T",
+     "Roberto Ayala",
+     "raton ayala"
+    ],
+    [
+     "C",
+     "Omar Sívori",
+     "sivori"
+    ],
+    [
+     "C",
+     "Ramón Díaz"
+    ],
+    [
+     "C",
+     "Daniel Bertoni"
+    ],
+    [
+     "C",
+     "Hugo Campagnaro"
+    ],
+    [
+     "C",
+     "Germán Denis",
+     "tanque denis"
+    ],
+    [
+     "C",
+     "Federico Fernández"
+    ],
+    [
+     "C",
+     "Mariano Andújar"
+    ],
+    [
+     "C",
+     "Roberto Sosa",
+     "pampa sosa"
+    ],
+    [
+     "C",
+     "José Ernesto Sosa",
+     "principito sosa"
+    ],
+    [
+     "D",
+     "Bruno Pesaola",
+     "petisso pesaola"
+    ]
+   ],
+   "fuente": "https://www.elgrafico.com.ar/articulo/futbol-europeo/56284/gio-simeone-todo-argentino-suenia-llegar-al-napoli-donde-jugo-diego · https://rsssf.org/players/arg-players-in-it.html",
+   "dia": 14
+  },
+  {
+   "id": "leicester_2016",
+   "q": "Jugadores del Leicester campeón de la Premier League 2015-16",
+   "r": [
+    [
+     "H",
+     "Jamie Vardy"
+    ],
+    [
+     "H",
+     "Riyad Mahrez"
+    ],
+    [
+     "H",
+     "N'Golo Kanté",
+     "kante"
+    ],
+    [
+     "T",
+     "Kasper Schmeichel"
+    ],
+    [
+     "T",
+     "Wes Morgan"
+    ],
+    [
+     "T",
+     "Robert Huth"
+    ],
+    [
+     "T",
+     "Danny Drinkwater"
+    ],
+    [
+     "T",
+     "Shinji Okazaki"
+    ],
+    [
+     "T",
+     "Christian Fuchs"
+    ],
+    [
+     "T",
+     "Marc Albrighton"
+    ],
+    [
+     "T",
+     "Leonardo Ulloa"
+    ],
+    [
+     "C",
+     "Danny Simpson"
+    ],
+    [
+     "C",
+     "Jeffrey Schlupp"
+    ],
+    [
+     "C",
+     "Andy King"
+    ],
+    [
+     "C",
+     "Gökhan İnler",
+     "inler"
+    ],
+    [
+     "C",
+     "Demarai Gray"
+    ],
+    [
+     "C",
+     "Daniel Amartey"
+    ],
+    [
+     "C",
+     "Nathan Dyer"
+    ],
+    [
+     "C",
+     "Marcin Wasilewski"
+    ],
+    [
+     "D",
+     "Ritchie De Laet"
+    ],
+    [
+     "D",
+     "Yohan Benalouane"
+    ],
+    [
+     "D",
+     "Mark Schwarzer"
+    ],
+    [
+     "D",
+     "Andrej Kramarić",
+     "kramaric"
+    ],
+    [
+     "D",
+     "Dean Hammond"
+    ]
+   ],
+   "fuente": "Plantel del Leicester City 2015-16 (jugadores con partidos en la Premier)",
+   "dia": 14
+  },
+  {
+   "id": "campeones_uefa",
+   "q": "Clubes que hayan ganado la Europa League (o Copa UEFA)",
+   "r": [
+    [
+     "H",
+     "Sevilla"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "man united",
+     "united"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "T",
+     "Atlético de Madrid",
+     "atletico madrid",
+     "atleti"
+    ],
+    [
+     "T",
+     "Inter",
+     "inter de milan",
+     "internazionale"
+    ],
+    [
+     "T",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "T",
+     "Tottenham",
+     "spurs"
+    ],
+    [
+     "T",
+     "Real Madrid"
+    ],
+    [
+     "T",
+     "Porto",
+     "fc porto"
+    ],
+    [
+     "T",
+     "Ajax"
+    ],
+    [
+     "T",
+     "Bayern Múnich",
+     "bayern munich",
+     "bayern"
+    ],
+    [
+     "T",
+     "Napoli",
+     "napoles"
+    ],
+    [
+     "T",
+     "Valencia"
+    ],
+    [
+     "T",
+     "Villarreal"
+    ],
+    [
+     "T",
+     "Atalanta"
+    ],
+    [
+     "T",
+     "Aston Villa"
+    ],
+    [
+     "C",
+     "Feyenoord"
+    ],
+    [
+     "C",
+     "Parma"
+    ],
+    [
+     "C",
+     "Eintracht Frankfurt",
+     "eintracht"
+    ],
+    [
+     "C",
+     "Galatasaray"
+    ],
+    [
+     "C",
+     "Zenit",
+     "zenit san petersburgo"
+    ],
+    [
+     "C",
+     "Shakhtar Donetsk",
+     "shakhtar"
+    ],
+    [
+     "C",
+     "Bayer Leverkusen",
+     "leverkusen"
+    ],
+    [
+     "C",
+     "PSV",
+     "psv eindhoven"
+    ],
+    [
+     "C",
+     "Borussia Mönchengladbach",
+     "monchengladbach",
+     "gladbach"
+    ],
+    [
+     "C",
+     "Schalke 04",
+     "schalke"
+    ],
+    [
+     "C",
+     "Anderlecht"
+    ],
+    [
+     "D",
+     "IFK Göteborg",
+     "goteborg",
+     "gotemburgo"
+    ],
+    [
+     "D",
+     "CSKA Moscú",
+     "cska moscow",
+     "cska"
+    ],
+    [
+     "D",
+     "Ipswich Town",
+     "ipswich"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés de la Copa UEFA / Europa League 1972-2026 · https://www.primicias.ec/deportes/futbol/aston-villa-corona-campeon-uefa-europa-league-golear-friburgo-123293/",
+   "dia": 14
+  },
+  {
+   "id": "africanas_mundial",
+   "q": "Selecciones africanas que hayan jugado un Mundial",
+   "r": [
+    [
+     "H",
+     "Marruecos",
+     "morocco"
+    ],
+    [
+     "H",
+     "Camerún",
+     "cameroon"
+    ],
+    [
+     "H",
+     "Nigeria"
+    ],
+    [
+     "T",
+     "Senegal"
+    ],
+    [
+     "T",
+     "Ghana"
+    ],
+    [
+     "T",
+     "Egipto",
+     "egypt"
+    ],
+    [
+     "T",
+     "Túnez",
+     "tunisia"
+    ],
+    [
+     "T",
+     "Argelia",
+     "algeria"
+    ],
+    [
+     "T",
+     "Costa de Marfil",
+     "ivory coast",
+     "cote d'ivoire"
+    ],
+    [
+     "C",
+     "Sudáfrica",
+     "south africa"
+    ],
+    [
+     "C",
+     "Cabo Verde",
+     "cape verde"
+    ],
+    [
+     "D",
+     "Angola"
+    ],
+    [
+     "D",
+     "Togo"
+    ],
+    [
+     "G",
+     "RD Congo",
+     "republica democratica del congo",
+     "zaire",
+     "congo"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Participaciones africanas en Mundiales 1934-2026 · https://www.record.com.mx/historia/como-quedo-el-repechaje-africano-para-el-mundial-2026-2026012009183149907 · https://elmercurio.com.ec/?p=1249740",
+   "dia": 14
   }
  ]
 }
