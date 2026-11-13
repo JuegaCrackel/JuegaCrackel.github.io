@@ -17748,6 +17748,709 @@
    ],
    "fuente": "Planteles de Manchester City y Barcelona",
    "dia": 19
+  },
+  {
+   "id": "napoli_juventus",
+   "q": "Jugadores que hayan jugado en el Napoli y en la Juventus",
+   "r": [
+    [
+     "H",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "H",
+     "Fabio Cannavaro"
+    ],
+    [
+     "H",
+     "Dino Zoff"
+    ],
+    [
+     "T",
+     "Ciro Ferrara"
+    ],
+    [
+     "T",
+     "José Altafini",
+     "altafini"
+    ],
+    [
+     "T",
+     "Fabio Quagliarella",
+     "quagliarella"
+    ],
+    [
+     "T",
+     "Arkadiusz Milik",
+     "milik"
+    ],
+    [
+     "T",
+     "Leonardo Spinazzola",
+     "spinazzola"
+    ],
+    [
+     "C",
+     "Massimo Mauro"
+    ],
+    [
+     "C",
+     "Fabio Pecchia"
+    ],
+    [
+     "C",
+     "Michele Padovano"
+    ]
+   ],
+   "fuente": "Planteles de Napoli y Juventus",
+   "dia": 20
+  },
+  {
+   "id": "dt_brasil_mundial",
+   "q": "Entrenadores que hayan dirigido a Brasil en un Mundial",
+   "r": [
+    [
+     "H",
+     "Carlo Ancelotti",
+     "ancelotti"
+    ],
+    [
+     "H",
+     "Tite"
+    ],
+    [
+     "H",
+     "Luiz Felipe Scolari",
+     "felipao"
+    ],
+    [
+     "H",
+     "Dunga"
+    ],
+    [
+     "H",
+     "Mário Zagallo",
+     "zagallo"
+    ],
+    [
+     "T",
+     "Carlos Alberto Parreira",
+     "parreira"
+    ],
+    [
+     "T",
+     "Telê Santana",
+     "tele santana"
+    ],
+    [
+     "T",
+     "Sebastião Lazaroni",
+     "lazaroni"
+    ],
+    [
+     "T",
+     "Vicente Feola",
+     "feola"
+    ],
+    [
+     "C",
+     "Cláudio Coutinho",
+     "claudio coutinho"
+    ],
+    [
+     "C",
+     "Aymoré Moreira"
+    ],
+    [
+     "C",
+     "Zezé Moreira"
+    ],
+    [
+     "C",
+     "Flávio Costa",
+     "flavio costa"
+    ],
+    [
+     "D",
+     "Adhemar Pimenta",
+     "pimenta"
+    ],
+    [
+     "D",
+     "Luiz Vinhaes",
+     "vinhaes"
+    ],
+    [
+     "G",
+     "Píndaro de Carvalho",
+     "pindaro"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos de la selección brasileña en cada Mundial 1930-2026",
+   "dia": 20
+  },
+  {
+   "id": "chile_copa_america",
+   "q": "Jugadores que hayan sido campeones de la Copa América con Chile (2015 o 2016)",
+   "r": [
+    [
+     "H",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "H",
+     "Arturo Vidal",
+     "rey arturo"
+    ],
+    [
+     "H",
+     "Claudio Bravo",
+     "bravo"
+    ],
+    [
+     "H",
+     "Gary Medel",
+     "pitbull medel"
+    ],
+    [
+     "H",
+     "Eduardo Vargas",
+     "turboman"
+    ],
+    [
+     "H",
+     "Charles Aránguiz",
+     "aranguiz",
+     "principe"
+    ],
+    [
+     "H",
+     "Mauricio Isla",
+     "isla"
+    ],
+    [
+     "H",
+     "Jorge Valdivia",
+     "mago valdivia"
+    ],
+    [
+     "H",
+     "Gonzalo Jara"
+    ],
+    [
+     "H",
+     "Jean Beausejour",
+     "beausejour"
+    ],
+    [
+     "H",
+     "Marcelo Díaz",
+     "carepato diaz"
+    ],
+    [
+     "T",
+     "Mauricio Pinilla",
+     "pinigol"
+    ],
+    [
+     "T",
+     "David Pizarro"
+    ],
+    [
+     "T",
+     "Matías Fernández",
+     "matigol"
+    ],
+    [
+     "T",
+     "Johnny Herrera"
+    ],
+    [
+     "T",
+     "Eugenio Mena"
+    ],
+    [
+     "T",
+     "Edson Puch"
+    ],
+    [
+     "T",
+     "José Pedro Fuenzalida",
+     "fuenzalida"
+    ],
+    [
+     "T",
+     "Francisco Silva"
+    ],
+    [
+     "T",
+     "Erick Pulgar"
+    ],
+    [
+     "T",
+     "Nicolás Castillo"
+    ],
+    [
+     "T",
+     "Fabián Orellana"
+    ],
+    [
+     "T",
+     "Miiko Albornoz",
+     "albornoz"
+    ],
+    [
+     "T",
+     "Carlos Carmona"
+    ],
+    [
+     "T",
+     "Felipe Gutiérrez"
+    ],
+    [
+     "T",
+     "Pedro Pablo Hernández",
+     "tucu hernandez"
+    ],
+    [
+     "T",
+     "Enzo Roco"
+    ],
+    [
+     "C",
+     "José Rojas"
+    ],
+    [
+     "C",
+     "Ángelo Henríquez"
+    ],
+    [
+     "C",
+     "Paulo Garcés"
+    ],
+    [
+     "C",
+     "Cristopher Toselli",
+     "toselli"
+    ]
+   ],
+   "completa": true,
+   "fuente": "https://www.24horas.cl/deportes/copaamerica2015/anfp-oficializa-nomina-de-chile-para-la-copa-america-2015-1678278 · https://www.24horas.cl/deportes/copa-america-centenario/esta-es-la-nomina-definitiva-de-chile-para-enfrentar-la-copa-america-centenario-2016050",
+   "dia": 20
+  },
+  {
+   "id": "campeones_copa_africa",
+   "q": "Selecciones que hayan ganado la Copa Africana de Naciones",
+   "r": [
+    [
+     "H",
+     "Egipto"
+    ],
+    [
+     "H",
+     "Camerún",
+     "camerun"
+    ],
+    [
+     "H",
+     "Senegal"
+    ],
+    [
+     "H",
+     "Nigeria"
+    ],
+    [
+     "H",
+     "Costa de Marfil"
+    ],
+    [
+     "H",
+     "Marruecos"
+    ],
+    [
+     "T",
+     "Ghana"
+    ],
+    [
+     "T",
+     "Argelia"
+    ],
+    [
+     "T",
+     "Túnez",
+     "tunez"
+    ],
+    [
+     "T",
+     "Sudáfrica",
+     "sudafrica"
+    ],
+    [
+     "T",
+     "Zambia"
+    ],
+    [
+     "C",
+     "RD Congo",
+     "zaire",
+     "republica democratica del congo"
+    ],
+    [
+     "C",
+     "Etiopía",
+     "etiopia"
+    ],
+    [
+     "D",
+     "Sudán",
+     "sudan"
+    ],
+    [
+     "D",
+     "República del Congo",
+     "congo brazzaville",
+     "congo"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Palmarés de la Copa Africana de Naciones 1957-2025",
+   "dia": 20
+  },
+  {
+   "id": "united_inter",
+   "q": "Jugadores que hayan jugado en el Manchester United y en el Inter",
+   "r": [
+    [
+     "H",
+     "Romelu Lukaku",
+     "lukaku"
+    ],
+    [
+     "H",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "H",
+     "Diego Forlán",
+     "forlan"
+    ],
+    [
+     "T",
+     "Juan Sebastián Verón",
+     "bruja veron"
+    ],
+    [
+     "T",
+     "Paul Ince"
+    ],
+    [
+     "T",
+     "Nemanja Vidić",
+     "vidic"
+    ],
+    [
+     "T",
+     "André Onana",
+     "onana"
+    ],
+    [
+     "T",
+     "Henrikh Mkhitaryan",
+     "mkhitaryan"
+    ],
+    [
+     "T",
+     "Ashley Young"
+    ],
+    [
+     "T",
+     "Matteo Darmian",
+     "darmian"
+    ],
+    [
+     "T",
+     "Laurent Blanc"
+    ],
+    [
+     "C",
+     "Mikaël Silvestre",
+     "silvestre"
+    ]
+   ],
+   "fuente": "Planteles de Manchester United e Inter",
+   "dia": 20
+  },
+  {
+   "id": "sedes_eurocopa",
+   "q": "Países que hayan sido sede de partidos de una Eurocopa",
+   "r": [
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "H",
+     "Alemania",
+     "germany"
+    ],
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Portugal"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "Bélgica",
+     "belgica"
+    ],
+    [
+     "T",
+     "Suiza"
+    ],
+    [
+     "T",
+     "Austria"
+    ],
+    [
+     "T",
+     "Polonia"
+    ],
+    [
+     "T",
+     "Ucrania"
+    ],
+    [
+     "T",
+     "Suecia"
+    ],
+    [
+     "C",
+     "Escocia"
+    ],
+    [
+     "C",
+     "Dinamarca"
+    ],
+    [
+     "C",
+     "Rusia"
+    ],
+    [
+     "C",
+     "Hungría",
+     "hungria"
+    ],
+    [
+     "C",
+     "Rumania"
+    ],
+    [
+     "D",
+     "Yugoslavia"
+    ],
+    [
+     "G",
+     "Azerbaiyán",
+     "azerbaiyan"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "país",
+   "fuente": "Sedes de la Eurocopa 1960-2024 (incluye las 11 sedes de la Euro 2020)",
+   "dia": 20
+  },
+  {
+   "id": "italianos_premier",
+   "q": "Italianos que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Gianfranco Zola",
+     "zola"
+    ],
+    [
+     "H",
+     "Mario Balotelli",
+     "balotelli"
+    ],
+    [
+     "H",
+     "Jorginho"
+    ],
+    [
+     "H",
+     "Federico Chiesa",
+     "chiesa"
+    ],
+    [
+     "H",
+     "Sandro Tonali",
+     "tonali"
+    ],
+    [
+     "H",
+     "Riccardo Calafiori",
+     "calafiori"
+    ],
+    [
+     "T",
+     "Gianluca Vialli",
+     "vialli"
+    ],
+    [
+     "T",
+     "Paolo Di Canio",
+     "di canio"
+    ],
+    [
+     "T",
+     "Fabrizio Ravanelli",
+     "ravanelli"
+    ],
+    [
+     "T",
+     "Roberto Di Matteo",
+     "di matteo"
+    ],
+    [
+     "T",
+     "Carlo Cudicini",
+     "cudicini"
+    ],
+    [
+     "T",
+     "Emerson Palmieri"
+    ],
+    [
+     "T",
+     "Destiny Udogie",
+     "udogie"
+    ],
+    [
+     "T",
+     "Guglielmo Vicario",
+     "vicario"
+    ],
+    [
+     "T",
+     "Gianluca Scamacca",
+     "scamacca"
+    ],
+    [
+     "T",
+     "Moise Kean",
+     "kean"
+    ],
+    [
+     "T",
+     "Matteo Darmian",
+     "darmian"
+    ],
+    [
+     "T",
+     "Alberto Aquilani",
+     "aquilani"
+    ],
+    [
+     "T",
+     "Fabio Borini",
+     "borini"
+    ],
+    [
+     "T",
+     "Graziano Pellè",
+     "pelle"
+    ],
+    [
+     "T",
+     "Federico Macheda",
+     "macheda"
+    ],
+    [
+     "T",
+     "Wilfried Gnonto",
+     "gnonto"
+    ],
+    [
+     "C",
+     "Benito Carbone"
+    ],
+    [
+     "C",
+     "Attilio Lombardo"
+    ],
+    [
+     "C",
+     "Marco Materazzi",
+     "materazzi"
+    ],
+    [
+     "C",
+     "Pierluigi Casiraghi",
+     "casiraghi"
+    ],
+    [
+     "C",
+     "Christian Panucci"
+    ],
+    [
+     "C",
+     "Andrea Dossena"
+    ],
+    [
+     "C",
+     "Angelo Ogbonna",
+     "ogbonna"
+    ],
+    [
+     "C",
+     "Simone Zaza",
+     "zaza"
+    ],
+    [
+     "C",
+     "Davide Santon"
+    ],
+    [
+     "C",
+     "Alessandro Diamanti"
+    ]
+   ],
+   "fuente": "Planteles de la Premier League",
+   "dia": 20
   }
  ]
 }
