@@ -18655,6 +18655,754 @@
    ],
    "fuente": "Planteles de la Premier League",
    "dia": 20
+  },
+  {
+   "id": "barcelona_real_madrid",
+   "q": "Jugadores que hayan jugado en el Barcelona y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Luís Figo",
+     "figo"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Samuel Eto'o",
+     "eto o",
+     "etoo"
+    ],
+    [
+     "H",
+     "Michael Laudrup",
+     "laudrup"
+    ],
+    [
+     "H",
+     "Luis Enrique"
+    ],
+    [
+     "T",
+     "Bernd Schuster",
+     "schuster"
+    ],
+    [
+     "T",
+     "Gheorghe Hagi",
+     "hagi"
+    ],
+    [
+     "T",
+     "Robert Prosinečki",
+     "prosinecki"
+    ],
+    [
+     "T",
+     "Javier Saviola",
+     "conejito saviola",
+     "saviola"
+    ],
+    [
+     "T",
+     "Julen Lopetegui",
+     "lopetegui"
+    ],
+    [
+     "T",
+     "Alfonso Pérez",
+     "alfonso"
+    ],
+    [
+     "C",
+     "Albert Celades",
+     "celades"
+    ],
+    [
+     "C",
+     "Dani García Lara",
+     "dani garcia"
+    ],
+    [
+     "C",
+     "Luis Milla"
+    ],
+    [
+     "C",
+     "Miquel Soler"
+    ],
+    [
+     "C",
+     "Nando Muñoz",
+     "nando"
+    ],
+    [
+     "C",
+     "Ricardo Zamora",
+     "el divino zamora"
+    ],
+    [
+     "C",
+     "Josep Samitier",
+     "samitier"
+    ],
+    [
+     "D",
+     "Evaristo de Macedo",
+     "evaristo"
+    ],
+    [
+     "D",
+     "Justo Tejada",
+     "tejada"
+    ],
+    [
+     "D",
+     "Lucien Muller",
+     "muller"
+    ],
+    [
+     "D",
+     "Jesús Pereda",
+     "pereda"
+    ]
+   ],
+   "fuente": "Planteles de Barcelona y Real Madrid (sin traspasos entre ambos en 2026)",
+   "dia": 21
+  },
+  {
+   "id": "campeones_liga_inglesa",
+   "q": "Clubes que hayan sido campeones de la liga inglesa (First Division o Premier League)",
+   "r": [
+    [
+     "H",
+     "Manchester United",
+     "united",
+     "man united"
+    ],
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "H",
+     "Arsenal"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "Manchester City",
+     "city",
+     "man city"
+    ],
+    [
+     "T",
+     "Everton"
+    ],
+    [
+     "T",
+     "Aston Villa"
+    ],
+    [
+     "T",
+     "Leicester City",
+     "leicester"
+    ],
+    [
+     "T",
+     "Tottenham",
+     "tottenham hotspur",
+     "spurs"
+    ],
+    [
+     "T",
+     "Blackburn Rovers",
+     "blackburn"
+    ],
+    [
+     "T",
+     "Newcastle",
+     "newcastle united"
+    ],
+    [
+     "T",
+     "Leeds United",
+     "leeds"
+    ],
+    [
+     "T",
+     "Nottingham Forest",
+     "nottingham",
+     "forest"
+    ],
+    [
+     "C",
+     "Sunderland"
+    ],
+    [
+     "C",
+     "Wolverhampton",
+     "wolves"
+    ],
+    [
+     "C",
+     "Derby County",
+     "derby"
+    ],
+    [
+     "C",
+     "Ipswich Town",
+     "ipswich"
+    ],
+    [
+     "C",
+     "Burnley"
+    ],
+    [
+     "C",
+     "Sheffield Wednesday"
+    ],
+    [
+     "C",
+     "Sheffield United"
+    ],
+    [
+     "D",
+     "Portsmouth"
+    ],
+    [
+     "D",
+     "Huddersfield Town",
+     "huddersfield"
+    ],
+    [
+     "D",
+     "West Bromwich Albion",
+     "west brom"
+    ],
+    [
+     "D",
+     "Preston North End",
+     "preston"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Campeones de la máxima categoría inglesa 1888-89 a 2025-26 (Arsenal campeón 2026)",
+   "dia": 21
+  },
+  {
+   "id": "argentinos_napoli",
+   "q": "Argentinos que hayan jugado en el Napoli",
+   "r": [
+    [
+     "H",
+     "Diego Maradona",
+     "maradona",
+     "diego",
+     "pelusa"
+    ],
+    [
+     "H",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "H",
+     "Ezequiel Lavezzi",
+     "pocho lavezzi",
+     "lavezzi"
+    ],
+    [
+     "H",
+     "Giovanni Simeone",
+     "cholito simeone",
+     "cholito"
+    ],
+    [
+     "T",
+     "Roberto Ayala",
+     "raton ayala",
+     "ayala"
+    ],
+    [
+     "T",
+     "Germán Denis",
+     "tanque denis"
+    ],
+    [
+     "T",
+     "Hugo Campagnaro",
+     "campagnaro"
+    ],
+    [
+     "T",
+     "Federico Fernández"
+    ],
+    [
+     "T",
+     "Exequiel Zeballos",
+     "changuito zeballos",
+     "zeballos"
+    ],
+    [
+     "C",
+     "Roberto Sosa",
+     "pampa sosa"
+    ],
+    [
+     "C",
+     "Ramón Díaz",
+     "ramon diaz"
+    ],
+    [
+     "C",
+     "Daniel Bertoni",
+     "bertoni"
+    ],
+    [
+     "C",
+     "Ignacio Fideleff",
+     "fideleff"
+    ],
+    [
+     "C",
+     "José Luis Calderón",
+     "calderon"
+    ],
+    [
+     "C",
+     "Omar Sívori",
+     "sivori"
+    ],
+    [
+     "D",
+     "Bruno Pesaola",
+     "pesaola"
+    ]
+   ],
+   "fuente": "Planteles del Napoli + fichajes 2026 (Zeballos)",
+   "dia": 21
+  },
+  {
+   "id": "dt_real_madrid_siglo21",
+   "q": "Entrenadores que hayan dirigido al Real Madrid desde el año 2000",
+   "r": [
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Carlo Ancelotti",
+     "ancelotti"
+    ],
+    [
+     "H",
+     "José Mourinho",
+     "mourinho"
+    ],
+    [
+     "T",
+     "Xabi Alonso"
+    ],
+    [
+     "T",
+     "Álvaro Arbeloa",
+     "arbeloa"
+    ],
+    [
+     "T",
+     "Rafael Benítez",
+     "rafa benitez",
+     "benitez"
+    ],
+    [
+     "T",
+     "Fabio Capello",
+     "capello"
+    ],
+    [
+     "T",
+     "Vicente del Bosque",
+     "del bosque"
+    ],
+    [
+     "T",
+     "Manuel Pellegrini",
+     "pellegrini"
+    ],
+    [
+     "T",
+     "Julen Lopetegui",
+     "lopetegui"
+    ],
+    [
+     "T",
+     "Santiago Solari",
+     "indiecito solari",
+     "solari"
+    ],
+    [
+     "C",
+     "Carlos Queiroz",
+     "queiroz"
+    ],
+    [
+     "C",
+     "Bernd Schuster",
+     "schuster"
+    ],
+    [
+     "C",
+     "Juande Ramos"
+    ],
+    [
+     "C",
+     "José Antonio Camacho",
+     "camacho"
+    ],
+    [
+     "D",
+     "Vanderlei Luxemburgo",
+     "luxemburgo"
+    ],
+    [
+     "D",
+     "Juan Ramón López Caro",
+     "lopez caro"
+    ],
+    [
+     "D",
+     "Mariano García Remón",
+     "garcia remon"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos del Real Madrid 2000-2026 · Arbeloa (ene 2026) y Mourinho (2026-27): https://www.metro.pr/deportes/2026/01/13/nuevo-entrenador-del-real-madrid-alvaro-arbeloa-soy-consciente-de-la-responsabilidad-que-tengo/",
+   "dia": 21
+  },
+  {
+   "id": "brasilenos_psg",
+   "q": "Brasileños que hayan jugado en el PSG",
+   "r": [
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Thiago Silva"
+    ],
+    [
+     "H",
+     "Marquinhos"
+    ],
+    [
+     "H",
+     "Lucas Moura"
+    ],
+    [
+     "T",
+     "Dani Alves",
+     "daniel alves"
+    ],
+    [
+     "T",
+     "David Luiz"
+    ],
+    [
+     "T",
+     "Maxwell"
+    ],
+    [
+     "T",
+     "Leonardo"
+    ],
+    [
+     "T",
+     "Raí",
+     "rai"
+    ],
+    [
+     "T",
+     "Nenê",
+     "nene"
+    ],
+    [
+     "T",
+     "Rafinha Alcântara",
+     "rafinha"
+    ],
+    [
+     "T",
+     "Lucas Beraldo",
+     "beraldo"
+    ],
+    [
+     "C",
+     "Ricardo Gomes"
+    ],
+    [
+     "C",
+     "Valdo"
+    ],
+    [
+     "C",
+     "Alex",
+     "alex costa"
+    ],
+    [
+     "C",
+     "Ceará",
+     "ceara"
+    ],
+    [
+     "C",
+     "Aloísio",
+     "aloisio"
+    ],
+    [
+     "C",
+     "Vampeta"
+    ],
+    [
+     "C",
+     "Thiago Motta"
+    ]
+   ],
+   "fuente": "Planteles del PSG",
+   "dia": 21
+  },
+  {
+   "id": "campeones_champions_clubes",
+   "q": "Clubes que hayan ganado la Champions League (o Copa de Europa)",
+   "r": [
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "H",
+     "Bayern Múnich",
+     "bayern munich",
+     "bayern"
+    ],
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "H",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "united"
+    ],
+    [
+     "T",
+     "Inter",
+     "inter de milan"
+    ],
+    [
+     "T",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "T",
+     "Chelsea"
+    ],
+    [
+     "T",
+     "Manchester City",
+     "city"
+    ],
+    [
+     "T",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "T",
+     "Ajax"
+    ],
+    [
+     "T",
+     "Porto",
+     "fc porto"
+    ],
+    [
+     "T",
+     "Borussia Dortmund",
+     "dortmund"
+    ],
+    [
+     "T",
+     "Benfica"
+    ],
+    [
+     "C",
+     "Nottingham Forest",
+     "nottingham",
+     "forest"
+    ],
+    [
+     "C",
+     "Aston Villa"
+    ],
+    [
+     "C",
+     "Celtic"
+    ],
+    [
+     "C",
+     "Marsella",
+     "marseille",
+     "olympique de marsella"
+    ],
+    [
+     "C",
+     "PSV",
+     "psv eindhoven"
+    ],
+    [
+     "C",
+     "Feyenoord"
+    ],
+    [
+     "D",
+     "Hamburgo",
+     "hamburgo sv",
+     "hamburger sv",
+     "hamburg"
+    ],
+    [
+     "D",
+     "Steaua de Bucarest",
+     "steaua",
+     "fcsb"
+    ],
+    [
+     "D",
+     "Estrella Roja",
+     "estrella roja de belgrado",
+     "red star"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés de la Copa de Europa / Champions 1956-2026 (PSG bicampeón 2026): https://es.euronews.com/2026/05/31/el-paris-saint-germain-gana-la-champions-league-en-los-penaltis-ante-el-arsenal",
+   "dia": 21
+  },
+  {
+   "id": "finalistas_eurocopa",
+   "q": "Selecciones que hayan jugado una final de la Eurocopa",
+   "r": [
+    [
+     "H",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "H",
+     "Alemania",
+     "alemania federal",
+     "alemania occidental",
+     "germany"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Portugal"
+    ],
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "Grecia"
+    ],
+    [
+     "T",
+     "Dinamarca"
+    ],
+    [
+     "T",
+     "Bélgica",
+     "belgica"
+    ],
+    [
+     "C",
+     "Unión Soviética",
+     "union sovietica",
+     "urss"
+    ],
+    [
+     "C",
+     "República Checa",
+     "republica checa",
+     "chequia"
+    ],
+    [
+     "D",
+     "Checoslovaquia"
+    ],
+    [
+     "D",
+     "Yugoslavia"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Finales de la Eurocopa 1960-2024",
+   "dia": 21
   }
  ]
 }
