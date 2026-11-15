@@ -19403,6 +19403,1020 @@
    "tipo": "selección",
    "fuente": "Finales de la Eurocopa 1960-2024",
    "dia": 21
+  },
+  {
+   "id": "selecciones_mundial_2026",
+   "q": "Selecciones que hayan jugado el Mundial 2026",
+   "r": [
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Alemania",
+     "germany"
+    ],
+    [
+     "H",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "H",
+     "Portugal"
+    ],
+    [
+     "H",
+     "México",
+     "mexico"
+    ],
+    [
+     "H",
+     "Estados Unidos",
+     "eeuu",
+     "usa"
+    ],
+    [
+     "H",
+     "Uruguay"
+    ],
+    [
+     "T",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "T",
+     "Bélgica",
+     "belgica"
+    ],
+    [
+     "T",
+     "Croacia"
+    ],
+    [
+     "T",
+     "Colombia"
+    ],
+    [
+     "T",
+     "Marruecos"
+    ],
+    [
+     "T",
+     "Japón",
+     "japon"
+    ],
+    [
+     "T",
+     "Ecuador"
+    ],
+    [
+     "T",
+     "Paraguay"
+    ],
+    [
+     "T",
+     "Suiza"
+    ],
+    [
+     "T",
+     "Canadá",
+     "canada"
+    ],
+    [
+     "T",
+     "Senegal"
+    ],
+    [
+     "T",
+     "Corea del Sur",
+     "corea"
+    ],
+    [
+     "T",
+     "Australia"
+    ],
+    [
+     "T",
+     "Arabia Saudita",
+     "arabia saudi",
+     "arabia"
+    ],
+    [
+     "T",
+     "Irán",
+     "iran"
+    ],
+    [
+     "T",
+     "Austria"
+    ],
+    [
+     "T",
+     "Escocia"
+    ],
+    [
+     "T",
+     "Noruega"
+    ],
+    [
+     "T",
+     "Suecia"
+    ],
+    [
+     "T",
+     "Turquía",
+     "turquia"
+    ],
+    [
+     "T",
+     "Egipto"
+    ],
+    [
+     "T",
+     "Ghana"
+    ],
+    [
+     "T",
+     "Catar",
+     "qatar"
+    ],
+    [
+     "T",
+     "Panamá",
+     "panama"
+    ],
+    [
+     "C",
+     "Túnez",
+     "tunez"
+    ],
+    [
+     "C",
+     "Argelia"
+    ],
+    [
+     "C",
+     "Costa de Marfil"
+    ],
+    [
+     "C",
+     "República Checa",
+     "republica checa",
+     "chequia"
+    ],
+    [
+     "C",
+     "Sudáfrica",
+     "sudafrica"
+    ],
+    [
+     "C",
+     "Nueva Zelanda"
+    ],
+    [
+     "C",
+     "Irak",
+     "iraq"
+    ],
+    [
+     "C",
+     "Bosnia y Herzegovina",
+     "bosnia"
+    ],
+    [
+     "D",
+     "Haití",
+     "haiti"
+    ],
+    [
+     "D",
+     "Uzbekistán",
+     "uzbekistan"
+    ],
+    [
+     "D",
+     "Jordania"
+    ],
+    [
+     "D",
+     "Cabo Verde"
+    ],
+    [
+     "D",
+     "Curazao",
+     "curacao"
+    ],
+    [
+     "D",
+     "República Democrática del Congo",
+     "rd congo",
+     "congo"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Los 48 clasificados (grupos A-L): https://www.vanguardia.com/deportes/futbol/2026/04/01/mundial-2026-asi-quedaron-los-12-grupos-tras-el-repechaje-y-las-48-selecciones-clasificadas-que-van-por-la-gloria/",
+   "dia": 22
+  },
+  {
+   "id": "arqueros_barcelona",
+   "q": "Arqueros que hayan jugado en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Víctor Valdés",
+     "victor valdes",
+     "valdes"
+    ],
+    [
+     "H",
+     "Marc-André ter Stegen",
+     "ter stegen"
+    ],
+    [
+     "H",
+     "Andoni Zubizarreta",
+     "zubizarreta",
+     "zubi"
+    ],
+    [
+     "H",
+     "Claudio Bravo",
+     "bravo"
+    ],
+    [
+     "T",
+     "Wojciech Szczęsny",
+     "szczesny"
+    ],
+    [
+     "T",
+     "Joan García"
+    ],
+    [
+     "T",
+     "José Manuel Pinto",
+     "pinto"
+    ],
+    [
+     "T",
+     "Jasper Cillessen",
+     "cillessen"
+    ],
+    [
+     "T",
+     "Neto"
+    ],
+    [
+     "T",
+     "Iñaki Peña",
+     "inaki pena"
+    ],
+    [
+     "T",
+     "Rüştü Reçber",
+     "rustu"
+    ],
+    [
+     "T",
+     "Pepe Reina",
+     "reina"
+    ],
+    [
+     "T",
+     "Vítor Baía",
+     "vitor baia"
+    ],
+    [
+     "T",
+     "Ruud Hesp",
+     "hesp"
+    ],
+    [
+     "T",
+     "Julen Lopetegui",
+     "lopetegui"
+    ],
+    [
+     "T",
+     "Roberto Bonano",
+     "bonano"
+    ],
+    [
+     "T",
+     "Dominik Livaković",
+     "livakovic"
+    ],
+    [
+     "C",
+     "Carles Busquets"
+    ],
+    [
+     "C",
+     "Juan Carlos Unzué",
+     "unzue"
+    ],
+    [
+     "C",
+     "Javier Urruticoechea",
+     "urruti"
+    ],
+    [
+     "C",
+     "Richard Dutruel",
+     "dutruel"
+    ],
+    [
+     "C",
+     "Francesc Arnau",
+     "arnau"
+    ],
+    [
+     "C",
+     "Albert Jorquera",
+     "jorquera"
+    ],
+    [
+     "C",
+     "Oier Olazábal",
+     "oier"
+    ],
+    [
+     "C",
+     "Jordi Masip",
+     "masip"
+    ],
+    [
+     "C",
+     "Antoni Ramallets",
+     "ramallets"
+    ],
+    [
+     "C",
+     "Salvador Sadurní",
+     "sadurni"
+    ],
+    [
+     "D",
+     "Jesús Angoy",
+     "angoy"
+    ],
+    [
+     "D",
+     "Pedro María Artola",
+     "artola"
+    ],
+    [
+     "D",
+     "Miguel Reina"
+    ],
+    [
+     "D",
+     "Ander Astralaga",
+     "astralaga"
+    ],
+    [
+     "G",
+     "Ricardo Zamora",
+     "el divino zamora"
+    ]
+   ],
+   "fuente": "Planteles del Barcelona (incluye Joan García y Livaković 2026)",
+   "dia": 22
+  },
+  {
+   "id": "libertadores_arg_bra",
+   "q": "Clubes argentinos o brasileños que hayan ganado la Copa Libertadores",
+   "r": [
+    [
+     "H",
+     "Boca Juniors",
+     "boca"
+    ],
+    [
+     "H",
+     "River Plate",
+     "river"
+    ],
+    [
+     "H",
+     "Independiente"
+    ],
+    [
+     "H",
+     "Flamengo"
+    ],
+    [
+     "H",
+     "Palmeiras"
+    ],
+    [
+     "H",
+     "São Paulo",
+     "sao paulo"
+    ],
+    [
+     "T",
+     "Estudiantes",
+     "estudiantes de la plata"
+    ],
+    [
+     "T",
+     "Vélez Sarsfield",
+     "velez"
+    ],
+    [
+     "T",
+     "Racing Club",
+     "racing"
+    ],
+    [
+     "T",
+     "San Lorenzo"
+    ],
+    [
+     "T",
+     "Santos"
+    ],
+    [
+     "T",
+     "Grêmio",
+     "gremio"
+    ],
+    [
+     "T",
+     "Internacional",
+     "inter de porto alegre"
+    ],
+    [
+     "T",
+     "Corinthians"
+    ],
+    [
+     "T",
+     "Atlético Mineiro",
+     "atletico mineiro"
+    ],
+    [
+     "T",
+     "Fluminense"
+    ],
+    [
+     "T",
+     "Botafogo"
+    ],
+    [
+     "T",
+     "Cruzeiro"
+    ],
+    [
+     "C",
+     "Argentinos Juniors",
+     "argentinos"
+    ],
+    [
+     "C",
+     "Vasco da Gama",
+     "vasco"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Campeones de la Libertadores 1960-2025 (la final 2026 aún no se juega)",
+   "dia": 22
+  },
+  {
+   "id": "roma_inter",
+   "q": "Jugadores que hayan jugado en la Roma y en el Inter",
+   "r": [
+    [
+     "H",
+     "Gabriel Batistuta",
+     "batigol",
+     "batistuta"
+    ],
+    [
+     "H",
+     "Edin Džeko",
+     "dzeko"
+    ],
+    [
+     "H",
+     "Romelu Lukaku",
+     "lukaku"
+    ],
+    [
+     "H",
+     "Walter Samuel",
+     "the wall"
+    ],
+    [
+     "H",
+     "Antonio Cassano",
+     "cassano"
+    ],
+    [
+     "T",
+     "Henrikh Mkhitaryan",
+     "mkhitaryan"
+    ],
+    [
+     "T",
+     "Cristian Chivu",
+     "chivu"
+    ],
+    [
+     "T",
+     "Nicolás Burdisso",
+     "burdisso"
+    ],
+    [
+     "T",
+     "Radja Nainggolan",
+     "nainggolan"
+    ],
+    [
+     "T",
+     "David Pizarro",
+     "pek pizarro",
+     "pizarro"
+    ],
+    [
+     "T",
+     "Aleksandar Kolarov",
+     "kolarov"
+    ],
+    [
+     "T",
+     "Juan Jesus"
+    ],
+    [
+     "T",
+     "Amantino Mancini",
+     "mancini"
+    ],
+    [
+     "T",
+     "Christian Panucci",
+     "panucci"
+    ],
+    [
+     "C",
+     "Marco Delvecchio",
+     "delvecchio"
+    ],
+    [
+     "C",
+     "Dodô",
+     "dodo"
+    ]
+   ],
+   "fuente": "Planteles de Roma e Inter",
+   "dia": 22
+  },
+  {
+   "id": "portugueses_premier",
+   "q": "Portugueses que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Bruno Fernandes"
+    ],
+    [
+     "H",
+     "Bernardo Silva"
+    ],
+    [
+     "H",
+     "Rúben Dias",
+     "ruben dias"
+    ],
+    [
+     "H",
+     "Diogo Jota"
+    ],
+    [
+     "H",
+     "João Cancelo",
+     "cancelo"
+    ],
+    [
+     "H",
+     "Nani"
+    ],
+    [
+     "T",
+     "Rúben Neves",
+     "ruben neves"
+    ],
+    [
+     "T",
+     "João Moutinho",
+     "moutinho"
+    ],
+    [
+     "T",
+     "Pedro Neto"
+    ],
+    [
+     "T",
+     "Diogo Dalot",
+     "dalot"
+    ],
+    [
+     "T",
+     "Ricardo Carvalho"
+    ],
+    [
+     "T",
+     "Paulo Ferreira"
+    ],
+    [
+     "T",
+     "Deco"
+    ],
+    [
+     "T",
+     "José Bosingwa",
+     "bosingwa"
+    ],
+    [
+     "T",
+     "Nélson Semedo",
+     "semedo"
+    ],
+    [
+     "T",
+     "Rui Patrício",
+     "rui patricio"
+    ],
+    [
+     "T",
+     "José Sá",
+     "jose sa"
+    ],
+    [
+     "T",
+     "Matheus Nunes"
+    ],
+    [
+     "T",
+     "Fábio Vieira",
+     "fabio vieira"
+    ],
+    [
+     "T",
+     "João Palhinha",
+     "palhinha"
+    ],
+    [
+     "T",
+     "João Félix",
+     "joao felix"
+    ],
+    [
+     "T",
+     "Raul Meireles",
+     "meireles"
+    ],
+    [
+     "T",
+     "Ricardo Quaresma",
+     "quaresma"
+    ],
+    [
+     "T",
+     "Daniel Podence",
+     "podence"
+    ],
+    [
+     "T",
+     "Gonçalo Guedes",
+     "guedes"
+    ],
+    [
+     "C",
+     "Tiago Mendes",
+     "tiago"
+    ],
+    [
+     "C",
+     "Luís Boa Morte",
+     "boa morte"
+    ],
+    [
+     "C",
+     "Abel Xavier"
+    ],
+    [
+     "C",
+     "Hugo Viana"
+    ],
+    [
+     "C",
+     "Hélder Postiga",
+     "postiga"
+    ],
+    [
+     "C",
+     "Manuel Fernandes"
+    ],
+    [
+     "C",
+     "Ricardo Pereira"
+    ],
+    [
+     "C",
+     "Nuno Tavares"
+    ],
+    [
+     "C",
+     "Vitinha"
+    ],
+    [
+     "C",
+     "Fábio Carvalho",
+     "fabio carvalho"
+    ],
+    [
+     "C",
+     "Fábio Silva",
+     "fabio silva"
+    ],
+    [
+     "C",
+     "Ivan Cavaleiro",
+     "cavaleiro"
+    ],
+    [
+     "C",
+     "Hélder Costa",
+     "helder costa"
+    ],
+    [
+     "C",
+     "Toti Gomes",
+     "toti"
+    ],
+    [
+     "C",
+     "Rúben Vinagre",
+     "vinagre"
+    ],
+    [
+     "C",
+     "Pedro Mendes"
+    ],
+    [
+     "D",
+     "Jorge Costa"
+    ],
+    [
+     "D",
+     "Rodrigo Gomes"
+    ],
+    [
+     "D",
+     "Bruno Jordão",
+     "jordao"
+    ]
+   ],
+   "fuente": "Planteles de la Premier League 1992-2026",
+   "dia": 22
+  },
+  {
+   "id": "campeones_mundial_clubes",
+   "q": "Clubes que hayan ganado el Mundial de Clubes de la FIFA (2000-2025)",
+   "r": [
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "Manchester City",
+     "city"
+    ],
+    [
+     "H",
+     "Bayern Múnich",
+     "bayern munich",
+     "bayern"
+    ],
+    [
+     "T",
+     "Corinthians"
+    ],
+    [
+     "T",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "T",
+     "Manchester United",
+     "united"
+    ],
+    [
+     "T",
+     "Liverpool"
+    ],
+    [
+     "T",
+     "Inter",
+     "inter de milan"
+    ],
+    [
+     "C",
+     "São Paulo",
+     "sao paulo"
+    ],
+    [
+     "C",
+     "Internacional",
+     "inter de porto alegre"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Mundial de Clubes FIFA 2000-2023 y 2025 (Chelsea campeón 2025)",
+   "dia": 22
+  },
+  {
+   "id": "mexicanos_laliga",
+   "q": "Mexicanos que hayan jugado en la Liga española",
+   "r": [
+    [
+     "H",
+     "Hugo Sánchez",
+     "hugol"
+    ],
+    [
+     "H",
+     "Rafael Márquez",
+     "rafa marquez"
+    ],
+    [
+     "H",
+     "Javier Hernández",
+     "chicharito"
+    ],
+    [
+     "H",
+     "Andrés Guardado",
+     "guardado"
+    ],
+    [
+     "H",
+     "Carlos Vela"
+    ],
+    [
+     "H",
+     "Guillermo Ochoa",
+     "memo ochoa",
+     "ochoa"
+    ],
+    [
+     "H",
+     "Raúl Jiménez",
+     "raul jimenez"
+    ],
+    [
+     "T",
+     "Héctor Herrera",
+     "hector herrera"
+    ],
+    [
+     "T",
+     "Giovani dos Santos",
+     "gio dos santos"
+    ],
+    [
+     "T",
+     "Jonathan dos Santos"
+    ],
+    [
+     "T",
+     "Héctor Moreno",
+     "hector moreno"
+    ],
+    [
+     "T",
+     "Diego Reyes"
+    ],
+    [
+     "T",
+     "Miguel Layún",
+     "layun"
+    ],
+    [
+     "T",
+     "Jesús Corona",
+     "tecatito corona",
+     "tecatito"
+    ],
+    [
+     "T",
+     "Diego Lainez",
+     "lainez"
+    ],
+    [
+     "T",
+     "Néstor Araujo",
+     "nestor araujo"
+    ],
+    [
+     "T",
+     "Javier Aquino",
+     "aquino"
+    ],
+    [
+     "T",
+     "César Montes",
+     "cesar montes"
+    ],
+    [
+     "T",
+     "Cuauhtémoc Blanco",
+     "cuauhtemoc"
+    ],
+    [
+     "C",
+     "Julián Araujo",
+     "julian araujo"
+    ],
+    [
+     "C",
+     "Luis García Postigo",
+     "luis garcia"
+    ],
+    [
+     "C",
+     "Gerardo Torrado",
+     "torrado"
+    ],
+    [
+     "C",
+     "Efraín Juárez",
+     "efrain juarez"
+    ],
+    [
+     "C",
+     "Francisco Palencia",
+     "palencia"
+    ],
+    [
+     "C",
+     "José Juan Macías",
+     "jj macias",
+     "macias"
+    ],
+    [
+     "C",
+     "Manuel Negrete",
+     "negrete"
+    ]
+   ],
+   "fuente": "Planteles de LaLiga (primera división)",
+   "dia": 22
   }
  ]
 }
