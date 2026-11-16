@@ -20417,6 +20417,759 @@
    ],
    "fuente": "Planteles de LaLiga (primera división)",
    "dia": 22
+  },
+  {
+   "id": "goles_finales_champions",
+   "q": "Jugadores que hayan marcado un gol en una final de Champions desde el año 2000 (sin contar tandas de penales)",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Sergio Ramos"
+    ],
+    [
+     "H",
+     "Gareth Bale",
+     "bale"
+    ],
+    [
+     "H",
+     "Vinícius Júnior",
+     "vinicius",
+     "vini jr",
+     "vinicius jr"
+    ],
+    [
+     "H",
+     "Steven Gerrard",
+     "gerrard"
+    ],
+    [
+     "H",
+     "Didier Drogba",
+     "drogba"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Raúl González",
+     "raul"
+    ],
+    [
+     "H",
+     "Karim Benzema"
+    ],
+    [
+     "H",
+     "Luis Suárez",
+     "lucho suarez"
+    ],
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "T",
+     "Samuel Eto'o",
+     "eto o",
+     "etoo"
+    ],
+    [
+     "T",
+     "Diego Milito",
+     "principe milito"
+    ],
+    [
+     "T",
+     "Filippo Inzaghi",
+     "pippo inzaghi"
+    ],
+    [
+     "T",
+     "Kai Havertz"
+    ],
+    [
+     "T",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Arjen Robben"
+    ],
+    [
+     "T",
+     "Thomas Müller"
+    ],
+    [
+     "T",
+     "Frank Lampard"
+    ],
+    [
+     "T",
+     "Wayne Rooney"
+    ],
+    [
+     "T",
+     "David Villa",
+     "el guaje"
+    ],
+    [
+     "T",
+     "Pedro Rodríguez",
+     "pedrito"
+    ],
+    [
+     "T",
+     "Xabi Alonso"
+    ],
+    [
+     "T",
+     "Paolo Maldini"
+    ],
+    [
+     "T",
+     "Hernán Crespo",
+     "valdanito crespo"
+    ],
+    [
+     "T",
+     "Marcelo"
+    ],
+    [
+     "T",
+     "Casemiro"
+    ],
+    [
+     "T",
+     "Mario Mandžukić",
+     "mandzukic"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé"
+    ],
+    [
+     "T",
+     "Kingsley Coman",
+     "coman"
+    ],
+    [
+     "T",
+     "Dani Carvajal"
+    ],
+    [
+     "T",
+     "Álvaro Morata"
+    ],
+    [
+     "T",
+     "Ivan Rakitić",
+     "rakitic"
+    ],
+    [
+     "T",
+     "Sadio Mané",
+     "mane"
+    ],
+    [
+     "T",
+     "Divock Origi",
+     "origi"
+    ],
+    [
+     "T",
+     "Achraf Hakimi",
+     "hakimi"
+    ],
+    [
+     "T",
+     "Désiré Doué",
+     "doue"
+    ],
+    [
+     "T",
+     "Khvicha Kvaratskhelia",
+     "kvaratskhelia",
+     "kvara"
+    ],
+    [
+     "T",
+     "Fernando Morientes",
+     "morientes"
+    ],
+    [
+     "T",
+     "Diego Godín",
+     "godin"
+    ],
+    [
+     "T",
+     "Deco"
+    ],
+    [
+     "T",
+     "Marco Asensio",
+     "asensio"
+    ],
+    [
+     "C",
+     "Steve McManaman",
+     "mcmanaman"
+    ],
+    [
+     "C",
+     "Gaizka Mendieta",
+     "mendieta"
+    ],
+    [
+     "C",
+     "Stefan Effenberg",
+     "effenberg"
+    ],
+    [
+     "C",
+     "Lúcio",
+     "lucio"
+    ],
+    [
+     "C",
+     "Vladimír Šmicer",
+     "smicer"
+    ],
+    [
+     "C",
+     "Dirk Kuyt",
+     "kuyt"
+    ],
+    [
+     "C",
+     "Sol Campbell"
+    ],
+    [
+     "C",
+     "Juliano Belletti",
+     "belletti"
+    ],
+    [
+     "C",
+     "İlkay Gündoğan",
+     "gundogan"
+    ],
+    [
+     "C",
+     "Yannick Carrasco",
+     "carrasco"
+    ],
+    [
+     "C",
+     "Senny Mayulu",
+     "mayulu"
+    ],
+    [
+     "D",
+     "Carlos Alberto"
+    ],
+    [
+     "D",
+     "Dmitri Alenichev",
+     "alenichev"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Goleadores de las finales 2000-2026 · final 2026 PSG 1-1 Arsenal (Havertz, Dembélé): https://espndeportes.espn.com/futbol/champions-league/nota/_/id/16765643/psg-vencio-en-penales-a-arsenal-y-se-corono-bicampeon-de-la-champions",
+   "dia": 23
+  },
+  {
+   "id": "clubes_anelka",
+   "q": "Clubes en los que jugó Nicolas Anelka",
+   "r": [
+    [
+     "H",
+     "Arsenal"
+    ],
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "T",
+     "Liverpool"
+    ],
+    [
+     "T",
+     "Manchester City",
+     "city"
+    ],
+    [
+     "T",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "T",
+     "Fenerbahçe",
+     "fenerbahce"
+    ],
+    [
+     "T",
+     "Bolton",
+     "bolton wanderers"
+    ],
+    [
+     "C",
+     "West Bromwich Albion",
+     "west brom"
+    ],
+    [
+     "C",
+     "Shanghai Shenhua",
+     "shanghai"
+    ],
+    [
+     "D",
+     "Mumbai City",
+     "mumbai"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Trayectoria de Nicolas Anelka (1995-2016)",
+   "dia": 23
+  },
+  {
+   "id": "balon_oro_serie_a",
+   "q": "Ganadores del Balón de Oro que lo ganaron jugando en un club italiano",
+   "r": [
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Michel Platini",
+     "platini"
+    ],
+    [
+     "H",
+     "Marco van Basten",
+     "van basten"
+    ],
+    [
+     "H",
+     "Roberto Baggio"
+    ],
+    [
+     "T",
+     "Andriy Shevchenko",
+     "shevchenko",
+     "sheva"
+    ],
+    [
+     "T",
+     "George Weah",
+     "weah"
+    ],
+    [
+     "T",
+     "Ruud Gullit",
+     "gullit"
+    ],
+    [
+     "T",
+     "Pavel Nedvěd",
+     "nedved"
+    ],
+    [
+     "T",
+     "Lothar Matthäus",
+     "matthaus"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "C",
+     "Gianni Rivera",
+     "rivera"
+    ],
+    [
+     "C",
+     "Omar Sívori",
+     "sivori"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Balón de Oro 1956-2025: ganadores cuyo club era de la Serie A",
+   "dia": 23
+  },
+  {
+   "id": "espana_campeona_2026",
+   "q": "Jugadores de España campeones del mundo en el Mundial 2026",
+   "r": [
+    [
+     "H",
+     "Lamine Yamal",
+     "lamine",
+     "yamal"
+    ],
+    [
+     "H",
+     "Pedri"
+    ],
+    [
+     "H",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "H",
+     "Nico Williams"
+    ],
+    [
+     "H",
+     "Ferran Torres"
+    ],
+    [
+     "H",
+     "Dani Olmo",
+     "olmo"
+    ],
+    [
+     "H",
+     "Gavi"
+    ],
+    [
+     "T",
+     "Unai Simón",
+     "unai simon"
+    ],
+    [
+     "T",
+     "Pau Cubarsí",
+     "cubarsi"
+    ],
+    [
+     "T",
+     "Marc Cucurella",
+     "cucurella"
+    ],
+    [
+     "T",
+     "Mikel Oyarzabal",
+     "oyarzabal"
+    ],
+    [
+     "T",
+     "Martín Zubimendi",
+     "zubimendi"
+    ],
+    [
+     "T",
+     "Fabián Ruiz",
+     "fabian ruiz",
+     "fabian"
+    ],
+    [
+     "T",
+     "Mikel Merino",
+     "merino"
+    ],
+    [
+     "T",
+     "Pedro Porro",
+     "porro"
+    ],
+    [
+     "T",
+     "Aymeric Laporte",
+     "laporte"
+    ],
+    [
+     "T",
+     "David Raya",
+     "raya"
+    ],
+    [
+     "T",
+     "Joan García"
+    ],
+    [
+     "T",
+     "Marcos Llorente",
+     "llorente"
+    ],
+    [
+     "T",
+     "Álex Baena",
+     "alex baena",
+     "baena"
+    ],
+    [
+     "C",
+     "Eric García"
+    ],
+    [
+     "C",
+     "Alejandro Grimaldo",
+     "grimaldo"
+    ],
+    [
+     "C",
+     "Marc Pubill",
+     "pubill"
+    ],
+    [
+     "C",
+     "Borja Iglesias",
+     "panda"
+    ],
+    [
+     "C",
+     "Yeremy Pino",
+     "yeremi pino"
+    ],
+    [
+     "C",
+     "Víctor Muñoz",
+     "victor munoz"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Lista de 26 de la RFEF: https://rfef.es/es/noticias/los-26-que-buscaran-volver-reinar-en-el-mundial · final 1-0 a Argentina",
+   "dia": 23
+  },
+  {
+   "id": "mundial_champions_balon_oro",
+   "q": "Jugadores que hayan ganado el Mundial, la Champions (o Copa de Europa) y el Balón de Oro",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Ronaldinho"
+    ],
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé",
+     "dembele"
+    ],
+    [
+     "T",
+     "Rodri",
+     "rodrigo hernandez"
+    ],
+    [
+     "T",
+     "Rivaldo"
+    ],
+    [
+     "T",
+     "Franz Beckenbauer",
+     "beckenbauer",
+     "kaiser"
+    ],
+    [
+     "C",
+     "Gerd Müller",
+     "gerd muller"
+    ],
+    [
+     "C",
+     "Paolo Rossi"
+    ],
+    [
+     "C",
+     "Bobby Charlton",
+     "charlton"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Cruce de campeones del mundo, campeones de Europa y Balón de Oro hasta 2026 (Rodri campeón del mundo 2026; Kane Balón de Oro 2026 sin Mundial ni Champions)",
+   "dia": 23
+  },
+  {
+   "id": "argentina2022_premier",
+   "q": "Campeones del mundo con Argentina en 2022 que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Emiliano Martínez",
+     "dibu martinez",
+     "dibu",
+     "emi martinez"
+    ],
+    [
+     "H",
+     "Alexis Mac Allister",
+     "mac allister"
+    ],
+    [
+     "H",
+     "Enzo Fernández",
+     "enzo"
+    ],
+    [
+     "H",
+     "Julián Álvarez",
+     "julian alvarez",
+     "araña"
+    ],
+    [
+     "H",
+     "Cristian Romero",
+     "cuti romero",
+     "cuti"
+    ],
+    [
+     "H",
+     "Lisandro Martínez",
+     "licha martinez",
+     "lisandro"
+    ],
+    [
+     "T",
+     "Ángel Di María",
+     "fideo di maria",
+     "di maria"
+    ],
+    [
+     "T",
+     "Nicolás Otamendi",
+     "otamendi"
+    ],
+    [
+     "T",
+     "Giovani Lo Celso",
+     "lo celso"
+    ],
+    [
+     "T",
+     "Juan Foyth",
+     "foyth"
+    ],
+    [
+     "C",
+     "Gonzalo Montiel",
+     "cachete montiel",
+     "montiel"
+    ],
+    [
+     "C",
+     "Guido Rodríguez",
+     "guido rodriguez"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Plantel de 26 de Argentina en Catar 2022 cruzado con planteles de la Premier (hasta 2026)",
+   "dia": 23
+  },
+  {
+   "id": "tres_grandes_italia",
+   "q": "Jugadores que hayan jugado en la Juventus, en el Inter y en el Milan (los tres)",
+   "r": [
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Andrea Pirlo"
+    ],
+    [
+     "H",
+     "Roberto Baggio"
+    ],
+    [
+     "H",
+     "Christian Vieri",
+     "bobo vieri",
+     "vieri"
+    ],
+    [
+     "T",
+     "Edgar Davids",
+     "davids"
+    ],
+    [
+     "T",
+     "Leonardo Bonucci",
+     "bonucci"
+    ],
+    [
+     "T",
+     "Patrick Vieira",
+     "vieira"
+    ],
+    [
+     "T",
+     "Aldo Serena",
+     "serena"
+    ],
+    [
+     "C",
+     "Giuseppe Meazza",
+     "meazza"
+    ]
+   ],
+   "fuente": "Planteles de Juventus, Inter y Milan",
+   "dia": 23
   }
  ]
 }
