@@ -3709,6 +3709,10 @@
      "C",
      "Juan Pablo Sorín",
      "sorin"
+    ],
+    [
+     "C",
+     "Ferran Torres"
     ]
    ],
    "fuente": "Planteles de PSG y FC Barcelona (el Barça cuenta 15 jugadores en ambos clubes)",
@@ -17114,6 +17118,10 @@
      "C",
      "Juan Pablo Sorín",
      "sorin"
+    ],
+    [
+     "C",
+     "Ferran Torres"
     ]
    ],
    "fuente": "Planteles de PSG y FC Barcelona (el Barça cuenta 15 jugadores en ambos clubes)",
@@ -21170,6 +21178,973 @@
    ],
    "fuente": "Planteles de Juventus, Inter y Milan",
    "dia": 23
+  },
+  {
+   "id": "goleadores_finales_mundial",
+   "q": "Jugadores que hayan marcado un gol en una final del Mundial (incluye el partido decisivo de 1950)",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Kylian Mbappé",
+     "mbappe"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Pelé",
+     "pele"
+    ],
+    [
+     "H",
+     "Ronaldo Nazário",
+     "ronaldo",
+     "r9",
+     "el fenomeno"
+    ],
+    [
+     "H",
+     "Andrés Iniesta",
+     "iniesta"
+    ],
+    [
+     "H",
+     "Mario Götze",
+     "gotze"
+    ],
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria",
+     "di maria"
+    ],
+    [
+     "H",
+     "Diego Maradona"
+    ],
+    [
+     "T",
+     "Mario Kempes",
+     "matador kempes",
+     "kempes"
+    ],
+    [
+     "T",
+     "Ferran Torres"
+    ],
+    [
+     "T",
+     "Geoff Hurst",
+     "hurst"
+    ],
+    [
+     "T",
+     "Paolo Rossi"
+    ],
+    [
+     "T",
+     "Marco Materazzi",
+     "materazzi"
+    ],
+    [
+     "T",
+     "Antoine Griezmann"
+    ],
+    [
+     "T",
+     "Paul Pogba",
+     "pogba"
+    ],
+    [
+     "T",
+     "Gerd Müller",
+     "gerd muller"
+    ],
+    [
+     "T",
+     "Ferenc Puskás",
+     "puskas"
+    ],
+    [
+     "T",
+     "Andreas Brehme",
+     "brehme"
+    ],
+    [
+     "T",
+     "Jorge Burruchaga",
+     "burruchaga"
+    ],
+    [
+     "T",
+     "Jorge Valdano",
+     "valdano"
+    ],
+    [
+     "T",
+     "Karl-Heinz Rummenigge",
+     "rummenigge"
+    ],
+    [
+     "T",
+     "Paul Breitner",
+     "breitner"
+    ],
+    [
+     "T",
+     "Johan Neeskens",
+     "neeskens"
+    ],
+    [
+     "T",
+     "Emmanuel Petit",
+     "manu petit"
+    ],
+    [
+     "T",
+     "Ivan Perišić",
+     "perisic"
+    ],
+    [
+     "T",
+     "Mario Mandžukić",
+     "mandzukic"
+    ],
+    [
+     "T",
+     "Jairzinho"
+    ],
+    [
+     "T",
+     "Carlos Alberto"
+    ],
+    [
+     "T",
+     "Vavá",
+     "vava"
+    ],
+    [
+     "T",
+     "Alcides Ghiggia",
+     "ghiggia"
+    ],
+    [
+     "T",
+     "Juan Alberto Schiaffino",
+     "schiaffino"
+    ],
+    [
+     "C",
+     "Rudi Völler",
+     "voller"
+    ],
+    [
+     "C",
+     "José Luis Brown",
+     "tata brown"
+    ],
+    [
+     "C",
+     "Marco Tardelli",
+     "tardelli"
+    ],
+    [
+     "C",
+     "Alessandro Altobelli",
+     "altobelli"
+    ],
+    [
+     "C",
+     "Daniel Bertoni",
+     "bertoni"
+    ],
+    [
+     "C",
+     "Dick Nanninga",
+     "nanninga"
+    ],
+    [
+     "C",
+     "Gérson",
+     "gerson"
+    ],
+    [
+     "C",
+     "Roberto Boninsegna",
+     "boninsegna"
+    ],
+    [
+     "C",
+     "Martin Peters"
+    ],
+    [
+     "C",
+     "Helmut Haller",
+     "haller"
+    ],
+    [
+     "C",
+     "Wolfgang Weber"
+    ],
+    [
+     "C",
+     "Amarildo"
+    ],
+    [
+     "C",
+     "Zito"
+    ],
+    [
+     "C",
+     "Josef Masopust",
+     "masopust"
+    ],
+    [
+     "C",
+     "Mário Zagallo",
+     "zagallo"
+    ],
+    [
+     "C",
+     "Nils Liedholm",
+     "liedholm"
+    ],
+    [
+     "C",
+     "Helmut Rahn",
+     "rahn"
+    ],
+    [
+     "C",
+     "Max Morlock",
+     "morlock"
+    ],
+    [
+     "C",
+     "Zoltán Czibor",
+     "czibor"
+    ],
+    [
+     "C",
+     "Silvio Piola",
+     "piola"
+    ],
+    [
+     "C",
+     "Guillermo Stábile",
+     "filtrador stabile",
+     "stabile"
+    ],
+    [
+     "D",
+     "Gino Colaussi",
+     "colaussi"
+    ],
+    [
+     "D",
+     "Raimundo Orsi",
+     "orsi"
+    ],
+    [
+     "D",
+     "Angelo Schiavio",
+     "schiavio"
+    ],
+    [
+     "D",
+     "Pedro Cea",
+     "cea"
+    ],
+    [
+     "D",
+     "Héctor Castro",
+     "manco castro"
+    ],
+    [
+     "D",
+     "Pablo Dorado",
+     "dorado"
+    ],
+    [
+     "D",
+     "Santos Iriarte",
+     "iriarte"
+    ],
+    [
+     "D",
+     "Carlos Peucelle",
+     "peucelle"
+    ],
+    [
+     "D",
+     "Friaça",
+     "friaca"
+    ],
+    [
+     "D",
+     "Agne Simonsson",
+     "simonsson"
+    ],
+    [
+     "D",
+     "Antonín Puč",
+     "puc"
+    ],
+    [
+     "G",
+     "Pál Titkos",
+     "titkos"
+    ],
+    [
+     "G",
+     "György Sárosi",
+     "sarosi"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Goleadores de las finales 1930-2026 (2026: España 1-0 Argentina, Ferran Torres): https://inside.fifa.com/es/organisation/news/espana-campeona-mundial-2026-nueva-york-nueva-jersey",
+   "dia": 24
+  },
+  {
+   "id": "apodos_animales",
+   "q": "Futbolistas conocidos por un apodo de animal (ej: la Pulga)",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "la pulga",
+     "pulga"
+    ],
+    [
+     "H",
+     "Julián Álvarez",
+     "la arana",
+     "arana"
+    ],
+    [
+     "H",
+     "Radamel Falcao",
+     "el tigre falcao",
+     "tigre falcao"
+    ],
+    [
+     "H",
+     "Gary Medel",
+     "pitbull",
+     "el pitbull"
+    ],
+    [
+     "H",
+     "Lautaro Martínez",
+     "el toro",
+     "toro"
+    ],
+    [
+     "T",
+     "Javier Saviola",
+     "conejo",
+     "el conejo"
+    ],
+    [
+     "T",
+     "Ariel Ortega",
+     "burrito",
+     "el burrito"
+    ],
+    [
+     "T",
+     "Claudio Caniggia",
+     "el pajaro",
+     "pajaro"
+    ],
+    [
+     "T",
+     "Alexandre Pato",
+     "pato"
+    ],
+    [
+     "T",
+     "Roberto Ayala",
+     "el raton",
+     "raton ayala"
+    ],
+    [
+     "T",
+     "Lev Yashin",
+     "arana negra",
+     "la arana negra"
+    ],
+    [
+     "T",
+     "Eusébio",
+     "pantera negra",
+     "la pantera negra"
+    ],
+    [
+     "T",
+     "Ricardo Gareca",
+     "el tigre gareca",
+     "tigre gareca"
+    ],
+    [
+     "C",
+     "Germán Burgos",
+     "mono burgos",
+     "el mono"
+    ],
+    [
+     "C",
+     "Roberto Rojas",
+     "condor rojas",
+     "el condor"
+    ],
+    [
+     "C",
+     "Ubaldo Fillol",
+     "pato fillol"
+    ],
+    [
+     "C",
+     "Roberto Abbondanzieri",
+     "pato abbondanzieri"
+    ],
+    [
+     "C",
+     "Juan Gilberto Funes",
+     "bufalo funes",
+     "el bufalo"
+    ]
+   ],
+   "fuente": "Apodos populares; la IA valida otros casos",
+   "dia": 24
+  },
+  {
+   "id": "dorsal7_united",
+   "q": "Jugadores que hayan usado la camiseta número 7 del Manchester United desde 1993 (dorsales fijos)",
+   "r": [
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "David Beckham",
+     "beckham"
+    ],
+    [
+     "H",
+     "Eric Cantona",
+     "cantona"
+    ],
+    [
+     "T",
+     "Michael Owen",
+     "owen"
+    ],
+    [
+     "T",
+     "Ángel Di María",
+     "fideo di maria",
+     "di maria"
+    ],
+    [
+     "T",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "T",
+     "Edinson Cavani",
+     "cavani"
+    ],
+    [
+     "T",
+     "Mason Mount",
+     "mount"
+    ],
+    [
+     "C",
+     "Antonio Valencia",
+     "valencia"
+    ],
+    [
+     "C",
+     "Memphis Depay",
+     "memphis",
+     "depay"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Dorsal 7 del United 1993-2026 (Mount sigue con la 7 en 2026-27): https://thepeoplesperson.com/2026/08/22/united-reveal-squad-numbers-for-new-season-rashford-handed-iconic-shirt-314386/",
+   "dia": 24
+  },
+  {
+   "id": "arqueros_goleadores",
+   "q": "Arqueros que hayan marcado un gol oficial",
+   "r": [
+    [
+     "H",
+     "Rogério Ceni",
+     "rogerio ceni",
+     "ceni"
+    ],
+    [
+     "H",
+     "José Luis Chilavert",
+     "chilavert"
+    ],
+    [
+     "H",
+     "René Higuita",
+     "higuita"
+    ],
+    [
+     "T",
+     "Jorge Campos",
+     "campos"
+    ],
+    [
+     "T",
+     "Hans-Jörg Butt",
+     "butt"
+    ],
+    [
+     "T",
+     "Alisson Becker",
+     "alisson"
+    ],
+    [
+     "T",
+     "Peter Schmeichel",
+     "schmeichel"
+    ],
+    [
+     "T",
+     "Jens Lehmann",
+     "lehmann"
+    ],
+    [
+     "T",
+     "Ivan Provedel",
+     "provedel"
+    ],
+    [
+     "T",
+     "Johnny Herrera"
+    ],
+    [
+     "C",
+     "Tim Howard"
+    ],
+    [
+     "C",
+     "Paul Robinson"
+    ],
+    [
+     "C",
+     "Asmir Begović",
+     "begovic"
+    ],
+    [
+     "C",
+     "Brad Friedel",
+     "friedel"
+    ],
+    [
+     "C",
+     "Mart Poom",
+     "poom"
+    ],
+    [
+     "C",
+     "Vincent Enyeama",
+     "enyeama"
+    ],
+    [
+     "D",
+     "Jimmy Glass"
+    ]
+   ],
+   "fuente": "Arqueros goleadores conocidos; la IA valida otros casos",
+   "dia": 24
+  },
+  {
+   "id": "paises_balon_oro",
+   "q": "Países (selecciones) de los ganadores del Balón de Oro masculino",
+   "r": [
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Portugal"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Alemania",
+     "alemania federal",
+     "alemania occidental",
+     "germany"
+    ],
+    [
+     "H",
+     "Países Bajos",
+     "paises bajos",
+     "holanda"
+    ],
+    [
+     "H",
+     "Italia",
+     "italy"
+    ],
+    [
+     "H",
+     "Inglaterra",
+     "england"
+    ],
+    [
+     "H",
+     "España",
+     "espana",
+     "spain"
+    ],
+    [
+     "T",
+     "Croacia"
+    ],
+    [
+     "T",
+     "Ucrania"
+    ],
+    [
+     "T",
+     "Unión Soviética",
+     "union sovietica",
+     "urss"
+    ],
+    [
+     "T",
+     "Liberia"
+    ],
+    [
+     "T",
+     "Bulgaria"
+    ],
+    [
+     "T",
+     "República Checa",
+     "republica checa",
+     "chequia"
+    ],
+    [
+     "T",
+     "Dinamarca"
+    ],
+    [
+     "C",
+     "Escocia"
+    ],
+    [
+     "C",
+     "Irlanda del Norte"
+    ],
+    [
+     "C",
+     "Hungría",
+     "hungria"
+    ],
+    [
+     "C",
+     "Checoslovaquia"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Nacionalidad de los ganadores 1956-2026 (Kane, Inglaterra, en 2026)",
+   "dia": 24
+  },
+  {
+   "id": "milan_chelsea",
+   "q": "Jugadores que hayan jugado en el Milan y en el Chelsea",
+   "r": [
+    [
+     "H",
+     "Andriy Shevchenko",
+     "shevchenko",
+     "sheva"
+    ],
+    [
+     "H",
+     "Hernán Crespo",
+     "valdanito crespo",
+     "crespo"
+    ],
+    [
+     "H",
+     "Thiago Silva"
+    ],
+    [
+     "H",
+     "Olivier Giroud",
+     "giroud"
+    ],
+    [
+     "H",
+     "Christian Pulisic",
+     "pulisic"
+    ],
+    [
+     "T",
+     "Marcel Desailly",
+     "desailly"
+    ],
+    [
+     "T",
+     "Ruud Gullit",
+     "gullit"
+    ],
+    [
+     "T",
+     "Álvaro Morata",
+     "morata"
+    ],
+    [
+     "T",
+     "Fikayo Tomori",
+     "tomori"
+    ],
+    [
+     "T",
+     "Ruben Loftus-Cheek",
+     "loftus cheek"
+    ],
+    [
+     "T",
+     "Tiémoué Bakayoko",
+     "bakayoko"
+    ],
+    [
+     "T",
+     "João Félix",
+     "joao felix"
+    ],
+    [
+     "T",
+     "Christopher Nkunku",
+     "nkunku"
+    ],
+    [
+     "T",
+     "Tammy Abraham",
+     "abraham"
+    ],
+    [
+     "C",
+     "Ray Wilkins"
+    ],
+    [
+     "C",
+     "Jimmy Greaves",
+     "greaves"
+    ],
+    [
+     "C",
+     "Christian Panucci",
+     "panucci"
+    ],
+    [
+     "C",
+     "Mario Pašalić",
+     "pasalic"
+    ]
+   ],
+   "fuente": "Planteles de Milan y Chelsea + traspasos hasta 2026",
+   "dia": 24
+  },
+  {
+   "id": "hermanos_seleccion",
+   "q": "Futbolistas que tengan un hermano que haya jugado en su misma selección",
+   "r": [
+    [
+     "H",
+     "Eden Hazard",
+     "hazard"
+    ],
+    [
+     "H",
+     "Frank de Boer"
+    ],
+    [
+     "H",
+     "Ronald de Boer"
+    ],
+    [
+     "H",
+     "Yaya Touré",
+     "yaya toure"
+    ],
+    [
+     "H",
+     "Kolo Touré",
+     "kolo toure"
+    ],
+    [
+     "H",
+     "Diego Milito",
+     "principe milito"
+    ],
+    [
+     "H",
+     "Filippo Inzaghi",
+     "pippo inzaghi"
+    ],
+    [
+     "H",
+     "Theo Hernández",
+     "theo hernandez"
+    ],
+    [
+     "H",
+     "Lucas Hernández",
+     "lucas hernandez"
+    ],
+    [
+     "T",
+     "Thorgan Hazard"
+    ],
+    [
+     "T",
+     "Michael Laudrup"
+    ],
+    [
+     "T",
+     "Brian Laudrup"
+    ],
+    [
+     "T",
+     "Gary Neville"
+    ],
+    [
+     "T",
+     "Phil Neville"
+    ],
+    [
+     "T",
+     "Gabriel Milito"
+    ],
+    [
+     "T",
+     "Simone Inzaghi"
+    ],
+    [
+     "T",
+     "André Ayew"
+    ],
+    [
+     "T",
+     "Jordan Ayew"
+    ],
+    [
+     "T",
+     "Rio Ferdinand"
+    ],
+    [
+     "T",
+     "Anton Ferdinand"
+    ],
+    [
+     "T",
+     "Ronald Koeman"
+    ],
+    [
+     "T",
+     "Erwin Koeman"
+    ],
+    [
+     "T",
+     "Giovani dos Santos",
+     "gio dos santos"
+    ],
+    [
+     "T",
+     "Jonathan dos Santos"
+    ],
+    [
+     "T",
+     "Bobby Charlton"
+    ],
+    [
+     "T",
+     "Jack Charlton"
+    ],
+    [
+     "C",
+     "Franco Baresi"
+    ],
+    [
+     "C",
+     "Giuseppe Baresi"
+    ],
+    [
+     "C",
+     "Niko Kovač",
+     "niko kovac"
+    ],
+    [
+     "C",
+     "Robert Kovač",
+     "robert kovac"
+    ],
+    [
+     "C",
+     "Lars Bender"
+    ],
+    [
+     "C",
+     "Sven Bender"
+    ],
+    [
+     "C",
+     "René van de Kerkhof"
+    ],
+    [
+     "C",
+     "Willy van de Kerkhof"
+    ],
+    [
+     "D",
+     "Fritz Walter"
+    ],
+    [
+     "D",
+     "Ottmar Walter"
+    ]
+   ],
+   "fuente": "Hermanos en una misma selección; la IA valida otros casos",
+   "dia": 24
   }
  ]
 }
