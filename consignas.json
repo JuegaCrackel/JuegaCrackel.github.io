@@ -22145,6 +22145,611 @@
    ],
    "fuente": "Hermanos en una misma selección; la IA valida otros casos",
    "dia": 24
+  },
+  {
+   "id": "campeones_mundo_mls",
+   "q": "Campeones del mundo que hayan jugado en la MLS",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Thierry Henry",
+     "henry"
+    ],
+    [
+     "H",
+     "Antoine Griezmann",
+     "griezmann"
+    ],
+    [
+     "H",
+     "Kaká",
+     "kaka"
+    ],
+    [
+     "H",
+     "Andrea Pirlo",
+     "pirlo"
+    ],
+    [
+     "H",
+     "David Villa",
+     "el guaje"
+    ],
+    [
+     "T",
+     "Thomas Müller",
+     "muller"
+    ],
+    [
+     "T",
+     "Rodrigo De Paul",
+     "de paul"
+    ],
+    [
+     "T",
+     "Sergio Busquets",
+     "busquets"
+    ],
+    [
+     "T",
+     "Bastian Schweinsteiger",
+     "schweinsteiger"
+    ],
+    [
+     "T",
+     "Olivier Giroud",
+     "giroud"
+    ],
+    [
+     "T",
+     "Hugo Lloris",
+     "lloris"
+    ],
+    [
+     "T",
+     "Lothar Matthäus",
+     "matthaus"
+    ],
+    [
+     "T",
+     "Alessandro Nesta",
+     "nesta"
+    ],
+    [
+     "T",
+     "Blaise Matuidi",
+     "matuidi"
+    ],
+    [
+     "T",
+     "Thiago Almada",
+     "almada"
+    ],
+    [
+     "C",
+     "Youri Djorkaeff",
+     "djorkaeff"
+    ],
+    [
+     "C",
+     "Branco"
+    ],
+    [
+     "C",
+     "Denílson",
+     "denilson"
+    ],
+    [
+     "C",
+     "Kléberson",
+     "kleberson"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Los 20 campeones del mundo que pasaron por la MLS (Griezmann el n°20, 2026): https://www.clarosports.com/futbol/mls/la-mls-le-da-la-vuelta-a-la-liga-mx-y-suma-a-su-campeon-del-mundo-numero-20-con-la-llegada-de-griezmann/",
+   "dia": 25
+  },
+  {
+   "id": "clubes_ingleses_europa",
+   "q": "Clubes ingleses que hayan ganado la Champions, la Europa League (o Copa UEFA), la Recopa o la Conference League",
+   "r": [
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "united",
+     "man united"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "Manchester City",
+     "city",
+     "man city"
+    ],
+    [
+     "H",
+     "Tottenham",
+     "tottenham hotspur",
+     "spurs"
+    ],
+    [
+     "H",
+     "Arsenal"
+    ],
+    [
+     "T",
+     "Aston Villa"
+    ],
+    [
+     "T",
+     "Nottingham Forest",
+     "nottingham",
+     "forest"
+    ],
+    [
+     "T",
+     "West Ham",
+     "west ham united"
+    ],
+    [
+     "T",
+     "Crystal Palace",
+     "palace"
+    ],
+    [
+     "C",
+     "Everton"
+    ],
+    [
+     "C",
+     "Ipswich Town",
+     "ipswich"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Títulos UEFA de clubes ingleses hasta 2026 (Aston Villa Europa League y Crystal Palace Conference 2026): https://emisorasunidas.com/deportes/2026/05/27/el-crystal-palace-conquista-la-conference-league-2026/",
+   "dia": 25
+  },
+  {
+   "id": "entrenados_pep_mou",
+   "q": "Jugadores que hayan sido dirigidos tanto por Guardiola como por Mourinho",
+   "r": [
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Samuel Eto'o",
+     "eto o",
+     "etoo"
+    ],
+    [
+     "H",
+     "Kevin De Bruyne",
+     "de bruyne",
+     "kdb"
+    ],
+    [
+     "H",
+     "Xabi Alonso"
+    ],
+    [
+     "H",
+     "Cesc Fàbregas",
+     "cesc",
+     "fabregas"
+    ],
+    [
+     "T",
+     "Arjen Robben",
+     "robben"
+    ],
+    [
+     "T",
+     "Pedro Rodríguez",
+     "pedrito",
+     "pedro"
+    ],
+    [
+     "T",
+     "Bastian Schweinsteiger",
+     "schweinsteiger"
+    ],
+    [
+     "T",
+     "Nicolás Otamendi",
+     "otamendi"
+    ],
+    [
+     "T",
+     "Pierre-Emile Højbjerg",
+     "hojbjerg"
+    ],
+    [
+     "C",
+     "Claudio Pizarro",
+     "pizarro"
+    ],
+    [
+     "C",
+     "Maxwell"
+    ]
+   ],
+   "fuente": "Planteles de Guardiola (Barça, Bayern, City) y Mourinho (Porto, Chelsea, Inter, Real Madrid, United, Tottenham, Roma, Fenerbahçe, Benfica)",
+   "dia": 25
+  },
+  {
+   "id": "mundial_1930",
+   "q": "Selecciones que jugaron el primer Mundial (Uruguay 1930)",
+   "r": [
+    [
+     "H",
+     "Uruguay"
+    ],
+    [
+     "H",
+     "Argentina"
+    ],
+    [
+     "H",
+     "Brasil",
+     "brazil"
+    ],
+    [
+     "H",
+     "Francia",
+     "france"
+    ],
+    [
+     "H",
+     "Estados Unidos",
+     "eeuu",
+     "usa"
+    ],
+    [
+     "T",
+     "Chile"
+    ],
+    [
+     "T",
+     "México",
+     "mexico"
+    ],
+    [
+     "T",
+     "Paraguay"
+    ],
+    [
+     "T",
+     "Perú",
+     "peru"
+    ],
+    [
+     "T",
+     "Bélgica",
+     "belgica"
+    ],
+    [
+     "T",
+     "Yugoslavia"
+    ],
+    [
+     "C",
+     "Bolivia"
+    ],
+    [
+     "C",
+     "Rumania",
+     "rumania"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Los 13 participantes de Uruguay 1930",
+   "dia": 25
+  },
+  {
+   "id": "ajax_barcelona",
+   "q": "Jugadores que hayan jugado en el Ajax y en el Barcelona",
+   "r": [
+    [
+     "H",
+     "Johan Cruyff",
+     "cruyff"
+    ],
+    [
+     "H",
+     "Frenkie de Jong",
+     "de jong"
+    ],
+    [
+     "H",
+     "Patrick Kluivert",
+     "kluivert"
+    ],
+    [
+     "H",
+     "Zlatan Ibrahimović",
+     "zlatan",
+     "ibra",
+     "ibrahimovic"
+    ],
+    [
+     "H",
+     "Marc Overmars",
+     "overmars"
+    ],
+    [
+     "H",
+     "Ronald Koeman",
+     "koeman"
+    ],
+    [
+     "T",
+     "Johan Neeskens",
+     "neeskens"
+    ],
+    [
+     "T",
+     "Frank de Boer"
+    ],
+    [
+     "T",
+     "Ronald de Boer"
+    ],
+    [
+     "T",
+     "Edgar Davids",
+     "davids"
+    ],
+    [
+     "T",
+     "Michael Laudrup",
+     "laudrup"
+    ],
+    [
+     "T",
+     "Jari Litmanen",
+     "litmanen"
+    ],
+    [
+     "T",
+     "Marc-André ter Stegen",
+     "ter stegen"
+    ],
+    [
+     "T",
+     "Jasper Cillessen",
+     "cillessen"
+    ],
+    [
+     "T",
+     "Sergiño Dest",
+     "dest"
+    ],
+    [
+     "T",
+     "Thomas Vermaelen",
+     "vermaelen"
+    ],
+    [
+     "C",
+     "Michael Reiziger",
+     "reiziger"
+    ],
+    [
+     "C",
+     "Winston Bogarde",
+     "bogarde"
+    ]
+   ],
+   "fuente": "Planteles de Ajax y Barcelona (Ter Stegen al Ajax en 2026)",
+   "dia": 25
+  },
+  {
+   "id": "mejor_joven_mundial",
+   "q": "Jugadores elegidos mejor jugador joven de un Mundial",
+   "r": [
+    [
+     "H",
+     "Pelé",
+     "pele"
+    ],
+    [
+     "H",
+     "Kylian Mbappé",
+     "mbappe"
+    ],
+    [
+     "H",
+     "Thomas Müller",
+     "muller"
+    ],
+    [
+     "H",
+     "Paul Pogba",
+     "pogba"
+    ],
+    [
+     "H",
+     "Enzo Fernández",
+     "enzo"
+    ],
+    [
+     "H",
+     "Pau Cubarsí",
+     "cubarsi"
+    ],
+    [
+     "T",
+     "Franz Beckenbauer",
+     "beckenbauer",
+     "kaiser"
+    ],
+    [
+     "T",
+     "Michael Owen",
+     "owen"
+    ],
+    [
+     "T",
+     "Lukas Podolski",
+     "podolski"
+    ],
+    [
+     "T",
+     "Marc Overmars",
+     "overmars"
+    ],
+    [
+     "T",
+     "Teófilo Cubillas",
+     "nene cubillas",
+     "cubillas"
+    ],
+    [
+     "C",
+     "Landon Donovan",
+     "donovan"
+    ],
+    [
+     "C",
+     "Robert Prosinečki",
+     "prosinecki"
+    ],
+    [
+     "C",
+     "Enzo Scifo",
+     "scifo"
+    ],
+    [
+     "C",
+     "Antonio Cabrini",
+     "cabrini"
+    ],
+    [
+     "D",
+     "Manuel Amoros",
+     "amoros"
+    ],
+    [
+     "D",
+     "Flórián Albert",
+     "florian albert"
+    ],
+    [
+     "G",
+     "Władysław Żmuda",
+     "wladyslaw zmuda",
+     "zmuda"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Premio al Mejor Jugador Joven de la FIFA (oficial desde 2006, reconocido desde 1958) · Cubarsí en 2026: https://www.vozpopuli.com/deportes/rodri-balon-de-oro-del-mundial-y-cubarsi-mejor-jugador-joven.html",
+   "dia": 25
+  },
+  {
+   "id": "chilenos_premier",
+   "q": "Chilenos que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "H",
+     "Claudio Bravo",
+     "bravo"
+    ],
+    [
+     "H",
+     "Gary Medel",
+     "pitbull",
+     "medel"
+    ],
+    [
+     "T",
+     "Ben Brereton Díaz",
+     "ben brereton",
+     "brereton"
+    ],
+    [
+     "T",
+     "Marcelino Núñez",
+     "marcelino nunez"
+    ],
+    [
+     "T",
+     "Darío Osorio",
+     "dario osorio",
+     "osorio"
+    ],
+    [
+     "T",
+     "Mauricio Isla",
+     "huaso isla",
+     "isla"
+    ],
+    [
+     "T",
+     "Gonzalo Jara",
+     "jara"
+    ],
+    [
+     "T",
+     "Jean Beausejour",
+     "beausejour"
+    ],
+    [
+     "T",
+     "Mark González",
+     "mark gonzalez"
+    ],
+    [
+     "T",
+     "David Pizarro",
+     "pek pizarro",
+     "pizarro"
+    ],
+    [
+     "C",
+     "Clarence Acuña",
+     "acuna"
+    ],
+    [
+     "C",
+     "Javier Margas",
+     "margas"
+    ],
+    [
+     "C",
+     "Francisco Sierralta",
+     "sierralta"
+    ]
+   ],
+   "fuente": "Chilenos en la Premier 1992-2026 (Marcelino Núñez en Ipswich y Darío Osorio en Crystal Palace, 2026-27)",
+   "dia": 25
   }
  ]
 }
