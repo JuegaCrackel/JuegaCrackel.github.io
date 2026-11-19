@@ -22750,6 +22750,697 @@
    ],
    "fuente": "Chilenos en la Premier 1992-2026 (Marcelino Núñez en Ipswich y Darío Osorio en Crystal Palace, 2026-27)",
    "dia": 25
+  },
+  {
+   "id": "companeros_messi_cristiano",
+   "q": "Jugadores que hayan sido compañeros de Messi y de Cristiano Ronaldo en algún club",
+   "r": [
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria",
+     "di maria"
+    ],
+    [
+     "H",
+     "Sergio Ramos"
+    ],
+    [
+     "H",
+     "Gerard Piqué",
+     "pique"
+    ],
+    [
+     "T",
+     "Keylor Navas",
+     "keylor"
+    ],
+    [
+     "T",
+     "Achraf Hakimi",
+     "hakimi"
+    ],
+    [
+     "T",
+     "Miralem Pjanić",
+     "pjanic"
+    ],
+    [
+     "T",
+     "Arthur Melo",
+     "arthur"
+    ],
+    [
+     "T",
+     "Henrik Larsson",
+     "larsson"
+    ],
+    [
+     "C",
+     "Martín Cáceres",
+     "caceres"
+    ]
+   ],
+   "fuente": "Planteles compartidos con Messi (Barça, PSG, Inter Miami) y Cristiano (Sporting, United, Real Madrid, Juventus, Al-Nassr)",
+   "dia": 26
+  },
+  {
+   "id": "invitados_copa_america",
+   "q": "Selecciones que hayan jugado la Copa América como invitadas (de fuera de Sudamérica)",
+   "r": [
+    [
+     "H",
+     "México",
+     "mexico"
+    ],
+    [
+     "H",
+     "Estados Unidos",
+     "eeuu",
+     "usa"
+    ],
+    [
+     "T",
+     "Costa Rica"
+    ],
+    [
+     "T",
+     "Japón",
+     "japon"
+    ],
+    [
+     "T",
+     "Jamaica"
+    ],
+    [
+     "T",
+     "Panamá",
+     "panama"
+    ],
+    [
+     "T",
+     "Canadá",
+     "canada"
+    ],
+    [
+     "T",
+     "Catar",
+     "qatar"
+    ],
+    [
+     "C",
+     "Honduras"
+    ],
+    [
+     "C",
+     "Haití",
+     "haiti"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Invitados a la Copa América 1993-2024",
+   "dia": 26
+  },
+  {
+   "id": "argentinos_premier",
+   "q": "Argentinos que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Sergio Agüero",
+     "kun aguero",
+     "kun"
+    ],
+    [
+     "H",
+     "Carlos Tevez",
+     "apache tevez",
+     "tevez"
+    ],
+    [
+     "H",
+     "Ángel Di María",
+     "fideo di maria",
+     "di maria"
+    ],
+    [
+     "H",
+     "Javier Mascherano",
+     "jefecito",
+     "mascherano"
+    ],
+    [
+     "H",
+     "Emiliano Martínez",
+     "dibu martinez",
+     "dibu",
+     "emi martinez"
+    ],
+    [
+     "H",
+     "Alexis Mac Allister",
+     "mac allister"
+    ],
+    [
+     "H",
+     "Enzo Fernández",
+     "enzo"
+    ],
+    [
+     "H",
+     "Julián Álvarez",
+     "julian alvarez",
+     "arana"
+    ],
+    [
+     "H",
+     "Cristian Romero",
+     "cuti romero",
+     "cuti"
+    ],
+    [
+     "H",
+     "Lisandro Martínez",
+     "licha martinez",
+     "lisandro"
+    ],
+    [
+     "H",
+     "Alejandro Garnacho",
+     "garnacho"
+    ],
+    [
+     "T",
+     "Pablo Zabaleta",
+     "zabaleta"
+    ],
+    [
+     "T",
+     "Nicolás Otamendi",
+     "otamendi"
+    ],
+    [
+     "T",
+     "Erik Lamela",
+     "lamela"
+    ],
+    [
+     "T",
+     "Mauricio Pochettino",
+     "pochettino"
+    ],
+    [
+     "T",
+     "Marcos Rojo",
+     "rojo"
+    ],
+    [
+     "T",
+     "Sergio Romero",
+     "chiquito romero"
+    ],
+    [
+     "T",
+     "Giovani Lo Celso",
+     "lo celso"
+    ],
+    [
+     "T",
+     "Juan Sebastián Verón",
+     "bruja veron",
+     "veron"
+    ],
+    [
+     "T",
+     "Hernán Crespo",
+     "valdanito crespo",
+     "crespo"
+    ],
+    [
+     "T",
+     "Gonzalo Higuaín",
+     "pipita higuain",
+     "pipita"
+    ],
+    [
+     "T",
+     "Gabriel Heinze",
+     "gringo heinze",
+     "heinze"
+    ],
+    [
+     "T",
+     "Esteban Cambiasso",
+     "cuchu cambiasso",
+     "cambiasso"
+    ],
+    [
+     "T",
+     "Manuel Lanzini",
+     "lanzini"
+    ],
+    [
+     "T",
+     "Juan Foyth",
+     "foyth"
+    ],
+    [
+     "T",
+     "Gonzalo Montiel",
+     "cachete montiel",
+     "montiel"
+    ],
+    [
+     "T",
+     "Fabricio Coloccini",
+     "coloccini"
+    ],
+    [
+     "T",
+     "Martín Demichelis",
+     "demichelis"
+    ],
+    [
+     "T",
+     "Willy Caballero",
+     "caballero"
+    ],
+    [
+     "T",
+     "Emiliano Buendía",
+     "buendia"
+    ],
+    [
+     "T",
+     "Marcos Senesi",
+     "senesi"
+    ],
+    [
+     "C",
+     "Leonardo Ulloa",
+     "ulloa"
+    ],
+    [
+     "C",
+     "Jonás Gutiérrez",
+     "jonas gutierrez"
+    ],
+    [
+     "C",
+     "Mauro Zárate",
+     "zarate"
+    ],
+    [
+     "C",
+     "Emiliano Insúa",
+     "insua"
+    ],
+    [
+     "C",
+     "Federico Fazio",
+     "fazio"
+    ],
+    [
+     "C",
+     "Ramiro Funes Mori",
+     "funes mori"
+    ],
+    [
+     "C",
+     "Franco Di Santo",
+     "di santo"
+    ],
+    [
+     "C",
+     "Facundo Buonanotte",
+     "buonanotte"
+    ],
+    [
+     "C",
+     "Nicolás Domínguez",
+     "nico dominguez"
+    ],
+    [
+     "C",
+     "Guido Rodríguez",
+     "guido rodriguez"
+    ],
+    [
+     "C",
+     "Julio Arca",
+     "arca"
+    ],
+    [
+     "C",
+     "Valentín Barco",
+     "colo barco",
+     "barco"
+    ],
+    [
+     "D",
+     "Ricardo Villa",
+     "ricky villa"
+    ],
+    [
+     "D",
+     "Osvaldo Ardiles",
+     "ossie ardiles",
+     "ardiles"
+    ]
+   ],
+   "fuente": "Argentinos en la Premier 1992-2026 (mercado 2026: https://eleconomista.com.ar/deportes/jugadores-seleccion-argentina-cambiaron-club-mercado-pases-2026-n97868)",
+   "dia": 26
+  },
+  {
+   "id": "campeones_copa_asia",
+   "q": "Selecciones que hayan ganado la Copa de Asia",
+   "r": [
+    [
+     "H",
+     "Japón",
+     "japon"
+    ],
+    [
+     "H",
+     "Corea del Sur",
+     "corea"
+    ],
+    [
+     "H",
+     "Arabia Saudita",
+     "arabia saudi",
+     "arabia"
+    ],
+    [
+     "H",
+     "Australia"
+    ],
+    [
+     "T",
+     "Irán",
+     "iran"
+    ],
+    [
+     "T",
+     "Catar",
+     "qatar"
+    ],
+    [
+     "T",
+     "Irak",
+     "iraq"
+    ],
+    [
+     "C",
+     "Kuwait"
+    ],
+    [
+     "D",
+     "Israel"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "selección",
+   "fuente": "Campeones de la Copa Asiática 1956-2023",
+   "dia": 26
+  },
+  {
+   "id": "africanos_champions",
+   "q": "Jugadores africanos que hayan ganado la Champions League (o Copa de Europa)",
+   "r": [
+    [
+     "H",
+     "Samuel Eto'o",
+     "eto o",
+     "etoo"
+    ],
+    [
+     "H",
+     "Didier Drogba",
+     "drogba"
+    ],
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "H",
+     "Sadio Mané",
+     "mane"
+    ],
+    [
+     "H",
+     "Achraf Hakimi",
+     "hakimi"
+    ],
+    [
+     "T",
+     "Yaya Touré",
+     "yaya toure"
+    ],
+    [
+     "T",
+     "Riyad Mahrez",
+     "mahrez"
+    ],
+    [
+     "T",
+     "John Obi Mikel",
+     "obi mikel",
+     "mikel"
+    ],
+    [
+     "T",
+     "Michael Essien",
+     "essien"
+    ],
+    [
+     "T",
+     "Seydou Keita",
+     "keita"
+    ],
+    [
+     "T",
+     "Naby Keïta",
+     "naby keita"
+    ],
+    [
+     "T",
+     "Joël Matip",
+     "matip"
+    ],
+    [
+     "T",
+     "Édouard Mendy",
+     "edouard mendy"
+    ],
+    [
+     "T",
+     "Hakim Ziyech",
+     "ziyech"
+    ],
+    [
+     "T",
+     "Salomon Kalou",
+     "kalou"
+    ],
+    [
+     "T",
+     "Sulley Muntari",
+     "muntari"
+    ],
+    [
+     "T",
+     "Abedi Pelé",
+     "abedi pele"
+    ],
+    [
+     "T",
+     "Rabah Madjer",
+     "madjer"
+    ],
+    [
+     "C",
+     "Nwankwo Kanu",
+     "kanu"
+    ],
+    [
+     "C",
+     "Finidi George",
+     "finidi"
+    ],
+    [
+     "C",
+     "Geremi"
+    ],
+    [
+     "C",
+     "Benni McCarthy",
+     "mccarthy"
+    ],
+    [
+     "C",
+     "McDonald Mariga",
+     "mariga"
+    ]
+   ],
+   "fuente": "Africanos en planteles campeones de Europa (hasta 2026)",
+   "dia": 26
+  },
+  {
+   "id": "dt_barcelona_siglo21",
+   "q": "Entrenadores que hayan dirigido al Barcelona desde el año 2000",
+   "r": [
+    [
+     "H",
+     "Pep Guardiola",
+     "guardiola"
+    ],
+    [
+     "H",
+     "Luis Enrique"
+    ],
+    [
+     "H",
+     "Xavi Hernández",
+     "xavi"
+    ],
+    [
+     "H",
+     "Hansi Flick",
+     "flick"
+    ],
+    [
+     "H",
+     "Frank Rijkaard",
+     "rijkaard"
+    ],
+    [
+     "T",
+     "Ernesto Valverde",
+     "txingurri",
+     "valverde"
+    ],
+    [
+     "T",
+     "Ronald Koeman",
+     "koeman"
+    ],
+    [
+     "T",
+     "Tito Vilanova",
+     "vilanova"
+    ],
+    [
+     "T",
+     "Gerardo Martino",
+     "tata martino",
+     "martino"
+    ],
+    [
+     "T",
+     "Quique Setién",
+     "setien"
+    ],
+    [
+     "T",
+     "Louis van Gaal",
+     "van gaal"
+    ],
+    [
+     "C",
+     "Carles Rexach",
+     "charly rexach",
+     "rexach"
+    ],
+    [
+     "C",
+     "Llorenç Serra Ferrer",
+     "serra ferrer"
+    ],
+    [
+     "C",
+     "Radomir Antić",
+     "antic"
+    ],
+    [
+     "C",
+     "Sergi Barjuán",
+     "sergi"
+    ],
+    [
+     "D",
+     "Jordi Roura",
+     "roura"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos del Barcelona 2000-2026 (Flick renovado hasta 2028): https://www.laestrella.com.pa/deportes/futbol/flick-renueva-con-el-barcelona-hasta-2028-con-otro-ano-opcional-HF22503150",
+   "dia": 26
+  },
+  {
+   "id": "clubes_zlatan",
+   "q": "Clubes en los que jugó Zlatan Ibrahimović",
+   "r": [
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "H",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "H",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "united",
+     "man united"
+    ],
+    [
+     "H",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "H",
+     "Inter",
+     "inter de milan"
+    ],
+    [
+     "T",
+     "Ajax"
+    ],
+    [
+     "T",
+     "LA Galaxy",
+     "los angeles galaxy",
+     "galaxy"
+    ],
+    [
+     "C",
+     "Malmö",
+     "malmo",
+     "malmo ff"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Trayectoria de Zlatan Ibrahimović (1999-2023)",
+   "dia": 26
   }
  ]
 }
