@@ -23441,6 +23441,580 @@
    "tipo": "club",
    "fuente": "Trayectoria de Zlatan Ibrahimović (1999-2023)",
    "dia": 26
+  },
+  {
+   "id": "dt_champions_siglo21",
+   "q": "Entrenadores que hayan ganado la Champions League desde el año 2000",
+   "r": [
+    [
+     "H",
+     "Carlo Ancelotti",
+     "ancelotti"
+    ],
+    [
+     "H",
+     "Pep Guardiola",
+     "guardiola"
+    ],
+    [
+     "H",
+     "José Mourinho",
+     "mourinho"
+    ],
+    [
+     "H",
+     "Zinedine Zidane",
+     "zizou"
+    ],
+    [
+     "H",
+     "Jürgen Klopp",
+     "klopp"
+    ],
+    [
+     "H",
+     "Luis Enrique"
+    ],
+    [
+     "T",
+     "Alex Ferguson",
+     "sir alex ferguson",
+     "ferguson"
+    ],
+    [
+     "T",
+     "Rafael Benítez",
+     "rafa benitez",
+     "benitez"
+    ],
+    [
+     "T",
+     "Frank Rijkaard",
+     "rijkaard"
+    ],
+    [
+     "T",
+     "Vicente del Bosque",
+     "del bosque"
+    ],
+    [
+     "T",
+     "Hansi Flick",
+     "flick"
+    ],
+    [
+     "T",
+     "Thomas Tuchel",
+     "tuchel"
+    ],
+    [
+     "T",
+     "Jupp Heynckes",
+     "heynckes"
+    ],
+    [
+     "C",
+     "Roberto Di Matteo",
+     "di matteo"
+    ],
+    [
+     "C",
+     "Ottmar Hitzfeld",
+     "hitzfeld"
+    ]
+   ],
+   "completa": true,
+   "tipo": "entrenador",
+   "fuente": "Técnicos campeones 2000-2026 (Luis Enrique con el PSG en 2025 y 2026)",
+   "dia": 27
+  },
+  {
+   "id": "chilenos_serie_a",
+   "q": "Chilenos que hayan jugado en la Serie A de Italia",
+   "r": [
+    [
+     "H",
+     "Alexis Sánchez",
+     "alexis",
+     "nino maravilla"
+    ],
+    [
+     "H",
+     "Arturo Vidal",
+     "rey arturo",
+     "vidal"
+    ],
+    [
+     "H",
+     "Gary Medel",
+     "pitbull",
+     "medel"
+    ],
+    [
+     "H",
+     "Iván Zamorano",
+     "bam bam zamorano",
+     "zamorano"
+    ],
+    [
+     "H",
+     "Marcelo Salas",
+     "matador salas",
+     "salas"
+    ],
+    [
+     "T",
+     "Mauricio Isla",
+     "huaso isla",
+     "isla"
+    ],
+    [
+     "T",
+     "David Pizarro",
+     "pek pizarro",
+     "pizarro"
+    ],
+    [
+     "T",
+     "Mauricio Pinilla",
+     "pinilla"
+    ],
+    [
+     "T",
+     "Erick Pulgar",
+     "pulgar"
+    ],
+    [
+     "T",
+     "Guillermo Maripán",
+     "maripan"
+    ],
+    [
+     "T",
+     "Matías Fernández",
+     "matigol"
+    ],
+    [
+     "T",
+     "Eduardo Vargas",
+     "turboman",
+     "edu vargas"
+    ],
+    [
+     "C",
+     "Luis Jiménez",
+     "mago jimenez"
+    ],
+    [
+     "C",
+     "Carlos Carmona",
+     "carmona"
+    ],
+    [
+     "C",
+     "Jorge Vargas"
+    ],
+    [
+     "C",
+     "Felipe Seymour",
+     "seymour"
+    ]
+   ],
+   "fuente": "Chilenos en la Serie A; la IA valida otros casos",
+   "dia": 27
+  },
+  {
+   "id": "campeones_ligue1",
+   "q": "Clubes que hayan sido campeones de la liga francesa",
+   "r": [
+    [
+     "H",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "H",
+     "Marsella",
+     "marseille",
+     "olympique de marsella"
+    ],
+    [
+     "H",
+     "Lyon",
+     "olympique de lyon",
+     "olympique lyonnais"
+    ],
+    [
+     "H",
+     "Saint-Étienne",
+     "saint etienne",
+     "st etienne"
+    ],
+    [
+     "H",
+     "Monaco"
+    ],
+    [
+     "T",
+     "Nantes"
+    ],
+    [
+     "T",
+     "Burdeos",
+     "bordeaux",
+     "girondins"
+    ],
+    [
+     "T",
+     "Lille",
+     "lille osc",
+     "losc"
+    ],
+    [
+     "T",
+     "Reims",
+     "stade de reims"
+    ],
+    [
+     "T",
+     "Niza",
+     "nice"
+    ],
+    [
+     "T",
+     "Lens",
+     "rc lens"
+    ],
+    [
+     "T",
+     "Montpellier"
+    ],
+    [
+     "C",
+     "Auxerre"
+    ],
+    [
+     "C",
+     "Estrasburgo",
+     "strasbourg",
+     "racing estrasburgo"
+    ],
+    [
+     "C",
+     "Sochaux"
+    ],
+    [
+     "D",
+     "Sète",
+     "sete"
+    ],
+    [
+     "D",
+     "Racing Club de Paris",
+     "racing paris"
+    ],
+    [
+     "G",
+     "Roubaix-Tourcoing",
+     "roubaix"
+    ],
+    [
+     "G",
+     "Olympique Lillois",
+     "olympique lilles"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Campeones de Francia 1932-33 a 2025-26 (PSG pentacampeón 2026): https://www.psg.fr/es/content/el-paris-saint-germain-campeon-de-francia-por-quinta-vez-consecutiva-psg-news-2025-2026",
+   "dia": 27
+  },
+  {
+   "id": "cinco_mundiales",
+   "q": "Jugadores convocados a cinco o más Mundiales",
+   "r": [
+    [
+     "H",
+     "Lionel Messi",
+     "leo messi"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Guillermo Ochoa",
+     "memo ochoa",
+     "ochoa"
+    ],
+    [
+     "T",
+     "Rafael Márquez",
+     "rafa marquez"
+    ],
+    [
+     "T",
+     "Andrés Guardado",
+     "guardado"
+    ],
+    [
+     "T",
+     "Gianluigi Buffon",
+     "gigi buffon",
+     "buffon"
+    ],
+    [
+     "T",
+     "Lothar Matthäus",
+     "matthaus"
+    ],
+    [
+     "T",
+     "Luka Modrić",
+     "modric"
+    ],
+    [
+     "C",
+     "Antonio Carbajal",
+     "la tota carbajal",
+     "carbajal"
+    ]
+   ],
+   "fuente": "Récord de Mundiales (Messi, Cristiano y Ochoa con seis en 2026): https://www.clarosports.com/futbol/mundial-2026/leyenda-guillermo-ochoa-se-une-a-cristiano-ronaldo-y-lionel-messi-como-los-jugadores-con-mas-mundiales-disputados/",
+   "dia": 27
+  },
+  {
+   "id": "roma_juventus",
+   "q": "Jugadores que hayan jugado en la Roma y en la Juventus",
+   "r": [
+    [
+     "H",
+     "Paulo Dybala",
+     "la joya",
+     "dybala"
+    ],
+    [
+     "H",
+     "Miralem Pjanić",
+     "pjanic"
+    ],
+    [
+     "H",
+     "Wojciech Szczęsny",
+     "szczesny"
+    ],
+    [
+     "H",
+     "Leandro Paredes",
+     "paredes"
+    ],
+    [
+     "H",
+     "Leonardo Spinazzola",
+     "spinazzola"
+    ],
+    [
+     "T",
+     "Emerson"
+    ],
+    [
+     "T",
+     "Mehdi Benatia",
+     "benatia"
+    ],
+    [
+     "T",
+     "Mirko Vučinić",
+     "vucinic"
+    ],
+    [
+     "T",
+     "Alberto Aquilani",
+     "aquilani"
+    ],
+    [
+     "T",
+     "Angelo Peruzzi",
+     "peruzzi"
+    ],
+    [
+     "T",
+     "Fabio Capello",
+     "capello"
+    ],
+    [
+     "T",
+     "Marco Borriello",
+     "borriello"
+    ],
+    [
+     "T",
+     "Federico Balzaretti",
+     "balzaretti"
+    ],
+    [
+     "C",
+     "Jonathan Zebina",
+     "zebina"
+    ],
+    [
+     "C",
+     "Luca Pellegrini"
+    ]
+   ],
+   "fuente": "Planteles de Roma y Juventus",
+   "dia": 27
+  },
+  {
+   "id": "uruguayos_premier",
+   "q": "Uruguayos que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Luis Suárez",
+     "lucho suarez",
+     "el pistolero"
+    ],
+    [
+     "H",
+     "Edinson Cavani",
+     "matador cavani",
+     "cavani"
+    ],
+    [
+     "H",
+     "Diego Forlán",
+     "forlan"
+    ],
+    [
+     "H",
+     "Darwin Núñez",
+     "darwin"
+    ],
+    [
+     "H",
+     "Rodrigo Bentancur",
+     "bentancur"
+    ],
+    [
+     "H",
+     "Manuel Ugarte",
+     "ugarte"
+    ],
+    [
+     "T",
+     "Lucas Torreira",
+     "torreira"
+    ],
+    [
+     "T",
+     "Facundo Pellistri",
+     "pellistri"
+    ],
+    [
+     "T",
+     "Gus Poyet",
+     "poyet"
+    ],
+    [
+     "T",
+     "Sebastián Coates",
+     "coates"
+    ],
+    [
+     "T",
+     "Gastón Ramírez",
+     "gaston ramirez"
+    ],
+    [
+     "T",
+     "Christian Stuani",
+     "stuani"
+    ],
+    [
+     "T",
+     "Abel Hernández",
+     "abel hernandez"
+    ],
+    [
+     "C",
+     "Matías Viña",
+     "vina"
+    ],
+    [
+     "C",
+     "Walter Pandiani",
+     "el rifle pandiani",
+     "pandiani"
+    ],
+    [
+     "C",
+     "Gonzalo Sorondo",
+     "sorondo"
+    ],
+    [
+     "C",
+     "Guillermo Varela"
+    ]
+   ],
+   "fuente": "Uruguayos en la Premier 1992-2026; la IA valida otros casos",
+   "dia": 27
+  },
+  {
+   "id": "clubes_ronaldinho",
+   "q": "Clubes en los que jugó Ronaldinho",
+   "r": [
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "H",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "H",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "T",
+     "Grêmio",
+     "gremio"
+    ],
+    [
+     "T",
+     "Flamengo"
+    ],
+    [
+     "T",
+     "Atlético Mineiro",
+     "atletico mineiro",
+     "galo"
+    ],
+    [
+     "C",
+     "Fluminense"
+    ],
+    [
+     "D",
+     "Querétaro",
+     "queretaro"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Trayectoria de Ronaldinho (1998-2015)",
+   "dia": 27
   }
  ]
 }
