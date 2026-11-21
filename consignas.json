@@ -24015,6 +24015,712 @@
    "tipo": "club",
    "fuente": "Trayectoria de Ronaldinho (1998-2015)",
    "dia": 27
+  },
+  {
+   "id": "cien_goles_premier",
+   "q": "Jugadores que hayan marcado 100 o más goles en la Premier League",
+   "r": [
+    [
+     "H",
+     "Alan Shearer",
+     "shearer"
+    ],
+    [
+     "H",
+     "Harry Kane",
+     "kane"
+    ],
+    [
+     "H",
+     "Wayne Rooney",
+     "rooney"
+    ],
+    [
+     "H",
+     "Mohamed Salah",
+     "mo salah"
+    ],
+    [
+     "H",
+     "Sergio Agüero",
+     "kun aguero",
+     "kun"
+    ],
+    [
+     "H",
+     "Thierry Henry",
+     "henry"
+    ],
+    [
+     "H",
+     "Frank Lampard",
+     "lampard"
+    ],
+    [
+     "H",
+     "Erling Haaland",
+     "haaland"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Didier Drogba",
+     "drogba"
+    ],
+    [
+     "H",
+     "Steven Gerrard",
+     "gerrard"
+    ],
+    [
+     "T",
+     "Andy Cole",
+     "cole"
+    ],
+    [
+     "T",
+     "Robbie Fowler",
+     "fowler"
+    ],
+    [
+     "T",
+     "Jermain Defoe",
+     "defoe"
+    ],
+    [
+     "T",
+     "Michael Owen",
+     "owen"
+    ],
+    [
+     "T",
+     "Jamie Vardy",
+     "vardy"
+    ],
+    [
+     "T",
+     "Robin van Persie",
+     "van persie"
+    ],
+    [
+     "T",
+     "Son Heung-min",
+     "son"
+    ],
+    [
+     "T",
+     "Raheem Sterling",
+     "sterling"
+    ],
+    [
+     "T",
+     "Romelu Lukaku",
+     "lukaku"
+    ],
+    [
+     "T",
+     "Sadio Mané",
+     "mane"
+    ],
+    [
+     "T",
+     "Nicolas Anelka",
+     "anelka"
+    ],
+    [
+     "T",
+     "Jimmy Floyd Hasselbaink",
+     "hasselbaink"
+    ],
+    [
+     "T",
+     "Ryan Giggs",
+     "giggs"
+    ],
+    [
+     "T",
+     "Paul Scholes",
+     "scholes"
+    ],
+    [
+     "T",
+     "Peter Crouch",
+     "crouch"
+    ],
+    [
+     "T",
+     "Teddy Sheringham",
+     "sheringham"
+    ],
+    [
+     "T",
+     "Robbie Keane",
+     "keane"
+    ],
+    [
+     "C",
+     "Les Ferdinand",
+     "sir les"
+    ],
+    [
+     "C",
+     "Dwight Yorke",
+     "yorke"
+    ],
+    [
+     "C",
+     "Ian Wright"
+    ],
+    [
+     "C",
+     "Emile Heskey",
+     "heskey"
+    ],
+    [
+     "C",
+     "Darren Bent"
+    ],
+    [
+     "C",
+     "Matt Le Tissier",
+     "le tissier"
+    ],
+    [
+     "D",
+     "Dion Dublin",
+     "dublin"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Club de los 100 de la Premier (35 jugadores): https://en.wikipedia.org/wiki/List_of_footballers_with_100_or_more_Premier_League_goals",
+   "dia": 28
+  },
+  {
+   "id": "sevilla_real_madrid",
+   "q": "Jugadores que hayan jugado en el Sevilla y en el Real Madrid",
+   "r": [
+    [
+     "H",
+     "Sergio Ramos"
+    ],
+    [
+     "H",
+     "Isco"
+    ],
+    [
+     "H",
+     "Javier Hernández",
+     "chicharito"
+    ],
+    [
+     "T",
+     "José Antonio Reyes",
+     "reyes"
+    ],
+    [
+     "T",
+     "Julio Baptista",
+     "la bestia",
+     "baptista"
+    ],
+    [
+     "T",
+     "Diego López"
+    ],
+    [
+     "T",
+     "Mariano Díaz",
+     "mariano"
+    ],
+    [
+     "T",
+     "Sergio Reguilón",
+     "reguilon"
+    ],
+    [
+     "T",
+     "Iván Zamorano",
+     "bam bam zamorano",
+     "zamorano"
+    ],
+    [
+     "T",
+     "Davor Šuker",
+     "suker"
+    ]
+   ],
+   "fuente": "Planteles de Sevilla y Real Madrid; la IA valida otros casos",
+   "dia": 28
+  },
+  {
+   "id": "arqueros_campeones_champions",
+   "q": "Arqueros que hayan jugado una final de Champions ganada desde el año 2000",
+   "r": [
+    [
+     "H",
+     "Iker Casillas",
+     "san iker"
+    ],
+    [
+     "H",
+     "Manuel Neuer"
+    ],
+    [
+     "H",
+     "Thibaut Courtois"
+    ],
+    [
+     "H",
+     "Gianluigi Donnarumma",
+     "donnarumma"
+    ],
+    [
+     "H",
+     "Keylor Navas",
+     "keylor"
+    ],
+    [
+     "H",
+     "Alisson Becker",
+     "alisson"
+    ],
+    [
+     "H",
+     "Víctor Valdés",
+     "victor valdes",
+     "valdes"
+    ],
+    [
+     "H",
+     "Marc-André ter Stegen",
+     "ter stegen"
+    ],
+    [
+     "T",
+     "Petr Čech",
+     "petr cech",
+     "cech"
+    ],
+    [
+     "T",
+     "Edwin van der Sar",
+     "van der sar"
+    ],
+    [
+     "T",
+     "Oliver Kahn"
+    ],
+    [
+     "T",
+     "Dida"
+    ],
+    [
+     "T",
+     "Júlio César",
+     "julio cesar"
+    ],
+    [
+     "T",
+     "Ederson"
+    ],
+    [
+     "T",
+     "Édouard Mendy",
+     "edouard mendy"
+    ],
+    [
+     "T",
+     "Jerzy Dudek",
+     "dudek"
+    ],
+    [
+     "C",
+     "Vítor Baía",
+     "vitor baia"
+    ],
+    [
+     "C",
+     "César Sánchez"
+    ],
+    [
+     "C",
+     "Matvey Safonov",
+     "safonov"
+    ]
+   ],
+   "completa": true,
+   "fuente": "Finales 2000-2026 (2002: César y Casillas; 2026: Safonov en el PSG): https://www.si.com/soccer/psg-vs-arsenal-confirmed-lineups-champions-league-final-5-30-26",
+   "dia": 28
+  },
+  {
+   "id": "colombianos_premier",
+   "q": "Colombianos que hayan jugado en la Premier League",
+   "r": [
+    [
+     "H",
+     "Luis Díaz",
+     "lucho diaz"
+    ],
+    [
+     "H",
+     "James Rodríguez",
+     "james"
+    ],
+    [
+     "H",
+     "Radamel Falcao",
+     "el tigre falcao",
+     "falcao"
+    ],
+    [
+     "H",
+     "Juan Cuadrado",
+     "cuadrado"
+    ],
+    [
+     "H",
+     "Yerry Mina",
+     "mina"
+    ],
+    [
+     "T",
+     "Dávinson Sánchez",
+     "davinson"
+    ],
+    [
+     "T",
+     "Jhon Durán",
+     "jhon duran"
+    ],
+    [
+     "T",
+     "Jefferson Lerma",
+     "lerma"
+    ],
+    [
+     "T",
+     "Daniel Muñoz",
+     "muñoz"
+    ],
+    [
+     "T",
+     "Faustino Asprilla",
+     "tino asprilla",
+     "asprilla"
+    ],
+    [
+     "T",
+     "Luis Sinisterra",
+     "sinisterra"
+    ],
+    [
+     "T",
+     "Jhon Arias",
+     "arias"
+    ],
+    [
+     "C",
+     "Hugo Rodallega",
+     "rodallega"
+    ],
+    [
+     "C",
+     "Carlos Sánchez",
+     "la roca"
+    ],
+    [
+     "C",
+     "Juan Pablo Ángel",
+     "juan pablo angel"
+    ],
+    [
+     "C",
+     "Steven Alzate",
+     "alzate"
+    ]
+   ],
+   "fuente": "Colombianos en la Premier 1992-2026; la IA valida otros casos",
+   "dia": 28
+  },
+  {
+   "id": "penales_final_champions",
+   "q": "Clubes que hayan ganado una final de Champions (o Copa de Europa) por penales",
+   "r": [
+    [
+     "H",
+     "Liverpool"
+    ],
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Chelsea"
+    ],
+    [
+     "H",
+     "Manchester United",
+     "united"
+    ],
+    [
+     "H",
+     "Milan",
+     "ac milan"
+    ],
+    [
+     "H",
+     "Bayern Múnich",
+     "bayern munich",
+     "bayern"
+    ],
+    [
+     "T",
+     "Juventus",
+     "juve"
+    ],
+    [
+     "T",
+     "PSG",
+     "paris saint germain",
+     "paris"
+    ],
+    [
+     "C",
+     "PSV",
+     "psv eindhoven"
+    ],
+    [
+     "C",
+     "Estrella Roja",
+     "estrella roja de belgrado",
+     "red star"
+    ],
+    [
+     "C",
+     "Steaua de Bucarest",
+     "steaua",
+     "fcsb"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Finales definidas por penales 1984-2026 (PSG ante Arsenal en 2026)",
+   "dia": 28
+  },
+  {
+   "id": "traspasos_100_millones",
+   "q": "Jugadores traspasados por 100 millones de euros o más",
+   "r": [
+    [
+     "H",
+     "Neymar",
+     "ney"
+    ],
+    [
+     "H",
+     "Kylian Mbappé",
+     "mbappe"
+    ],
+    [
+     "H",
+     "Cristiano Ronaldo",
+     "cristiano",
+     "cr7"
+    ],
+    [
+     "H",
+     "Gareth Bale",
+     "bale"
+    ],
+    [
+     "H",
+     "Paul Pogba",
+     "pogba"
+    ],
+    [
+     "H",
+     "Enzo Fernández",
+     "enzo"
+    ],
+    [
+     "H",
+     "Jude Bellingham",
+     "bellingham"
+    ],
+    [
+     "H",
+     "Eden Hazard",
+     "hazard"
+    ],
+    [
+     "T",
+     "Philippe Coutinho",
+     "coutinho"
+    ],
+    [
+     "T",
+     "João Félix",
+     "joao felix"
+    ],
+    [
+     "T",
+     "Antoine Griezmann"
+    ],
+    [
+     "T",
+     "Ousmane Dembélé",
+     "dembele"
+    ],
+    [
+     "T",
+     "Declan Rice",
+     "rice"
+    ],
+    [
+     "T",
+     "Moisés Caicedo",
+     "caicedo"
+    ],
+    [
+     "T",
+     "Jack Grealish",
+     "grealish"
+    ],
+    [
+     "T",
+     "Romelu Lukaku",
+     "lukaku"
+    ],
+    [
+     "T",
+     "Florian Wirtz",
+     "wirtz"
+    ],
+    [
+     "T",
+     "Alexander Isak",
+     "isak"
+    ],
+    [
+     "C",
+     "Bradley Barcola",
+     "barcola"
+    ],
+    [
+     "C",
+     "Morgan Rogers"
+    ],
+    [
+     "C",
+     "Elliot Anderson"
+    ],
+    [
+     "C",
+     "Yan Diomande",
+     "diomande"
+    ]
+   ],
+   "fuente": "Traspasos de 100 M€ o más hasta 2026 (verano 2026: https://www.fichajes.net/noticias/verano-100-millones-20260903.html); la IA valida otros casos",
+   "dia": 28
+  },
+  {
+   "id": "campeones_copa_del_rey",
+   "q": "Clubes que hayan ganado la Copa del Rey",
+   "r": [
+    [
+     "H",
+     "Barcelona",
+     "barca"
+    ],
+    [
+     "H",
+     "Athletic Club",
+     "athletic de bilbao",
+     "athletic"
+    ],
+    [
+     "H",
+     "Real Madrid"
+    ],
+    [
+     "H",
+     "Atlético de Madrid",
+     "atletico de madrid",
+     "atletico"
+    ],
+    [
+     "H",
+     "Valencia"
+    ],
+    [
+     "H",
+     "Sevilla"
+    ],
+    [
+     "T",
+     "Real Betis",
+     "betis"
+    ],
+    [
+     "T",
+     "Real Sociedad"
+    ],
+    [
+     "T",
+     "Real Zaragoza",
+     "zaragoza"
+    ],
+    [
+     "T",
+     "Espanyol",
+     "espanol"
+    ],
+    [
+     "T",
+     "Deportivo La Coruña",
+     "deportivo",
+     "depor"
+    ],
+    [
+     "T",
+     "Mallorca",
+     "real mallorca"
+    ],
+    [
+     "C",
+     "Real Unión",
+     "real union",
+     "racing de irun"
+    ],
+    [
+     "D",
+     "Arenas Club",
+     "arenas de getxo",
+     "arenas"
+    ],
+    [
+     "G",
+     "Club Ciclista de San Sebastián",
+     "club ciclista"
+    ],
+    [
+     "G",
+     "Club Vizcaya",
+     "vizcaya"
+    ]
+   ],
+   "completa": true,
+   "equipo": true,
+   "tipo": "club",
+   "fuente": "Palmarés de la Copa del Rey 1903-2026 (Real Sociedad campeona 2026): https://www.elpais.com.co/deportes/real-sociedad-se-consagra-campeon-de-la-copa-del-rey-al-vencer-en-los-penales-al-atletico-de-madrid-1850.html",
+   "dia": 28
   }
  ]
 }
